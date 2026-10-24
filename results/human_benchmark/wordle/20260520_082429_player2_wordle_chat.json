@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_36",
+  "model": "human:player2",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "бекас",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: пикет",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"п\" - серая буква\n- \"и\" - серая буква\n- \"к\" - зелёная буква\n- \"е\" - жёлтая буква\n- \"т\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: секач",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"с\" - жёлтая буква\n- \"е\" - зелёная буква\n- \"к\" - зелёная буква\n- \"а\" - зелёная буква\n- \"ч\" - серая буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: бекас",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"б\" - зелёная буква\n- \"е\" - зелёная буква\n- \"к\" - зелёная буква\n- \"а\" - зелёная буква\n- \"с\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

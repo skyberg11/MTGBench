@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123354",
+    "model_name": "human:player7",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player7"
+  },
+  "statistics": {
+    "model_name": "human:player7",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 1420.1251499652863,
+    "avg_duration_seconds": 1420.1251499652863
+  },
+  "games": [
+    {
+      "game_id": "alias_32",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Вальтер Гропиус",
+      "duration_seconds": 1420.1251499652863,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: этот человек сейчас жив?",
+          "player_answer": "этот человек сейчас жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: умер до 20 века?",
+          "player_answer": "умер до 20 века?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: умер до 25 лет назад?",
+          "player_answer": "умер до 25 лет назад?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: деятель искусства?",
+          "player_answer": "деятель искусства?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: имел отношение к музыке?",
+          "player_answer": "имел отношение к музыке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: художник?",
+          "player_answer": "художник?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: картины писал?",
+          "player_answer": "картины писал?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: красками рисовал работы?",
+          "player_answer": "красками рисовал работы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: имел отношение к кино?",
+          "player_answer": "имел отношение к кино?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: его работы были на выставках?",
+          "player_answer": "его работы были на выставках?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: русский?",
+          "player_answer": "русский?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: а его имени или фамилии есть буква к?",
+          "player_answer": "а его имени или фамилии есть буква к?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он англоговорящий?",
+          "player_answer": "он англоговорящий?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: японец?",
+          "player_answer": "японец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: испанец?",
+          "player_answer": "испанец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: мужчина?",
+          "player_answer": "мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: есть б в имени или фамилии?",
+          "player_answer": "есть б в имени или фамилии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: скульптор?",
+          "player_answer": "скульптор?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: украинец?",
+          "player_answer": "украинец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: итальянец?",
+          "player_answer": "итальянец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: фотограф?",
+          "player_answer": "фотограф?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: из стран южной америки?",
+          "player_answer": "из стран южной америки?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: из европы?",
+          "player_answer": "из европы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: Руссо?",
+          "player_answer": "Руссо?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: Фрёлих?",
+          "player_answer": "Фрёлих?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: француз или немец?",
+          "player_answer": "француз или немец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: Ян Вандерхувен?",
+          "player_answer": "Ян Вандерхувен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: Димитриадис или кто-то из Греции?",
+          "player_answer": "Димитриадис или кто-то из Греции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: он известен по имени и фамилии а не под псевдонимом?",
+          "player_answer": "он известен по имени и фамилии а не под псевдонимом?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: Жуан Силва?",
+          "player_answer": "Жуан Силва?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Architects/ru/ValterGropius"
+      }
+    }
+  ],
+  "debug": []
+}

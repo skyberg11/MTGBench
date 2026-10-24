@@ -1,0 +1,82 @@
+{
+  "episode_id": "cities_40",
+  "model": "human:player3",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 5,
+  "target": "Надворная",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Надворная\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ярославль",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лешно.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гаага.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астрахань",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новара.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анадырь",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Редмонд.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Детроит",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Город 'Детроит' не найден в базе. Игра окончена.",
+      "turn": 5
+    }
+  ],
+  "metadata": {
+    "start_city": "Надворная",
+    "current_letter": "д",
+    "last_opponent_city": "Редмонд",
+    "total_cities_used": 9,
+    "used_cities": [
+      "гаага",
+      "ярославль",
+      "новара",
+      "лешно",
+      "оренбург",
+      "анадырь",
+      "астрахань",
+      "редмонд",
+      "надворная"
+    ]
+  }
+}

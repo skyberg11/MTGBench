@@ -1,0 +1,4566 @@
+{
+  "schema_version": "1.0",
+  "game": "wordle",
+  "model": "qwen3.5-35b-a3b",
+  "language": "en",
+  "mode": "reasoning",
+  "episodes": [
+    {
+      "id": "wordle_81",
+      "status": "won",
+      "won": true,
+      "turns": 20,
+      "target": "hijab",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ACORN",
+          "parsed_action": "Answer: ACORN",
+          "feedback": "- \"a\" - yellow letter\n- \"c\" - gray letter\n- \"o\" - gray letter\n- \"r\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: MAMBA",
+          "parsed_action": "Answer: MAMBA",
+          "feedback": "- \"m\" - gray letter\n- \"a\" - yellow letter\n- \"m\" - gray letter\n- \"b\" - yellow letter\n- \"a\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PUBAD",
+          "parsed_action": "Answer: PUBAD",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: PIBAY",
+          "parsed_action": "Answer: PIBAY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: BABAL",
+          "parsed_action": "Answer: BABAL",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: PABAL",
+          "parsed_action": "Answer: PABAL",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: BABKA",
+          "parsed_action": "Answer: BABKA",
+          "feedback": "- \"b\" - yellow letter\n- \"a\" - yellow letter\n- \"b\" - yellow letter\n- \"k\" - gray letter\n- \"a\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: HUVAB",
+          "parsed_action": "Answer: HUVAB",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 10,
+          "model_response": "Answer: DAVAB",
+          "parsed_action": "Answer: DAVAB",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 11,
+          "model_response": "Answer: BABEL",
+          "parsed_action": "Answer: BABEL",
+          "feedback": "- \"b\" - yellow letter\n- \"a\" - yellow letter\n- \"b\" - yellow letter\n- \"e\" - gray letter\n- \"l\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 12,
+          "model_response": "Answer: GABBY",
+          "parsed_action": "Answer: GABBY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 13,
+          "model_response": "Answer: GIBAY",
+          "parsed_action": "Answer: GIBAY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 14,
+          "model_response": "Answer: GIBBA",
+          "parsed_action": "Answer: GIBBA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 15,
+          "model_response": "Answer: CABIN",
+          "parsed_action": "Answer: CABIN",
+          "feedback": "- \"c\" - gray letter\n- \"a\" - yellow letter\n- \"b\" - yellow letter\n- \"i\" - yellow letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 16,
+          "model_response": "Answer: HIDAB",
+          "parsed_action": "Answer: HIDAB",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 17,
+          "model_response": "Answer: DIBAG",
+          "parsed_action": "Answer: DIBAG",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 18,
+          "model_response": "Answer: BAHAI",
+          "parsed_action": "Answer: BAHAI",
+          "feedback": "- \"b\" - yellow letter\n- \"a\" - yellow letter\n- \"h\" - yellow letter\n- \"a\" - green letter\n- \"i\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 19,
+          "model_response": "Answer: HBIAB",
+          "parsed_action": "Answer: HBIAB",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 20,
+          "model_response": "Answer: HIJAB",
+          "parsed_action": "Answer: HIJAB",
+          "feedback": "- \"h\" - green letter\n- \"i\" - green letter\n- \"j\" - green letter\n- \"a\" - green letter\n- \"b\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_82",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "ponce",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: PHONE",
+          "parsed_action": "Answer: PHONE",
+          "feedback": "- \"p\" - green letter\n- \"h\" - gray letter\n- \"o\" - yellow letter\n- \"n\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: PONCE",
+          "parsed_action": "Answer: PONCE",
+          "feedback": "- \"p\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_83",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "savoy",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SPRAY",
+          "parsed_action": "Answer: SPRAY",
+          "feedback": "- \"s\" - green letter\n- \"p\" - gray letter\n- \"r\" - gray letter\n- \"a\" - yellow letter\n- \"y\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SANDY",
+          "parsed_action": "Answer: SANDY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SAVVY",
+          "parsed_action": "Answer: SAVVY",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"v\" - green letter\n- \"v\" - yellow letter\n- \"y\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: SAVOY",
+          "parsed_action": "Answer: SAVOY",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"v\" - green letter\n- \"o\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_84",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "larva",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CORAL",
+          "parsed_action": "Answer: CORAL",
+          "feedback": "- \"c\" - gray letter\n- \"o\" - gray letter\n- \"r\" - green letter\n- \"a\" - yellow letter\n- \"l\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: LARVA",
+          "parsed_action": "Answer: LARVA",
+          "feedback": "- \"l\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"v\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_85",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "xenon",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: MONEY",
+          "parsed_action": "Answer: MONEY",
+          "feedback": "- \"m\" - gray letter\n- \"o\" - yellow letter\n- \"n\" - green letter\n- \"e\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: VENOM",
+          "parsed_action": "Answer: VENOM",
+          "feedback": "- \"v\" - gray letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"o\" - green letter\n- \"m\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PENON",
+          "parsed_action": "Answer: PENON",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: HENOR",
+          "parsed_action": "Answer: HENOR",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: XENON",
+          "parsed_action": "Answer: XENON",
+          "feedback": "- \"x\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_86",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "coven",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ORDER",
+          "parsed_action": "Answer: ORDER",
+          "feedback": "- \"o\" - yellow letter\n- \"r\" - gray letter\n- \"d\" - gray letter\n- \"e\" - green letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: MONEY",
+          "parsed_action": "Answer: MONEY",
+          "feedback": "- \"m\" - gray letter\n- \"o\" - green letter\n- \"n\" - yellow letter\n- \"e\" - green letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: COVEN",
+          "parsed_action": "Answer: COVEN",
+          "feedback": "- \"c\" - green letter\n- \"o\" - green letter\n- \"v\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_87",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "heron",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CIDER",
+          "parsed_action": "Answer: CIDER",
+          "feedback": "- \"c\" - gray letter\n- \"i\" - gray letter\n- \"d\" - gray letter\n- \"e\" - yellow letter\n- \"r\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: MERRY",
+          "parsed_action": "Answer: MERRY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: HERON",
+          "parsed_action": "Answer: HERON",
+          "feedback": "- \"h\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_88",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "beryl",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BLEED",
+          "parsed_action": "Answer: BLEED",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: LEMON",
+          "parsed_action": "Answer: LEMON",
+          "feedback": "- \"l\" - yellow letter\n- \"e\" - green letter\n- \"m\" - gray letter\n- \"o\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: WHEEL",
+          "parsed_action": "Answer: WHEEL",
+          "feedback": "- \"w\" - gray letter\n- \"h\" - gray letter\n- \"e\" - yellow letter\n- \"e\" - yellow letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: BEVEL",
+          "parsed_action": "Answer: BEVEL",
+          "feedback": "- \"b\" - green letter\n- \"e\" - green letter\n- \"v\" - gray letter\n- \"e\" - yellow letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: BERYL",
+          "parsed_action": "Answer: BERYL",
+          "feedback": "- \"b\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter\n- \"y\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_89",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "stoic",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: CRANE",
+          "parsed_action": "Answer: CRANE",
+          "feedback": "- \"c\" - yellow letter\n- \"r\" - gray letter\n- \"a\" - gray letter\n- \"n\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: STOCK",
+          "parsed_action": "Answer: STOCK",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"o\" - green letter\n- \"c\" - yellow letter\n- \"k\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: STOIC",
+          "parsed_action": "Answer: STOIC",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"o\" - green letter\n- \"i\" - green letter\n- \"c\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_90",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "speck",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SCREW",
+          "parsed_action": "Answer: SCREW",
+          "feedback": "- \"s\" - green letter\n- \"c\" - yellow letter\n- \"r\" - gray letter\n- \"e\" - yellow letter\n- \"w\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SPECK",
+          "parsed_action": "Answer: SPECK",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"e\" - green letter\n- \"c\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_91",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "towel",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: MOTEL",
+          "parsed_action": "Answer: MOTEL",
+          "feedback": "- \"m\" - gray letter\n- \"o\" - green letter\n- \"t\" - yellow letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: TOWEL",
+          "parsed_action": "Answer: TOWEL",
+          "feedback": "- \"t\" - green letter\n- \"o\" - green letter\n- \"w\" - green letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_92",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "abbey",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: CRANE",
+          "parsed_action": "Answer: CRANE",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - gray letter\n- \"a\" - yellow letter\n- \"n\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SWEAT",
+          "parsed_action": "Answer: SWEAT",
+          "feedback": "- \"s\" - gray letter\n- \"w\" - gray letter\n- \"e\" - yellow letter\n- \"a\" - yellow letter\n- \"t\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: LEMMA",
+          "parsed_action": "Answer: LEMMA",
+          "feedback": "- \"l\" - gray letter\n- \"e\" - yellow letter\n- \"m\" - gray letter\n- \"m\" - gray letter\n- \"a\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: AIDED",
+          "parsed_action": "Answer: AIDED",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: ADIEU",
+          "parsed_action": "Answer: ADIEU",
+          "feedback": "- \"a\" - green letter\n- \"d\" - gray letter\n- \"i\" - gray letter\n- \"e\" - green letter\n- \"u\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: ABBEY",
+          "parsed_action": "Answer: ABBEY",
+          "feedback": "- \"a\" - green letter\n- \"b\" - green letter\n- \"b\" - green letter\n- \"e\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_93",
+      "status": "won",
+      "won": true,
+      "turns": 2,
+      "target": "mouse",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: MOUSE",
+          "parsed_action": "Answer: MOUSE",
+          "feedback": "- \"m\" - green letter\n- \"o\" - green letter\n- \"u\" - green letter\n- \"s\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_94",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "robot",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: FRUIT",
+          "parsed_action": "Answer: FRUIT",
+          "feedback": "- \"f\" - gray letter\n- \"r\" - yellow letter\n- \"u\" - gray letter\n- \"i\" - gray letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: WORTH",
+          "parsed_action": "Answer: WORTH",
+          "feedback": "- \"w\" - gray letter\n- \"o\" - green letter\n- \"r\" - yellow letter\n- \"t\" - yellow letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: ROBOT",
+          "parsed_action": "Answer: ROBOT",
+          "feedback": "- \"r\" - green letter\n- \"o\" - green letter\n- \"b\" - green letter\n- \"o\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_95",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "minus",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CRISP",
+          "parsed_action": "Answer: CRISP",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - gray letter\n- \"i\" - yellow letter\n- \"s\" - yellow letter\n- \"p\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: MINUS",
+          "parsed_action": "Answer: MINUS",
+          "feedback": "- \"m\" - green letter\n- \"i\" - green letter\n- \"n\" - green letter\n- \"u\" - green letter\n- \"s\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_96",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "wagon",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ACORN",
+          "parsed_action": "Answer: ACORN",
+          "feedback": "- \"a\" - yellow letter\n- \"c\" - gray letter\n- \"o\" - yellow letter\n- \"r\" - gray letter\n- \"n\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: WOMAN",
+          "parsed_action": "Answer: WOMAN",
+          "feedback": "- \"w\" - green letter\n- \"o\" - yellow letter\n- \"m\" - gray letter\n- \"a\" - yellow letter\n- \"n\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: WAGON",
+          "parsed_action": "Answer: WAGON",
+          "feedback": "- \"w\" - green letter\n- \"a\" - green letter\n- \"g\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_97",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "wreck",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: RENEW",
+          "parsed_action": "Answer: RENEW",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: EPOCH",
+          "parsed_action": "Answer: EPOCH",
+          "feedback": "- \"e\" - yellow letter\n- \"p\" - gray letter\n- \"o\" - gray letter\n- \"c\" - green letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: WRECK",
+          "parsed_action": "Answer: WRECK",
+          "feedback": "- \"w\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"c\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_98",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "blend",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - green letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CLERK",
+          "parsed_action": "Answer: CLERK",
+          "feedback": "- \"c\" - gray letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"r\" - gray letter\n- \"k\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BLEND",
+          "parsed_action": "Answer: BLEND",
+          "feedback": "- \"b\" - green letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"d\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_99",
+      "status": "won",
+      "won": true,
+      "turns": 8,
+      "target": "sixty",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: CRANE",
+          "parsed_action": "Answer: CRANE",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - gray letter\n- \"a\" - gray letter\n- \"n\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SPOUT",
+          "parsed_action": "Answer: SPOUT",
+          "feedback": "- \"s\" - green letter\n- \"p\" - gray letter\n- \"o\" - gray letter\n- \"u\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SMITH",
+          "parsed_action": "Answer: SMITH",
+          "feedback": "- \"s\" - green letter\n- \"m\" - gray letter\n- \"i\" - yellow letter\n- \"t\" - green letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SILTY",
+          "parsed_action": "Answer: SILTY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: SHIFT",
+          "parsed_action": "Answer: SHIFT",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"i\" - yellow letter\n- \"f\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: SILTS",
+          "parsed_action": "Answer: SILTS",
+          "feedback": "- \"s\" - green letter\n- \"i\" - green letter\n- \"l\" - gray letter\n- \"t\" - green letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: SISTY",
+          "parsed_action": "Answer: SISTY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: SIXTY",
+          "parsed_action": "Answer: SIXTY",
+          "feedback": "- \"s\" - green letter\n- \"i\" - green letter\n- \"x\" - green letter\n- \"t\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_100",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "haven",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BREAD",
+          "parsed_action": "Answer: BREAD",
+          "feedback": "- \"b\" - gray letter\n- \"r\" - gray letter\n- \"e\" - yellow letter\n- \"a\" - yellow letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: HEART",
+          "parsed_action": "Answer: HEART",
+          "feedback": "- \"h\" - green letter\n- \"e\" - yellow letter\n- \"a\" - yellow letter\n- \"r\" - gray letter\n- \"t\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: HAVEN",
+          "parsed_action": "Answer: HAVEN",
+          "feedback": "- \"h\" - green letter\n- \"a\" - green letter\n- \"v\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_61",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "flank",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: PLANK",
+          "parsed_action": "Answer: PLANK",
+          "feedback": "- \"p\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"n\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BLANK",
+          "parsed_action": "Answer: BLANK",
+          "feedback": "- \"b\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"n\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: CLANK",
+          "parsed_action": "Answer: CLANK",
+          "feedback": "- \"c\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"n\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: FLANK",
+          "parsed_action": "Answer: FLANK",
+          "feedback": "- \"f\" - green letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"n\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_62",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "ounce",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: PHONE",
+          "parsed_action": "Answer: PHONE",
+          "feedback": "- \"p\" - gray letter\n- \"h\" - gray letter\n- \"o\" - yellow letter\n- \"n\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: NONCE",
+          "parsed_action": "Answer: NONCE",
+          "feedback": "- \"n\" - yellow letter\n- \"o\" - yellow letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: OUNCE",
+          "parsed_action": "Answer: OUNCE",
+          "feedback": "- \"o\" - green letter\n- \"u\" - green letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_63",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "stint",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SPORT",
+          "parsed_action": "Answer: SPORT",
+          "feedback": "- \"s\" - green letter\n- \"p\" - gray letter\n- \"o\" - gray letter\n- \"r\" - gray letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SHIFT",
+          "parsed_action": "Answer: SHIFT",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"i\" - green letter\n- \"f\" - gray letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: STINT",
+          "parsed_action": "Answer: STINT",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"i\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_64",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "spree",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SHINE",
+          "parsed_action": "Answer: SHINE",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"i\" - gray letter\n- \"n\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SCORE",
+          "parsed_action": "Answer: SCORE",
+          "feedback": "- \"s\" - green letter\n- \"c\" - gray letter\n- \"o\" - gray letter\n- \"r\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SPREE",
+          "parsed_action": "Answer: SPREE",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_65",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "wrath",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: COATI",
+          "parsed_action": "Answer: COATI",
+          "feedback": "- \"c\" - gray letter\n- \"o\" - gray letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"i\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: GRAFT",
+          "parsed_action": "Answer: GRAFT",
+          "feedback": "- \"g\" - gray letter\n- \"r\" - green letter\n- \"a\" - green letter\n- \"f\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: WRATH",
+          "parsed_action": "Answer: WRATH",
+          "feedback": "- \"w\" - green letter\n- \"r\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_66",
+      "status": "won",
+      "won": true,
+      "turns": 9,
+      "target": "negro",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ORDER",
+          "parsed_action": "Answer: ORDER",
+          "feedback": "- \"o\" - yellow letter\n- \"r\" - yellow letter\n- \"d\" - gray letter\n- \"e\" - yellow letter\n- \"r\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: REROM",
+          "parsed_action": "Answer: REROM",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PORED",
+          "parsed_action": "Answer: PORED",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: PORED",
+          "parsed_action": "Answer: PORED",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: HERON",
+          "parsed_action": "Answer: HERON",
+          "feedback": "- \"h\" - gray letter\n- \"e\" - green letter\n- \"r\" - yellow letter\n- \"o\" - yellow letter\n- \"n\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: RENOY",
+          "parsed_action": "Answer: RENOY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: NEONS",
+          "parsed_action": "Answer: NEONS",
+          "feedback": "- \"n\" - green letter\n- \"e\" - green letter\n- \"o\" - yellow letter\n- \"n\" - yellow letter\n- \"s\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: NEGRO",
+          "parsed_action": "Answer: NEGRO",
+          "feedback": "- \"n\" - green letter\n- \"e\" - green letter\n- \"g\" - green letter\n- \"r\" - green letter\n- \"o\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_67",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "colon",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BLIND",
+          "parsed_action": "Answer: BLIND",
+          "feedback": "- \"b\" - gray letter\n- \"l\" - yellow letter\n- \"i\" - gray letter\n- \"n\" - yellow letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: COLON",
+          "parsed_action": "Answer: COLON",
+          "feedback": "- \"c\" - green letter\n- \"o\" - green letter\n- \"l\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_68",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "venom",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BERRY",
+          "parsed_action": "Answer: BERRY",
+          "feedback": "- \"b\" - gray letter\n- \"e\" - green letter\n- \"r\" - gray letter\n- \"r\" - gray letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: DENIM",
+          "parsed_action": "Answer: DENIM",
+          "feedback": "- \"d\" - gray letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"i\" - gray letter\n- \"m\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: VENOM",
+          "parsed_action": "Answer: VENOM",
+          "feedback": "- \"v\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"o\" - green letter\n- \"m\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_69",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "titan",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: PARTY",
+          "parsed_action": "Answer: PARTY",
+          "feedback": "- \"p\" - gray letter\n- \"a\" - yellow letter\n- \"r\" - gray letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: TITAN",
+          "parsed_action": "Answer: TITAN",
+          "feedback": "- \"t\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"a\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_70",
+      "status": "won",
+      "won": true,
+      "turns": 9,
+      "target": "fetus",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: TONES",
+          "parsed_action": "Answer: TONES",
+          "feedback": "- \"t\" - yellow letter\n- \"o\" - gray letter\n- \"n\" - gray letter\n- \"e\" - yellow letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: TRUSS",
+          "parsed_action": "Answer: TRUSS",
+          "feedback": "- \"t\" - yellow letter\n- \"r\" - gray letter\n- \"u\" - yellow letter\n- \"s\" - yellow letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: TRUES",
+          "parsed_action": "Answer: TRUES",
+          "feedback": "- \"t\" - yellow letter\n- \"r\" - gray letter\n- \"u\" - yellow letter\n- \"e\" - yellow letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: STEUS",
+          "parsed_action": "Answer: STEUS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: TRUES",
+          "parsed_action": "Answer: TRUES",
+          "feedback": "- \"t\" - yellow letter\n- \"r\" - gray letter\n- \"u\" - yellow letter\n- \"e\" - yellow letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: STEPS",
+          "parsed_action": "Answer: STEPS",
+          "feedback": "- \"s\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - yellow letter\n- \"p\" - gray letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: ESTUS",
+          "parsed_action": "Answer: ESTUS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: FETUS",
+          "parsed_action": "Answer: FETUS",
+          "feedback": "- \"f\" - green letter\n- \"e\" - green letter\n- \"t\" - green letter\n- \"u\" - green letter\n- \"s\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_71",
+      "status": "won",
+      "won": true,
+      "turns": 7,
+      "target": "galea",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: MEDAL",
+          "parsed_action": "Answer: MEDAL",
+          "feedback": "- \"m\" - gray letter\n- \"e\" - yellow letter\n- \"d\" - gray letter\n- \"a\" - yellow letter\n- \"l\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: LAYER",
+          "parsed_action": "Answer: LAYER",
+          "feedback": "- \"l\" - yellow letter\n- \"a\" - green letter\n- \"y\" - gray letter\n- \"e\" - green letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PALEO",
+          "parsed_action": "Answer: PALEO",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: CALEO",
+          "parsed_action": "Answer: CALEO",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: GALEN",
+          "parsed_action": "Answer: GALEN",
+          "feedback": "- \"g\" - green letter\n- \"a\" - green letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: GALEA",
+          "parsed_action": "Answer: GALEA",
+          "feedback": "- \"g\" - green letter\n- \"a\" - green letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_72",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "idler",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: HOVEL",
+          "parsed_action": "Answer: HOVEL",
+          "feedback": "- \"h\" - gray letter\n- \"o\" - gray letter\n- \"v\" - gray letter\n- \"e\" - green letter\n- \"l\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: RULER",
+          "parsed_action": "Answer: RULER",
+          "feedback": "- \"r\" - yellow letter\n- \"u\" - gray letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: FILER",
+          "parsed_action": "Answer: FILER",
+          "feedback": "- \"f\" - gray letter\n- \"i\" - yellow letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: IDLER",
+          "parsed_action": "Answer: IDLER",
+          "feedback": "- \"i\" - green letter\n- \"d\" - green letter\n- \"l\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_73",
+      "status": "lost",
+      "won": false,
+      "turns": 20,
+      "target": "squib",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SCORN",
+          "parsed_action": "Answer: SCORN",
+          "feedback": "- \"s\" - green letter\n- \"c\" - gray letter\n- \"o\" - gray letter\n- \"r\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SHIPS",
+          "parsed_action": "Answer: SHIPS",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"i\" - yellow letter\n- \"p\" - gray letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SISSY",
+          "parsed_action": "Answer: SISSY",
+          "feedback": "- \"s\" - green letter\n- \"i\" - yellow letter\n- \"s\" - yellow letter\n- \"s\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: SISUS",
+          "parsed_action": "Answer: SISUS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: SUSSY",
+          "parsed_action": "Answer: SUSSY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: SUSSY",
+          "parsed_action": "Answer: SUSSY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: S I M I S",
+          "parsed_action": "Answer: S I M I S",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: SUSSY",
+          "parsed_action": "Answer: SUSSY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 10,
+          "model_response": "Answer: SISSY",
+          "parsed_action": "Answer: SISSY",
+          "feedback": "- \"s\" - green letter\n- \"i\" - yellow letter\n- \"s\" - yellow letter\n- \"s\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 11,
+          "model_response": "Answer: SWISS",
+          "parsed_action": "Answer: SWISS",
+          "feedback": "- \"s\" - green letter\n- \"w\" - gray letter\n- \"i\" - yellow letter\n- \"s\" - yellow letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 12,
+          "model_response": "Answer: SUSSI",
+          "parsed_action": "Answer: SUSSI",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 13,
+          "model_response": "Answer: SS ISS",
+          "parsed_action": "Answer: SS ISS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 14,
+          "model_response": "Answer: SUSUS",
+          "parsed_action": "Answer: SUSUS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 15,
+          "model_response": "Answer: SUSSI",
+          "parsed_action": "Answer: SUSSI",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 16,
+          "model_response": "Answer: SITES",
+          "parsed_action": "Answer: SITES",
+          "feedback": "- \"s\" - green letter\n- \"i\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 17,
+          "model_response": "Answer: SKIMS",
+          "parsed_action": "Answer: SKIMS",
+          "feedback": "- \"s\" - green letter\n- \"k\" - gray letter\n- \"i\" - yellow letter\n- \"m\" - gray letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 18,
+          "model_response": "Answer: SSINE",
+          "parsed_action": "Answer: SSINE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 19,
+          "model_response": "Answer: SIBIS",
+          "parsed_action": "Answer: SIBIS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 20,
+          "model_response": "Answer: SISUS",
+          "parsed_action": "Answer: SISUS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_74",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "bocce",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: DRONE",
+          "parsed_action": "Answer: DRONE",
+          "feedback": "- \"d\" - gray letter\n- \"r\" - gray letter\n- \"o\" - yellow letter\n- \"n\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: VOICE",
+          "parsed_action": "Answer: VOICE",
+          "feedback": "- \"v\" - gray letter\n- \"o\" - green letter\n- \"i\" - gray letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: MOUCE",
+          "parsed_action": "Answer: MOUCE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: POUCE",
+          "parsed_action": "Answer: POUCE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: BOCCE",
+          "parsed_action": "Answer: BOCCE",
+          "feedback": "- \"b\" - green letter\n- \"o\" - green letter\n- \"c\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_75",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "brule",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CLONE",
+          "parsed_action": "Answer: CLONE",
+          "feedback": "- \"c\" - gray letter\n- \"l\" - yellow letter\n- \"o\" - gray letter\n- \"n\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: WHILE",
+          "parsed_action": "Answer: WHILE",
+          "feedback": "- \"w\" - gray letter\n- \"h\" - gray letter\n- \"i\" - gray letter\n- \"l\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: BULGE",
+          "parsed_action": "Answer: BULGE",
+          "feedback": "- \"b\" - green letter\n- \"u\" - yellow letter\n- \"l\" - yellow letter\n- \"g\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: BURLE",
+          "parsed_action": "Answer: BURLE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: BRULE",
+          "parsed_action": "Answer: BRULE",
+          "feedback": "- \"b\" - green letter\n- \"r\" - green letter\n- \"u\" - green letter\n- \"l\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_76",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "chive",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: DRONE",
+          "parsed_action": "Answer: DRONE",
+          "feedback": "- \"d\" - gray letter\n- \"r\" - gray letter\n- \"o\" - gray letter\n- \"n\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: CHIME",
+          "parsed_action": "Answer: CHIME",
+          "feedback": "- \"c\" - green letter\n- \"h\" - green letter\n- \"i\" - green letter\n- \"m\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: CHIVE",
+          "parsed_action": "Answer: CHIVE",
+          "feedback": "- \"c\" - green letter\n- \"h\" - green letter\n- \"i\" - green letter\n- \"v\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_77",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "pinna",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: AUDIO",
+          "parsed_action": "Answer: AUDIO",
+          "feedback": "- \"a\" - yellow letter\n- \"u\" - gray letter\n- \"d\" - gray letter\n- \"i\" - yellow letter\n- \"o\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: RAINY",
+          "parsed_action": "Answer: RAINY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: CIGAR",
+          "parsed_action": "Answer: CIGAR",
+          "feedback": "- \"c\" - gray letter\n- \"i\" - green letter\n- \"g\" - gray letter\n- \"a\" - yellow letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: PIZZA",
+          "parsed_action": "Answer: PIZZA",
+          "feedback": "- \"p\" - green letter\n- \"i\" - green letter\n- \"z\" - gray letter\n- \"z\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: PINNA",
+          "parsed_action": "Answer: PINNA",
+          "feedback": "- \"p\" - green letter\n- \"i\" - green letter\n- \"n\" - green letter\n- \"n\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_79",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "yodel",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: LIVER",
+          "parsed_action": "Answer: LIVER",
+          "feedback": "- \"l\" - yellow letter\n- \"i\" - gray letter\n- \"v\" - gray letter\n- \"e\" - green letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: WHEEL",
+          "parsed_action": "Answer: WHEEL",
+          "feedback": "- \"w\" - gray letter\n- \"h\" - gray letter\n- \"e\" - yellow letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: BEZEL",
+          "parsed_action": "Answer: BEZEL",
+          "feedback": "- \"b\" - gray letter\n- \"e\" - yellow letter\n- \"z\" - gray letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: MODEL",
+          "parsed_action": "Answer: MODEL",
+          "feedback": "- \"m\" - gray letter\n- \"o\" - green letter\n- \"d\" - green letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: YODEL",
+          "parsed_action": "Answer: YODEL",
+          "feedback": "- \"y\" - green letter\n- \"o\" - green letter\n- \"d\" - green letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_80",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "sunna",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SUGAR",
+          "parsed_action": "Answer: SUGAR",
+          "feedback": "- \"s\" - green letter\n- \"u\" - green letter\n- \"g\" - gray letter\n- \"a\" - yellow letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SUMMA",
+          "parsed_action": "Answer: SUMMA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SUNNA",
+          "parsed_action": "Answer: SUNNA",
+          "feedback": "- \"s\" - green letter\n- \"u\" - green letter\n- \"n\" - green letter\n- \"n\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_41",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "dixie",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: DRONE",
+          "parsed_action": "Answer: DRONE",
+          "feedback": "- \"d\" - green letter\n- \"r\" - gray letter\n- \"o\" - gray letter\n- \"n\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: DIXIE",
+          "parsed_action": "Answer: DIXIE",
+          "feedback": "- \"d\" - green letter\n- \"i\" - green letter\n- \"x\" - green letter\n- \"i\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_42",
+      "status": "won",
+      "won": true,
+      "turns": 2,
+      "target": "lefty",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - green letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: LEFTY",
+          "parsed_action": "Answer: LEFTY",
+          "feedback": "- \"l\" - green letter\n- \"e\" - green letter\n- \"f\" - green letter\n- \"t\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_43",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "shawl",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - yellow letter\n- \"a\" - green letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SNAIL",
+          "parsed_action": "Answer: SNAIL",
+          "feedback": "- \"s\" - green letter\n- \"n\" - gray letter\n- \"a\" - green letter\n- \"i\" - gray letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SHAWL",
+          "parsed_action": "Answer: SHAWL",
+          "feedback": "- \"s\" - green letter\n- \"h\" - green letter\n- \"a\" - green letter\n- \"w\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_44",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "peril",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: MELON",
+          "parsed_action": "Answer: MELON",
+          "feedback": "- \"m\" - gray letter\n- \"e\" - green letter\n- \"l\" - yellow letter\n- \"o\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: REPLY",
+          "parsed_action": "Answer: REPLY",
+          "feedback": "- \"r\" - yellow letter\n- \"e\" - green letter\n- \"p\" - yellow letter\n- \"l\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PERIL",
+          "parsed_action": "Answer: PERIL",
+          "feedback": "- \"p\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter\n- \"i\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_45",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "missy",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BRISK",
+          "parsed_action": "Answer: BRISK",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: MUSKS",
+          "parsed_action": "Answer: MUSKS",
+          "feedback": "- \"m\" - green letter\n- \"u\" - gray letter\n- \"s\" - green letter\n- \"k\" - gray letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: MISSY",
+          "parsed_action": "Answer: MISSY",
+          "feedback": "- \"m\" - green letter\n- \"i\" - green letter\n- \"s\" - green letter\n- \"s\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_46",
+      "status": "won",
+      "won": true,
+      "turns": 7,
+      "target": "leach",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - green letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: PLANE",
+          "parsed_action": "Answer: PLANE",
+          "feedback": "- \"p\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - green letter\n- \"n\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: GLARE",
+          "parsed_action": "Answer: GLARE",
+          "feedback": "- \"g\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - green letter\n- \"r\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: DEALY",
+          "parsed_action": "Answer: DEALY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: FLAME",
+          "parsed_action": "Answer: FLAME",
+          "feedback": "- \"f\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - green letter\n- \"m\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: WEALE",
+          "parsed_action": "Answer: WEALE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: LEACH",
+          "parsed_action": "Answer: LEACH",
+          "feedback": "- \"l\" - green letter\n- \"e\" - green letter\n- \"a\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_47",
+      "status": "won",
+      "won": true,
+      "turns": 9,
+      "target": "fitch",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: TRUCK",
+          "parsed_action": "Answer: TRUCK",
+          "feedback": "- \"t\" - yellow letter\n- \"r\" - gray letter\n- \"u\" - gray letter\n- \"c\" - green letter\n- \"k\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: DITCH",
+          "parsed_action": "Answer: DITCH",
+          "feedback": "- \"d\" - gray letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PITCH",
+          "parsed_action": "Answer: PITCH",
+          "feedback": "- \"p\" - gray letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: WITCH",
+          "parsed_action": "Answer: WITCH",
+          "feedback": "- \"w\" - gray letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: HITCH",
+          "parsed_action": "Answer: HITCH",
+          "feedback": "- \"h\" - yellow letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: BITCH",
+          "parsed_action": "Answer: BITCH",
+          "feedback": "- \"b\" - gray letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: MATCH",
+          "parsed_action": "Answer: MATCH",
+          "feedback": "- \"m\" - gray letter\n- \"a\" - gray letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: FITCH",
+          "parsed_action": "Answer: FITCH",
+          "feedback": "- \"f\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_48",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "samba",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SUGAR",
+          "parsed_action": "Answer: SUGAR",
+          "feedback": "- \"s\" - green letter\n- \"u\" - gray letter\n- \"g\" - gray letter\n- \"a\" - yellow letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SPICA",
+          "parsed_action": "Answer: SPICA",
+          "feedback": "- \"s\" - green letter\n- \"p\" - gray letter\n- \"i\" - gray letter\n- \"c\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SOMMA",
+          "parsed_action": "Answer: SOMMA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: SHONA",
+          "parsed_action": "Answer: SHONA",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"o\" - gray letter\n- \"n\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: SAMBA",
+          "parsed_action": "Answer: SAMBA",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"m\" - green letter\n- \"b\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_49",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "sauna",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SPRAY",
+          "parsed_action": "Answer: SPRAY",
+          "feedback": "- \"s\" - green letter\n- \"p\" - gray letter\n- \"r\" - gray letter\n- \"a\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SAMBA",
+          "parsed_action": "Answer: SAMBA",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"m\" - gray letter\n- \"b\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SAUNA",
+          "parsed_action": "Answer: SAUNA",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"u\" - green letter\n- \"n\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_50",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "coupe",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: GUIDE",
+          "parsed_action": "Answer: GUIDE",
+          "feedback": "- \"g\" - gray letter\n- \"u\" - yellow letter\n- \"i\" - gray letter\n- \"d\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: VENUE",
+          "parsed_action": "Answer: VENUE",
+          "feedback": "- \"v\" - gray letter\n- \"e\" - yellow letter\n- \"n\" - gray letter\n- \"u\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: COUPE",
+          "parsed_action": "Answer: COUPE",
+          "feedback": "- \"c\" - green letter\n- \"o\" - green letter\n- \"u\" - green letter\n- \"p\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_51",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "ricer",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: HONEY",
+          "parsed_action": "Answer: HONEY",
+          "feedback": "- \"h\" - gray letter\n- \"o\" - gray letter\n- \"n\" - gray letter\n- \"e\" - green letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: EMBER",
+          "parsed_action": "Answer: EMBER",
+          "feedback": "- \"e\" - yellow letter\n- \"m\" - gray letter\n- \"b\" - gray letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: CIDER",
+          "parsed_action": "Answer: CIDER",
+          "feedback": "- \"c\" - yellow letter\n- \"i\" - green letter\n- \"d\" - gray letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: RICER",
+          "parsed_action": "Answer: RICER",
+          "feedback": "- \"r\" - green letter\n- \"i\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_52",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "bunco",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CHORD",
+          "parsed_action": "Answer: CHORD",
+          "feedback": "- \"c\" - yellow letter\n- \"h\" - gray letter\n- \"o\" - yellow letter\n- \"r\" - gray letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: KNACK\n\nWait, A is gray. So KNACK is invalid. I must use KNOCK.\nAnswer: KNOCK\n\nLet me double check.\nWord: KNOCK\nS, L, A, T, E, H, R, D excluded.\nK, N, O, C, K.\nNo excluded letters.\nC at 4 (Yellow in CHORD at 1). Correct.\nO at 3 (Yellow in CHORD at 4). Correct.\nKNACK excluded A.\nKNOCK valid.\n\nAnswer: KNOCK\nWait, I wrote KNACK in the text above before correcting. I should write KNOCK.\nLet's verify \"KNOCK\" again.\nC is yellow in CHORD (pos 1). In KNOCK, C is at 4. Not at 1. Yellow. Correct.\nO is yellow in CHORD (pos 4). In KNOCK, O is at 3. Not at 4. Yellow. Correct.\nH, R, D are gray. Not in KNOCK. Correct.\nS, L, A, T, E are gray. Not in KNOCK. Correct.\nK, N are new letters.\nIt fits perfectly.\n\nWait, is \"KNACK\" a better word?\nA is excluded. So \"KNACK\" is impossible.\n\"KNOCK\" is the one.\n\nWait, what about \"K N O C K\"?\nDoes \"KNOCK\" contain any gray letters?\nS, L, A, T, E, H, R, D.\nK, N, O, C, K.\nNo gray letters.\nSo it is valid.\n\nFinal check.\nIs \"KNOCK\" a singular common noun? Yes.\nIs it 5 letters? Yes.\nAnswer: KNOCK\n\nWait, I should check if there are better options.\nWhat about \"K N O W N\"? No C.\nWhat about \"K N O C K\"?\nIs there \"C O C K S\"? S is gray.\nIs there \"M O C K S\"? S is gray.\nIs there \"L O C K S\"? L, S gray.\nIs there \"T O C K S\"? T, S gray.\nIs there \"F O C K S\"? S gray.\nIs there \"J O C K S\"? S gray.\nIs there \"G O C K S\"? S gray.\nIs there \"P O C K S\"? S gray.\nIs there \"R O C K S\"? R, S gray.\nIs there \"W O C K S\"? S gray.\nIs there \"H O C K S\"? H, S gray.\nIs there \"B O C K S\"? S gray.\nIs there \"C O C K S\"? S gray.\nIs there \"S O C K S\"? S gray.\nIs there \"D O C K S\"? D, S gray.\nIs there \"M O C K Y\"?\nM, O, C, K, Y.\nO at 2.\nC at 3.\nNo gray letters.\nIs \"MOCKY\" a common noun?\n\"Mocky\" is an adjective.\n\"Knock\" is a noun.\nSo KNOCK is better.\n\nAnswer: KNOCK\n\nOne more thing. \"OCCUP\" is not a word.\n\"OCCAM\" A gray.\n\"OCCIP\" not a word.\n\"OCCIT\" T gray.\n\"OCCUM\" not a word.\n\"OCCUR\" R gray.\n\n\"O M I C R\" R gray.\n\"O M I N S\" not common.\n\"O M I T S\" T, S gray.\n\"O M I L L\" L gray.\n\"O M P I A\" A gray.\n\"O P I N A\" A gray.\n\"O P I O N\" O at 4.\n\"O P I C S\" S gray.\n\n\"U N C I N\" not a word.\n\"U N C O N\" not a word.\n\"U N C O D\" D gray.\n\"U N C O L\" L gray.\n\"U N C O P\" not a word.\n\"U N C O S\" S gray.\n\"U N C O T\" T gray.\n\"U N C O Y\" not a word.\n\nSo \"KNOCK\" is the strongest candidate.\n\nOne detail: \"C\" is yellow in \"CHORD\" (pos 1).\nIf the word is \"KNOCK\", C is at 4.\n\"CHORD\" has C at 1.\nSince C is in KNCK but not at 1, it should be yellow.\n\"O\" is yellow in \"CHORD\" (pos 4).\nIf the word is \"KNOCK\", O is at 3.\n\"CHORD\" has O at 4.\nSince O is in KNOCK but not at 4, it should be yellow.\nThis matches.\n\nWait, \"KNOCK\" contains 2 K's.\nDoes the feedback distinguish duplicates?\nThe feedback says \"s\" - gray, \"l\" - gray, \"a\" - gray, \"t\" - gray, \"e\" - gray.\n\"c\" - yellow, \"o\" - yellow, \"h\" - gray, \"r\" - gray, \"d\" - gray.\nThis implies K, N, O, C, K has no matches with the gray letters.\nAnd C, O are present.\nSo KNOCK is consistent.\n\nAnswer: KNOCK\n\n\nAnswer: KNOCK",
+          "parsed_action": "Answer: KNACK\n\nWait, A is gray. So KNACK is invalid. I must use KNOCK.\nAnswer: KNOCK\n\nLet me double check.\nWord: KNOCK\nS, L, A, T, E, H, R, D excluded.\nK, N, O, C, K.\nNo excluded letters.\nC at 4 (Yellow in CHORD at 1). Correct.\nO at 3 (Yellow in CHORD at 4). Correct.\nKNACK excluded A.\nKNOCK valid.\n\nAnswer: KNOCK\nWait, I wrote KNACK in the text above before correcting. I should write KNOCK.\nLet's verify \"KNOCK\" again.\nC is yellow in CHORD (pos 1). In KNOCK, C is at 4. Not at 1. Yellow. Correct.\nO is yellow in CHORD (pos 4). In KNOCK, O is at 3. Not at 4. Yellow. Correct.\nH, R, D are gray. Not in KNOCK. Correct.\nS, L, A, T, E are gray. Not in KNOCK. Correct.\nK, N are new letters.\nIt fits perfectly.\n\nWait, is \"KNACK\" a better word?\nA is excluded. So \"KNACK\" is impossible.\n\"KNOCK\" is the one.\n\nWait, what about \"K N O C K\"?\nDoes \"KNOCK\" contain any gray letters?\nS, L, A, T, E, H, R, D.\nK, N, O, C, K.\nNo gray letters.\nSo it is valid.\n\nFinal check.\nIs \"KNOCK\" a singular common noun? Yes.\nIs it 5 letters? Yes.\nAnswer: KNOCK\n\nWait, I should check if there are better options.\nWhat about \"K N O W N\"? No C.\nWhat about \"K N O C K\"?\nIs there \"C O C K S\"? S is gray.\nIs there \"M O C K S\"? S is gray.\nIs there \"L O C K S\"? L, S gray.\nIs there \"T O C K S\"? T, S gray.\nIs there \"F O C K S\"? S gray.\nIs there \"J O C K S\"? S gray.\nIs there \"G O C K S\"? S gray.\nIs there \"P O C K S\"? S gray.\nIs there \"R O C K S\"? R, S gray.\nIs there \"W O C K S\"? S gray.\nIs there \"H O C K S\"? H, S gray.\nIs there \"B O C K S\"? S gray.\nIs there \"C O C K S\"? S gray.\nIs there \"S O C K S\"? S gray.\nIs there \"D O C K S\"? D, S gray.\nIs there \"M O C K Y\"?\nM, O, C, K, Y.\nO at 2.\nC at 3.\nNo gray letters.\nIs \"MOCKY\" a common noun?\n\"Mocky\" is an adjective.\n\"Knock\" is a noun.\nSo KNOCK is better.\n\nAnswer: KNOCK\n\nOne more thing. \"OCCUP\" is not a word.\n\"OCCAM\" A gray.\n\"OCCIP\" not a word.\n\"OCCIT\" T gray.\n\"OCCUM\" not a word.\n\"OCCUR\" R gray.\n\n\"O M I C R\" R gray.\n\"O M I N S\" not common.\n\"O M I T S\" T, S gray.\n\"O M I L L\" L gray.\n\"O M P I A\" A gray.\n\"O P I N A\" A gray.\n\"O P I O N\" O at 4.\n\"O P I C S\" S gray.\n\n\"U N C I N\" not a word.\n\"U N C O N\" not a word.\n\"U N C O D\" D gray.\n\"U N C O L\" L gray.\n\"U N C O P\" not a word.\n\"U N C O S\" S gray.\n\"U N C O T\" T gray.\n\"U N C O Y\" not a word.\n\nSo \"KNOCK\" is the strongest candidate.\n\nOne detail: \"C\" is yellow in \"CHORD\" (pos 1).\nIf the word is \"KNOCK\", C is at 4.\n\"CHORD\" has C at 1.\nSince C is in KNCK but not at 1, it should be yellow.\n\"O\" is yellow in \"CHORD\" (pos 4).\nIf the word is \"KNOCK\", O is at 3.\n\"CHORD\" has O at 4.\nSince O is in KNOCK but not at 4, it should be yellow.\nThis matches.\n\nWait, \"KNOCK\" contains 2 K's.\nDoes the feedback distinguish duplicates?\nThe feedback says \"s\" - gray, \"l\" - gray, \"a\" - gray, \"t\" - gray, \"e\" - gray.\n\"c\" - yellow, \"o\" - yellow, \"h\" - gray, \"r\" - gray, \"d\" - gray.\nThis implies K, N, O, C, K has no matches with the gray letters.\nAnd C, O are present.\nSo KNOCK is consistent.\n\nAnswer: KNOCK\n\n\nAnswer: KNOCK",
+          "feedback": "- \"k\" - gray letter\n- \"n\" - yellow letter\n- \"a\" - gray letter\n- \"c\" - green letter\n- \"k\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: BUNCY",
+          "parsed_action": "Answer: BUNCY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: JUNCO",
+          "parsed_action": "Answer: JUNCO",
+          "feedback": "- \"j\" - gray letter\n- \"u\" - green letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"o\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: BUNCO",
+          "parsed_action": "Answer: BUNCO",
+          "feedback": "- \"b\" - green letter\n- \"u\" - green letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"o\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_53",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "ament",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: WHEAT",
+          "parsed_action": "Answer: WHEAT",
+          "feedback": "- \"w\" - gray letter\n- \"h\" - gray letter\n- \"e\" - green letter\n- \"a\" - yellow letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: ADEPT",
+          "parsed_action": "Answer: ADEPT",
+          "feedback": "- \"a\" - green letter\n- \"d\" - gray letter\n- \"e\" - green letter\n- \"p\" - gray letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: AGENT",
+          "parsed_action": "Answer: AGENT",
+          "feedback": "- \"a\" - green letter\n- \"g\" - gray letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: AMENT",
+          "parsed_action": "Answer: AMENT",
+          "feedback": "- \"a\" - green letter\n- \"m\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_54",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "esker",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: NOSES",
+          "parsed_action": "Answer: NOSES",
+          "feedback": "- \"n\" - gray letter\n- \"o\" - gray letter\n- \"s\" - yellow letter\n- \"e\" - green letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SPREE",
+          "parsed_action": "Answer: SPREE",
+          "feedback": "- \"s\" - yellow letter\n- \"p\" - gray letter\n- \"r\" - yellow letter\n- \"e\" - green letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: GREED",
+          "parsed_action": "Answer: GREED",
+          "feedback": "- \"g\" - gray letter\n- \"r\" - yellow letter\n- \"e\" - yellow letter\n- \"e\" - green letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: ESKER",
+          "parsed_action": "Answer: ESKER",
+          "feedback": "- \"e\" - green letter\n- \"s\" - green letter\n- \"k\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_55",
+      "status": "won",
+      "won": true,
+      "turns": 7,
+      "target": "klick",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - green letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: FLOUT",
+          "parsed_action": "Answer: FLOUT",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: CLOUD",
+          "parsed_action": "Answer: CLOUD",
+          "feedback": "- \"c\" - yellow letter\n- \"l\" - green letter\n- \"o\" - gray letter\n- \"u\" - gray letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: FLICK",
+          "parsed_action": "Answer: FLICK",
+          "feedback": "- \"f\" - gray letter\n- \"l\" - green letter\n- \"i\" - green letter\n- \"c\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: CLICK",
+          "parsed_action": "Answer: CLICK",
+          "feedback": "- \"c\" - yellow letter\n- \"l\" - green letter\n- \"i\" - green letter\n- \"c\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: SLICK",
+          "parsed_action": "Answer: SLICK",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - green letter\n- \"i\" - green letter\n- \"c\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: KLICK",
+          "parsed_action": "Answer: KLICK",
+          "feedback": "- \"k\" - green letter\n- \"l\" - green letter\n- \"i\" - green letter\n- \"c\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_56",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "kapok",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: AUDIO",
+          "parsed_action": "Answer: AUDIO",
+          "feedback": "- \"a\" - yellow letter\n- \"u\" - gray letter\n- \"d\" - gray letter\n- \"i\" - gray letter\n- \"o\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: GROAN",
+          "parsed_action": "Answer: GROAN",
+          "feedback": "- \"g\" - gray letter\n- \"r\" - gray letter\n- \"o\" - yellow letter\n- \"a\" - yellow letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: COCOA",
+          "parsed_action": "Answer: COCOA",
+          "feedback": "- \"c\" - gray letter\n- \"o\" - yellow letter\n- \"c\" - gray letter\n- \"o\" - green letter\n- \"a\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: KAPOW",
+          "parsed_action": "Answer: KAPOW",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: KAPOK",
+          "parsed_action": "Answer: KAPOK",
+          "feedback": "- \"k\" - green letter\n- \"a\" - green letter\n- \"p\" - green letter\n- \"o\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_57",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "cutis",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CRUST",
+          "parsed_action": "Answer: CRUST",
+          "feedback": "- \"c\" - green letter\n- \"r\" - gray letter\n- \"u\" - yellow letter\n- \"s\" - yellow letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: CUTIS",
+          "parsed_action": "Answer: CUTIS",
+          "feedback": "- \"c\" - green letter\n- \"u\" - green letter\n- \"t\" - green letter\n- \"i\" - green letter\n- \"s\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_58",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "areca",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: DREAM",
+          "parsed_action": "Answer: DREAM",
+          "feedback": "- \"d\" - gray letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"a\" - yellow letter\n- \"m\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: ARENA",
+          "parsed_action": "Answer: ARENA",
+          "feedback": "- \"a\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"n\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: ARECA",
+          "parsed_action": "Answer: ARECA",
+          "feedback": "- \"a\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"c\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_59",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "ichor",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ROUND",
+          "parsed_action": "Answer: ROUND",
+          "feedback": "- \"r\" - yellow letter\n- \"o\" - yellow letter\n- \"u\" - gray letter\n- \"n\" - gray letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: CHOIR",
+          "parsed_action": "Answer: CHOIR",
+          "feedback": "- \"c\" - yellow letter\n- \"h\" - yellow letter\n- \"o\" - yellow letter\n- \"i\" - yellow letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: ICHOR",
+          "parsed_action": "Answer: ICHOR",
+          "feedback": "- \"i\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter\n- \"o\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_60",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "davit",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ACTOR",
+          "parsed_action": "Answer: ACTOR",
+          "feedback": "- \"a\" - yellow letter\n- \"c\" - gray letter\n- \"t\" - yellow letter\n- \"o\" - gray letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: PAINT",
+          "parsed_action": "Answer: PAINT",
+          "feedback": "- \"p\" - gray letter\n- \"a\" - green letter\n- \"i\" - yellow letter\n- \"n\" - gray letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: HABIT",
+          "parsed_action": "Answer: HABIT",
+          "feedback": "- \"h\" - gray letter\n- \"a\" - green letter\n- \"b\" - gray letter\n- \"i\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: DAVIT",
+          "parsed_action": "Answer: DAVIT",
+          "feedback": "- \"d\" - green letter\n- \"a\" - green letter\n- \"v\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_21",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "chard",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - green letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: DRAIN",
+          "parsed_action": "Answer: DRAIN",
+          "feedback": "- \"d\" - yellow letter\n- \"r\" - yellow letter\n- \"a\" - green letter\n- \"i\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BOARD",
+          "parsed_action": "Answer: BOARD",
+          "feedback": "- \"b\" - gray letter\n- \"o\" - gray letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"d\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: GUARD",
+          "parsed_action": "Answer: GUARD",
+          "feedback": "- \"g\" - gray letter\n- \"u\" - gray letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"d\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: CHARD",
+          "parsed_action": "Answer: CHARD",
+          "feedback": "- \"c\" - green letter\n- \"h\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"d\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_22",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "gourd",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ROUND",
+          "parsed_action": "Answer: ROUND",
+          "feedback": "- \"r\" - yellow letter\n- \"o\" - green letter\n- \"u\" - green letter\n- \"n\" - gray letter\n- \"d\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: GOURD",
+          "parsed_action": "Answer: GOURD",
+          "feedback": "- \"g\" - green letter\n- \"o\" - green letter\n- \"u\" - green letter\n- \"r\" - green letter\n- \"d\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_23",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "speer",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SHRED",
+          "parsed_action": "Answer: SHRED",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"r\" - yellow letter\n- \"e\" - green letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SNEER",
+          "parsed_action": "Answer: SNEER",
+          "feedback": "- \"s\" - green letter\n- \"n\" - gray letter\n- \"e\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SPEER",
+          "parsed_action": "Answer: SPEER",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"e\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_24",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "solon",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SPOIL",
+          "parsed_action": "Answer: SPOIL",
+          "feedback": "- \"s\" - green letter\n- \"p\" - gray letter\n- \"o\" - yellow letter\n- \"i\" - gray letter\n- \"l\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SOULS",
+          "parsed_action": "Answer: SOULS",
+          "feedback": "- \"s\" - green letter\n- \"o\" - green letter\n- \"u\" - gray letter\n- \"l\" - yellow letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SOLDS",
+          "parsed_action": "Answer: SOLDS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: SOLOS",
+          "parsed_action": "Answer: SOLOS",
+          "feedback": "- \"s\" - green letter\n- \"o\" - green letter\n- \"l\" - green letter\n- \"o\" - green letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: SOLON",
+          "parsed_action": "Answer: SOLON",
+          "feedback": "- \"s\" - green letter\n- \"o\" - green letter\n- \"l\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_25",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "sitka",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SATIN",
+          "parsed_action": "Answer: SATIN",
+          "feedback": "- \"s\" - green letter\n- \"a\" - yellow letter\n- \"t\" - green letter\n- \"i\" - yellow letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SITAR",
+          "parsed_action": "Answer: SITAR",
+          "feedback": "- \"s\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"a\" - yellow letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SITKA",
+          "parsed_action": "Answer: SITKA",
+          "feedback": "- \"s\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"k\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_26",
+      "status": "won",
+      "won": true,
+      "turns": 8,
+      "target": "rajah",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BROAD",
+          "parsed_action": "Answer: BROAD",
+          "feedback": "- \"b\" - gray letter\n- \"r\" - yellow letter\n- \"o\" - gray letter\n- \"a\" - green letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: VICAR",
+          "parsed_action": "Answer: VICAR",
+          "feedback": "- \"v\" - gray letter\n- \"i\" - gray letter\n- \"c\" - gray letter\n- \"a\" - green letter\n- \"r\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: RAYAS",
+          "parsed_action": "Answer: RAYAS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: HARAM",
+          "parsed_action": "Answer: HARAM",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: PARRY",
+          "parsed_action": "Answer: PARRY",
+          "feedback": "- \"p\" - gray letter\n- \"a\" - green letter\n- \"r\" - yellow letter\n- \"r\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: RANGA",
+          "parsed_action": "Answer: RANGA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: RAJAH",
+          "parsed_action": "Answer: RAJAH",
+          "feedback": "- \"r\" - green letter\n- \"a\" - green letter\n- \"j\" - green letter\n- \"a\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_27",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "gouge",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: PHONE",
+          "parsed_action": "Answer: PHONE",
+          "feedback": "- \"p\" - gray letter\n- \"h\" - gray letter\n- \"o\" - yellow letter\n- \"n\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: VOICE",
+          "parsed_action": "Answer: VOICE",
+          "feedback": "- \"v\" - gray letter\n- \"o\" - green letter\n- \"i\" - gray letter\n- \"c\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: ROGUE",
+          "parsed_action": "Answer: ROGUE",
+          "feedback": "- \"r\" - gray letter\n- \"o\" - green letter\n- \"g\" - yellow letter\n- \"u\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: GOUGE",
+          "parsed_action": "Answer: GOUGE",
+          "feedback": "- \"g\" - green letter\n- \"o\" - green letter\n- \"u\" - green letter\n- \"g\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_29",
+      "status": "won",
+      "won": true,
+      "turns": 10,
+      "target": "oomph",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: CRANE",
+          "parsed_action": "Answer: CRANE",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - gray letter\n- \"a\" - gray letter\n- \"n\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SOUTH",
+          "parsed_action": "Answer: SOUTH",
+          "feedback": "- \"s\" - gray letter\n- \"o\" - green letter\n- \"u\" - gray letter\n- \"t\" - gray letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: B O O K H",
+          "parsed_action": "Answer: B O O K H",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: B O O L H",
+          "parsed_action": "Answer: B O O L H",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: FOLKH",
+          "parsed_action": "Answer: FOLKH",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: B O O M H",
+          "parsed_action": "Answer: B O O M H",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: B O O K H",
+          "parsed_action": "Answer: B O O K H",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: B O O K H",
+          "parsed_action": "Answer: B O O K H",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: BOOTH",
+          "parsed_action": "Answer: BOOTH",
+          "feedback": "- \"b\" - gray letter\n- \"o\" - green letter\n- \"o\" - yellow letter\n- \"t\" - gray letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 10,
+          "model_response": "Answer: OOMPH",
+          "parsed_action": "Answer: OOMPH",
+          "feedback": "- \"o\" - green letter\n- \"o\" - green letter\n- \"m\" - green letter\n- \"p\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_30",
+      "status": "won",
+      "won": true,
+      "turns": 10,
+      "target": "nymph",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: OPIUM",
+          "parsed_action": "Answer: OPIUM",
+          "feedback": "- \"o\" - gray letter\n- \"p\" - yellow letter\n- \"i\" - gray letter\n- \"u\" - gray letter\n- \"m\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: PYGMY",
+          "parsed_action": "Answer: PYGMY",
+          "feedback": "- \"p\" - yellow letter\n- \"y\" - green letter\n- \"g\" - gray letter\n- \"m\" - yellow letter\n- \"y\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: MYPHE",
+          "parsed_action": "Answer: MYPHE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: MYPYR",
+          "parsed_action": "Answer: MYPYR",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: MYMPS",
+          "parsed_action": "Answer: MYMPS",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: PYPMY",
+          "parsed_action": "Answer: PYPMY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: MYPHY",
+          "parsed_action": "Answer: MYPHY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: PYKED",
+          "parsed_action": "Answer: PYKED",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 10,
+          "model_response": "Answer: NYMPH",
+          "parsed_action": "Answer: NYMPH",
+          "feedback": "- \"n\" - green letter\n- \"y\" - green letter\n- \"m\" - green letter\n- \"p\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_31",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "asura",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ASSAY",
+          "parsed_action": "Answer: ASSAY",
+          "feedback": "- \"a\" - green letter\n- \"s\" - green letter\n- \"s\" - yellow letter\n- \"a\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: ASANA",
+          "parsed_action": "Answer: ASANA",
+          "feedback": "- \"a\" - green letter\n- \"s\" - green letter\n- \"a\" - yellow letter\n- \"n\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: ASTRA",
+          "parsed_action": "Answer: ASTRA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: ASANA",
+          "parsed_action": "Answer: ASANA",
+          "feedback": "- \"a\" - green letter\n- \"s\" - green letter\n- \"a\" - yellow letter\n- \"n\" - gray letter\n- \"a\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: ASURA",
+          "parsed_action": "Answer: ASURA",
+          "feedback": "- \"a\" - green letter\n- \"s\" - green letter\n- \"u\" - green letter\n- \"r\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_32",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "betel",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: TOWEL",
+          "parsed_action": "Answer: TOWEL",
+          "feedback": "- \"t\" - yellow letter\n- \"o\" - gray letter\n- \"w\" - gray letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BETEL",
+          "parsed_action": "Answer: BETEL",
+          "feedback": "- \"b\" - green letter\n- \"e\" - green letter\n- \"t\" - green letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_33",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "harpy",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: AUDIO",
+          "parsed_action": "Answer: AUDIO",
+          "feedback": "- \"a\" - yellow letter\n- \"u\" - gray letter\n- \"d\" - gray letter\n- \"i\" - gray letter\n- \"o\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: RANCH",
+          "parsed_action": "Answer: RANCH",
+          "feedback": "- \"r\" - yellow letter\n- \"a\" - green letter\n- \"n\" - gray letter\n- \"c\" - gray letter\n- \"h\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: HARPY",
+          "parsed_action": "Answer: HARPY",
+          "feedback": "- \"h\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"p\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_34",
+      "status": "won",
+      "won": true,
+      "turns": 7,
+      "target": "spitz",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - green letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SOUTH",
+          "parsed_action": "Answer: SOUTH",
+          "feedback": "- \"s\" - green letter\n- \"o\" - gray letter\n- \"u\" - gray letter\n- \"t\" - green letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SIXTY",
+          "parsed_action": "Answer: SIXTY",
+          "feedback": "- \"s\" - green letter\n- \"i\" - yellow letter\n- \"x\" - gray letter\n- \"t\" - green letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SPITS",
+          "parsed_action": "Answer: SPITS",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: SPITE",
+          "parsed_action": "Answer: SPITE",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: SPITS",
+          "parsed_action": "Answer: SPITS",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"s\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: SPITZ",
+          "parsed_action": "Answer: SPITZ",
+          "feedback": "- \"s\" - green letter\n- \"p\" - green letter\n- \"i\" - green letter\n- \"t\" - green letter\n- \"z\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_35",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "butyl",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: GUILT",
+          "parsed_action": "Answer: GUILT",
+          "feedback": "- \"g\" - gray letter\n- \"u\" - green letter\n- \"i\" - gray letter\n- \"l\" - yellow letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: PULLS",
+          "parsed_action": "Answer: PULLS",
+          "feedback": "- \"p\" - gray letter\n- \"u\" - green letter\n- \"l\" - yellow letter\n- \"l\" - yellow letter\n- \"s\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: LUFFY",
+          "parsed_action": "Answer: LUFFY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: LUMTY",
+          "parsed_action": "Answer: LUMTY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: BUTYL",
+          "parsed_action": "Answer: BUTYL",
+          "feedback": "- \"b\" - green letter\n- \"u\" - green letter\n- \"t\" - green letter\n- \"y\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_36",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "nonce",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: VOICE",
+          "parsed_action": "Answer: VOICE",
+          "feedback": "- \"v\" - gray letter\n- \"o\" - green letter\n- \"i\" - gray letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: FORCE",
+          "parsed_action": "Answer: FORCE",
+          "feedback": "- \"f\" - gray letter\n- \"o\" - green letter\n- \"r\" - gray letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PONCE",
+          "parsed_action": "Answer: PONCE",
+          "feedback": "- \"p\" - gray letter\n- \"o\" - green letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: NONCE",
+          "parsed_action": "Answer: NONCE",
+          "feedback": "- \"n\" - green letter\n- \"o\" - green letter\n- \"n\" - green letter\n- \"c\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_37",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "garbo",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: STARE",
+          "parsed_action": "Answer: STARE",
+          "feedback": "- \"s\" - gray letter\n- \"t\" - gray letter\n- \"a\" - yellow letter\n- \"r\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ORGAN",
+          "parsed_action": "Answer: ORGAN",
+          "feedback": "- \"o\" - yellow letter\n- \"r\" - yellow letter\n- \"g\" - yellow letter\n- \"a\" - yellow letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: CARGO",
+          "parsed_action": "Answer: CARGO",
+          "feedback": "- \"c\" - gray letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"g\" - yellow letter\n- \"o\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: GARBO",
+          "parsed_action": "Answer: GARBO",
+          "feedback": "- \"g\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"b\" - green letter\n- \"o\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_38",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "blare",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: FLAME",
+          "parsed_action": "Answer: FLAME",
+          "feedback": "- \"f\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"m\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: PLACE",
+          "parsed_action": "Answer: PLACE",
+          "feedback": "- \"p\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"c\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: GLARE",
+          "parsed_action": "Answer: GLARE",
+          "feedback": "- \"g\" - gray letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: BLARE",
+          "parsed_action": "Answer: BLARE",
+          "feedback": "- \"b\" - green letter\n- \"l\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_39",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "sucre",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SCORE",
+          "parsed_action": "Answer: SCORE",
+          "feedback": "- \"s\" - green letter\n- \"c\" - yellow letter\n- \"o\" - gray letter\n- \"r\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SCREW",
+          "parsed_action": "Answer: SCREW",
+          "feedback": "- \"s\" - green letter\n- \"c\" - yellow letter\n- \"r\" - yellow letter\n- \"e\" - yellow letter\n- \"w\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SUCRE",
+          "parsed_action": "Answer: SUCRE",
+          "feedback": "- \"s\" - green letter\n- \"u\" - green letter\n- \"c\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_40",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "burro",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CROWN",
+          "parsed_action": "Answer: CROWN",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - yellow letter\n- \"o\" - yellow letter\n- \"w\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: ROUGH",
+          "parsed_action": "Answer: ROUGH",
+          "feedback": "- \"r\" - yellow letter\n- \"o\" - yellow letter\n- \"u\" - yellow letter\n- \"g\" - gray letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: FUROR",
+          "parsed_action": "Answer: FUROR",
+          "feedback": "- \"f\" - gray letter\n- \"u\" - green letter\n- \"r\" - green letter\n- \"o\" - yellow letter\n- \"r\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: BURRO",
+          "parsed_action": "Answer: BURRO",
+          "feedback": "- \"b\" - green letter\n- \"u\" - green letter\n- \"r\" - green letter\n- \"r\" - green letter\n- \"o\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_1",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "story",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SCOUT",
+          "parsed_action": "Answer: SCOUT",
+          "feedback": "- \"s\" - green letter\n- \"c\" - gray letter\n- \"o\" - green letter\n- \"u\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: STORM",
+          "parsed_action": "Answer: STORM",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"o\" - green letter\n- \"r\" - green letter\n- \"m\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: STORY",
+          "parsed_action": "Answer: STORY",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"o\" - green letter\n- \"r\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_2",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "cable",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: ANGLE",
+          "parsed_action": "Answer: ANGLE",
+          "feedback": "- \"a\" - yellow letter\n- \"n\" - gray letter\n- \"g\" - gray letter\n- \"l\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: EARLE",
+          "parsed_action": "Answer: EARLE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: CABLE",
+          "parsed_action": "Answer: CABLE",
+          "feedback": "- \"c\" - green letter\n- \"a\" - green letter\n- \"b\" - green letter\n- \"l\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_3",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "saint",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: STOAT",
+          "parsed_action": "Answer: STOAT",
+          "feedback": "- \"s\" - green letter\n- \"t\" - yellow letter\n- \"o\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SATIN",
+          "parsed_action": "Answer: SATIN",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"t\" - yellow letter\n- \"i\" - yellow letter\n- \"n\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: SAINT",
+          "parsed_action": "Answer: SAINT",
+          "feedback": "- \"s\" - green letter\n- \"a\" - green letter\n- \"i\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_4",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "truth",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - green letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: BROTH",
+          "parsed_action": "Answer: BROTH",
+          "feedback": "- \"b\" - gray letter\n- \"r\" - green letter\n- \"o\" - gray letter\n- \"t\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: TRUTH",
+          "parsed_action": "Answer: TRUTH",
+          "feedback": "- \"t\" - green letter\n- \"r\" - green letter\n- \"u\" - green letter\n- \"t\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_5",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "study",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: CRANE",
+          "parsed_action": "Answer: CRANE",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - gray letter\n- \"a\" - gray letter\n- \"n\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SHOUT",
+          "parsed_action": "Answer: SHOUT",
+          "feedback": "- \"s\" - green letter\n- \"h\" - gray letter\n- \"o\" - gray letter\n- \"u\" - yellow letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: STUMP",
+          "parsed_action": "Answer: STUMP",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"u\" - green letter\n- \"m\" - gray letter\n- \"p\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: STUDY",
+          "parsed_action": "Answer: STUDY",
+          "feedback": "- \"s\" - green letter\n- \"t\" - green letter\n- \"u\" - green letter\n- \"d\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_6",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "touch",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: TORCH",
+          "parsed_action": "Answer: TORCH",
+          "feedback": "- \"t\" - green letter\n- \"o\" - green letter\n- \"r\" - gray letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: TOUCH",
+          "parsed_action": "Answer: TOUCH",
+          "feedback": "- \"t\" - green letter\n- \"o\" - green letter\n- \"u\" - green letter\n- \"c\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_7",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "point",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: TOUCH",
+          "parsed_action": "Answer: TOUCH",
+          "feedback": "- \"t\" - yellow letter\n- \"o\" - green letter\n- \"u\" - gray letter\n- \"c\" - gray letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: POINT",
+          "parsed_action": "Answer: POINT",
+          "feedback": "- \"p\" - green letter\n- \"o\" - green letter\n- \"i\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_8",
+      "status": "won",
+      "won": true,
+      "turns": 5,
+      "target": "depth",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: CRANE",
+          "parsed_action": "Answer: CRANE",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - gray letter\n- \"a\" - gray letter\n- \"n\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SMELT",
+          "parsed_action": "Answer: SMELT",
+          "feedback": "- \"s\" - gray letter\n- \"m\" - gray letter\n- \"e\" - yellow letter\n- \"l\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: JETTY",
+          "parsed_action": "Answer: JETTY",
+          "feedback": "- \"j\" - gray letter\n- \"e\" - green letter\n- \"t\" - yellow letter\n- \"t\" - green letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: THEFT",
+          "parsed_action": "Answer: THEFT",
+          "feedback": "- \"t\" - yellow letter\n- \"h\" - yellow letter\n- \"e\" - yellow letter\n- \"f\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: DEPTH",
+          "parsed_action": "Answer: DEPTH",
+          "feedback": "- \"d\" - green letter\n- \"e\" - green letter\n- \"p\" - green letter\n- \"t\" - green letter\n- \"h\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_9",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "press",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: GUESS",
+          "parsed_action": "Answer: GUESS",
+          "feedback": "- \"g\" - gray letter\n- \"u\" - gray letter\n- \"e\" - green letter\n- \"s\" - green letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: DRESS",
+          "parsed_action": "Answer: DRESS",
+          "feedback": "- \"d\" - gray letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"s\" - green letter\n- \"s\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PRESS",
+          "parsed_action": "Answer: PRESS",
+          "feedback": "- \"p\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"s\" - green letter\n- \"s\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_10",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "break",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: DREAM",
+          "parsed_action": "Answer: DREAM",
+          "feedback": "- \"d\" - gray letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"a\" - green letter\n- \"m\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BREAK",
+          "parsed_action": "Answer: BREAK",
+          "feedback": "- \"b\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"a\" - green letter\n- \"k\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_11",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "sirup",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - green letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: SCION",
+          "parsed_action": "Answer: SCION",
+          "feedback": "- \"s\" - green letter\n- \"c\" - gray letter\n- \"i\" - yellow letter\n- \"o\" - gray letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: SIRUP",
+          "parsed_action": "Answer: SIRUP",
+          "feedback": "- \"s\" - green letter\n- \"i\" - green letter\n- \"r\" - green letter\n- \"u\" - green letter\n- \"p\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_12",
+      "status": "won",
+      "won": true,
+      "turns": 4,
+      "target": "prate",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CRATE",
+          "parsed_action": "Answer: CRATE",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: GRATE",
+          "parsed_action": "Answer: GRATE",
+          "feedback": "- \"g\" - gray letter\n- \"r\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PRATE",
+          "parsed_action": "Answer: PRATE",
+          "feedback": "- \"p\" - green letter\n- \"r\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_13",
+      "status": "won",
+      "won": true,
+      "turns": 13,
+      "target": "yenta",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - green letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: EARTH",
+          "parsed_action": "Answer: EARTH",
+          "feedback": "- \"e\" - yellow letter\n- \"a\" - yellow letter\n- \"r\" - gray letter\n- \"t\" - green letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BETTA",
+          "parsed_action": "Answer: BETTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: VENTA",
+          "parsed_action": "Answer: VENTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: ABETA",
+          "parsed_action": "Answer: ABETA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: HEART",
+          "parsed_action": "Answer: HEART",
+          "feedback": "- \"h\" - gray letter\n- \"e\" - green letter\n- \"a\" - yellow letter\n- \"r\" - gray letter\n- \"t\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: PENTA",
+          "parsed_action": "Answer: PENTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: MENTA",
+          "parsed_action": "Answer: MENTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: NETTA",
+          "parsed_action": "Answer: NETTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 10,
+          "model_response": "Answer: METTA",
+          "parsed_action": "Answer: METTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 11,
+          "model_response": "Answer: JETTY",
+          "parsed_action": "Answer: JETTY",
+          "feedback": "- \"j\" - gray letter\n- \"e\" - green letter\n- \"t\" - yellow letter\n- \"t\" - green letter\n- \"y\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 12,
+          "model_response": "Answer: BEATS",
+          "parsed_action": "Answer: BEATS",
+          "feedback": "- \"b\" - gray letter\n- \"e\" - green letter\n- \"a\" - yellow letter\n- \"t\" - green letter\n- \"s\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 13,
+          "model_response": "Answer: YENTA",
+          "parsed_action": "Answer: YENTA",
+          "feedback": "- \"y\" - green letter\n- \"e\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter\n- \"a\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_14",
+      "status": "lost",
+      "won": false,
+      "turns": 20,
+      "target": "patka",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: RATIO",
+          "parsed_action": "Answer: RATIO",
+          "feedback": "- \"r\" - gray letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"i\" - gray letter\n- \"o\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: MATCH",
+          "parsed_action": "Answer: MATCH",
+          "feedback": "- \"m\" - gray letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"c\" - gray letter\n- \"h\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PATTY",
+          "parsed_action": "Answer: PATTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: PANTY",
+          "parsed_action": "Answer: PANTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"n\" - gray letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: PATAT",
+          "parsed_action": "Answer: PATAT",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: PATAK",
+          "parsed_action": "Answer: PATAK",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: PATTU",
+          "parsed_action": "Answer: PATTU",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: PATTY",
+          "parsed_action": "Answer: PATTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 10,
+          "model_response": "Answer: PATUT",
+          "parsed_action": "Answer: PATUT",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 11,
+          "model_response": "Answer: PATTY",
+          "parsed_action": "Answer: PATTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 12,
+          "model_response": "Answer: PATTA",
+          "parsed_action": "Answer: PATTA",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 13,
+          "model_response": "Answer: PATTN",
+          "parsed_action": "Answer: PATTN",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 14,
+          "model_response": "Answer: PATTY",
+          "parsed_action": "Answer: PATTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 15,
+          "model_response": "Answer: PATTY",
+          "parsed_action": "Answer: PATTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 16,
+          "model_response": "Answer: PATTY",
+          "parsed_action": "Answer: PATTY",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"t\" - green letter\n- \"t\" - yellow letter\n- \"y\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 17,
+          "model_response": "Answer: PATEE",
+          "parsed_action": "Answer: PATEE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 18,
+          "model_response": "Answer: PATOT",
+          "parsed_action": "Answer: PATOT",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 19,
+          "model_response": "Answer: PATE T",
+          "parsed_action": "Answer: PATE T",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 20,
+          "model_response": "Answer: PATTV",
+          "parsed_action": "Answer: PATTV",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_15",
+      "status": "won",
+      "won": true,
+      "turns": 6,
+      "target": "parer",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CREAM",
+          "parsed_action": "Answer: CREAM",
+          "feedback": "- \"c\" - gray letter\n- \"r\" - yellow letter\n- \"e\" - yellow letter\n- \"a\" - yellow letter\n- \"m\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: RAVER",
+          "parsed_action": "Answer: RAVER",
+          "feedback": "- \"r\" - yellow letter\n- \"a\" - green letter\n- \"v\" - gray letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: PAGER",
+          "parsed_action": "Answer: PAGER",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"g\" - gray letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: PAPER",
+          "parsed_action": "Answer: PAPER",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"p\" - yellow letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: PARER",
+          "parsed_action": "Answer: PARER",
+          "feedback": "- \"p\" - green letter\n- \"a\" - green letter\n- \"r\" - green letter\n- \"e\" - green letter\n- \"r\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_16",
+      "status": "won",
+      "won": true,
+      "turns": 9,
+      "target": "cowry",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: POUND",
+          "parsed_action": "Answer: POUND",
+          "feedback": "- \"p\" - gray letter\n- \"o\" - green letter\n- \"u\" - gray letter\n- \"n\" - gray letter\n- \"d\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: HOBBY",
+          "parsed_action": "Answer: HOBBY",
+          "feedback": "- \"h\" - gray letter\n- \"o\" - green letter\n- \"b\" - gray letter\n- \"b\" - gray letter\n- \"y\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: ROCKY",
+          "parsed_action": "Answer: ROCKY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: MOMMY",
+          "parsed_action": "Answer: MOMMY",
+          "feedback": "- \"m\" - gray letter\n- \"o\" - green letter\n- \"m\" - gray letter\n- \"m\" - gray letter\n- \"y\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: WARRY",
+          "parsed_action": "Answer: WARRY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: COCKY",
+          "parsed_action": "Answer: COCKY",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: WORRY",
+          "parsed_action": "Answer: WORRY",
+          "feedback": "- \"w\" - yellow letter\n- \"o\" - green letter\n- \"r\" - yellow letter\n- \"r\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: COWRY",
+          "parsed_action": "Answer: COWRY",
+          "feedback": "- \"c\" - green letter\n- \"o\" - green letter\n- \"w\" - green letter\n- \"r\" - green letter\n- \"y\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_17",
+      "status": "won",
+      "won": true,
+      "turns": 9,
+      "target": "ouzel",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - yellow letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: LEMON",
+          "parsed_action": "Answer: LEMON",
+          "feedback": "- \"l\" - yellow letter\n- \"e\" - yellow letter\n- \"m\" - gray letter\n- \"o\" - yellow letter\n- \"n\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: DOLED",
+          "parsed_action": "Answer: DOLED",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: VOWEL",
+          "parsed_action": "Answer: VOWEL",
+          "feedback": "- \"v\" - gray letter\n- \"o\" - yellow letter\n- \"w\" - gray letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: ORIEL",
+          "parsed_action": "Answer: ORIEL",
+          "feedback": "- \"o\" - green letter\n- \"r\" - gray letter\n- \"i\" - gray letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: OKELL",
+          "parsed_action": "Answer: OKELL",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: OUKEL",
+          "parsed_action": "Answer: OUKEL",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 8,
+          "model_response": "Answer: OBELE",
+          "parsed_action": "Answer: OBELE",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 9,
+          "model_response": "Answer: OUZEL",
+          "parsed_action": "Answer: OUZEL",
+          "feedback": "- \"o\" - green letter\n- \"u\" - green letter\n- \"z\" - green letter\n- \"e\" - green letter\n- \"l\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_18",
+      "status": "won",
+      "won": true,
+      "turns": 7,
+      "target": "elint",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - gray letter\n- \"l\" - green letter\n- \"a\" - gray letter\n- \"t\" - yellow letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: CLEFT",
+          "parsed_action": "Answer: CLEFT",
+          "feedback": "- \"c\" - gray letter\n- \"l\" - green letter\n- \"e\" - yellow letter\n- \"f\" - gray letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: ILLET",
+          "parsed_action": "Answer: ILLET",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 4,
+          "model_response": "Answer: BLUET",
+          "parsed_action": "Answer: BLUET",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 5,
+          "model_response": "Answer: PLEET",
+          "parsed_action": "Answer: PLEET",
+          "feedback": "This word is not accepted for the game. Try another one.",
+          "is_valid": true
+        },
+        {
+          "turn": 6,
+          "model_response": "Answer: GLEET",
+          "parsed_action": "Answer: GLEET",
+          "feedback": "- \"g\" - gray letter\n- \"l\" - green letter\n- \"e\" - yellow letter\n- \"e\" - yellow letter\n- \"t\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 7,
+          "model_response": "Answer: ELINT",
+          "parsed_action": "Answer: ELINT",
+          "feedback": "- \"e\" - green letter\n- \"l\" - green letter\n- \"i\" - green letter\n- \"n\" - green letter\n- \"t\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_19",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "besom",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - gray letter\n- \"t\" - gray letter\n- \"e\" - yellow letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: MISER",
+          "parsed_action": "Answer: MISER",
+          "feedback": "- \"m\" - yellow letter\n- \"i\" - gray letter\n- \"s\" - green letter\n- \"e\" - yellow letter\n- \"r\" - gray letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: BESOM",
+          "parsed_action": "Answer: BESOM",
+          "feedback": "- \"b\" - green letter\n- \"e\" - green letter\n- \"s\" - green letter\n- \"o\" - green letter\n- \"m\" - green letter",
+          "is_valid": true
+        }
+      ]
+    },
+    {
+      "id": "wordle_20",
+      "status": "won",
+      "won": true,
+      "turns": 3,
+      "target": "tawse",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: SLATE",
+          "parsed_action": "Answer: SLATE",
+          "feedback": "- \"s\" - yellow letter\n- \"l\" - gray letter\n- \"a\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: WASTE",
+          "parsed_action": "Answer: WASTE",
+          "feedback": "- \"w\" - yellow letter\n- \"a\" - green letter\n- \"s\" - yellow letter\n- \"t\" - yellow letter\n- \"e\" - green letter",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: TAWSE",
+          "parsed_action": "Answer: TAWSE",
+          "feedback": "- \"t\" - green letter\n- \"a\" - green letter\n- \"w\" - green letter\n- \"s\" - green letter\n- \"e\" - green letter",
+          "is_valid": true
+        }
+      ]
+    }
+  ]
+}

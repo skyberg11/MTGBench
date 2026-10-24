@@ -1,0 +1,250 @@
+{
+  "episode_id": "cities_38",
+  "model": "human:player1",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 19,
+  "target": "Рутул",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Рутул\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: лондон",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нормал.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: липецк",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Колчестер.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ростов великий",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йорк.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: крымск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Калинковичи.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: измир",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Румои.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: иерусалим",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Мураши.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: иркутск",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кодыма.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анапа",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Афины.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: новосибирск",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Караганда.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: алушта",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агрыз.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: златоуст",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Таловая.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ярославль",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ломжа.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: алупка",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Астрахань.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: нижневартовск",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Купишкис.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: стрежевой",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йена.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: архангельск",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Котельники.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ижевск",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ковель.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: лодзь",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Заводской.",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: йорк",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "Город 'йорк' уже был назван раньше. Игра окончена.",
+      "turn": 19
+    }
+  ],
+  "metadata": {
+    "start_city": "Рутул",
+    "current_letter": "й",
+    "last_opponent_city": "Заводской",
+    "total_cities_used": 37,
+    "used_cities": [
+      "афины",
+      "лодзь",
+      "иерусалим",
+      "караганда",
+      "измир",
+      "колчестер",
+      "златоуст",
+      "нормал",
+      "алупка",
+      "ломжа",
+      "котельники",
+      "таловая",
+      "мураши",
+      "кодыма",
+      "румои",
+      "крымск",
+      "йорк",
+      "анапа",
+      "иркутск",
+      "калинковичи",
+      "ковель",
+      "заводской",
+      "ростов великий",
+      "алушта",
+      "стрежевой",
+      "липецк",
+      "архангельск",
+      "ярославль",
+      "йена",
+      "ижевск",
+      "астрахань",
+      "нижневартовск",
+      "купишкис",
+      "новосибирск",
+      "лондон",
+      "агрыз",
+      "рутул"
+    ]
+  }
+}

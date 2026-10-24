@@ -1,0 +1,11 @@
+/venv/
+.venv/
+CLAUDE.md
+.idea
+.claude
+__pycache__
+*.egg-info/
+dist/
+build/
+# Generated GitHub Pages site
+.site-build/

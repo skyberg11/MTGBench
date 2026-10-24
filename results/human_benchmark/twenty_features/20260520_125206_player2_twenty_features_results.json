@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "timestamp": "20260520_125206",
+    "model_name": "human:player2",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 17.0,
+    "avg_attempts_won": 17.0,
+    "median_attempts": 17,
+    "min_attempts": 17,
+    "max_attempts": 17,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "17": 1
+    },
+    "total_duration_seconds": 586.0030772686005,
+    "avg_duration_seconds": 586.0030772686005
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_37",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 17,
+      "target": "подъезд",
+      "duration_seconds": 586.0030772686005,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: книга",
+          "player_answer": "книга",
+          "feedback": "Форма: прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: линейка",
+          "player_answer": "линейка",
+          "feedback": "Размер: Большой, многоэтажный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: дом",
+          "player_answer": "дом",
+          "feedback": "Материал: бетон, кирпич, металл",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: здание",
+          "player_answer": "здание",
+          "feedback": "Вес: огромный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: небоскреб",
+          "player_answer": "небоскреб",
+          "feedback": "Текстура: Шероховатая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: башня",
+          "player_answer": "башня",
+          "feedback": "Температура-на-ощупь: прохладная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: сооружение",
+          "player_answer": "сооружение",
+          "feedback": "Запах: Разнообразный, специфический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: скотобойня",
+          "player_answer": "скотобойня",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: завод",
+          "player_answer": "завод",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: фабрика",
+          "player_answer": "фабрика",
+          "feedback": "Гибкость: Негибкий, жесткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: офис",
+          "player_answer": "офис",
+          "feedback": "Твёрдость: Твердый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: торговый центр",
+          "player_answer": "торговый центр",
+          "feedback": "Подвижность: Неподвижный, стационарный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: жилой комплекс",
+          "player_answer": "жилой комплекс",
+          "feedback": "Количество-частей/компонентов: несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: дворец",
+          "player_answer": "дворец",
+          "feedback": "Назначение: вход в здание",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: ворота",
+          "player_answer": "ворота",
+          "feedback": "Происхождение: Искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: дверь",
+          "player_answer": "дверь",
+          "feedback": "Живой/неживой: неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: подъезд",
+          "player_answer": "подъезд",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 17,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

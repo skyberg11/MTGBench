@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "timestamp": "20260520_063528",
+    "model_name": "human:player7",
+    "game_type": "cities",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player7"
+  },
+  "statistics": {
+    "model_name": "human:player7",
+    "game_type": "cities",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 5.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 5,
+    "min_attempts": 5,
+    "max_attempts": 5,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 36.859760761260986,
+    "avg_duration_seconds": 36.859760761260986
+  },
+  "games": [
+    {
+      "game_id": "cities_3",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "Ты играешь в игру \"Города\". Это классическая словесная игра, где участники по очереди называют города.\n\nПравила игры:\n1. Я называю город.\n2. Ты должен назвать город, который начинается на последнюю допустимую букву моего города.\n3. Нельзя повторять города, которые уже были названы в этой игре.\n4. Если город заканчивается на букву \"ь\", \"ъ\" или \"ы\", нужно использовать предпоследнюю букву.\n5. Я называю только корректные города из базы данных, их проверять не нужно.\n6. Нужно называть только ныне существующие города и использовать их актуальные названия. Например, называть \"Новгород\" неправильно, потому что сейчас это \"Великий Новгород\".\n7. Нужно писать полные названия городов на русском языке.\n\nПримеры:\n- Я: \"Москва\" (заканчивается на \"а\")\n- Ты: \"Астрахань\" (начинается на \"а\", заканчивается на \"ь\", значит следующая буква - \"н\")\n- Я: \"Новосибирск\" (начинается на \"н\", заканчивается на \"к\")\n- Ты: \"Казань\" (начинается на \"к\")\n\n\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\nОтвет: <полное название города>\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после названия города.\n- Не задавай вопросов и не комментируй мой ход.\n",
+      "total_moves": 5,
+      "target": "Воркута",
+      "duration_seconds": 36.859760761260986,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: Астрахань",
+          "player_answer": "Ответ: Астрахань",
+          "feedback": "Принято. Мой город: Нолинск.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Астрахань",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "н",
+            "opponent_city": "Нолинск",
+            "next_letter": "к"
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: Киев",
+          "player_answer": "Ответ: Киев",
+          "feedback": "Принято. Мой город: Васильковка.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Киев",
+            "current_letter": "к",
+            "verdict": "valid",
+            "player_next_letter": "в",
+            "opponent_city": "Васильковка",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: Абакан",
+          "player_answer": "Ответ: Абакан",
+          "feedback": "Принято. Мой город: Новоалександровск.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Абакан",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "н",
+            "opponent_city": "Новоалександровск",
+            "next_letter": "к"
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: Курск",
+          "player_answer": "Ответ: Курск",
+          "feedback": "Принято. Мой город: Кикинда.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Курск",
+            "current_letter": "к",
+            "verdict": "valid",
+            "player_next_letter": "к",
+            "opponent_city": "Кикинда",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: Архыз",
+          "player_answer": "Ответ: Архыз",
+          "feedback": "Город 'Архыз' не найден в базе. Игра окончена.",
+          "is_valid": false,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Архыз",
+            "current_letter": "а",
+            "verdict": "not_found"
+          }
+        }
+      ],
+      "metadata": {
+        "start_city": "Воркута",
+        "current_letter": "а",
+        "last_opponent_city": "Кикинда",
+        "total_cities_used": 9,
+        "used_cities": [
+          "васильковка",
+          "воркута",
+          "киев",
+          "кикинда",
+          "нолинск",
+          "новоалександровск",
+          "курск",
+          "астрахань",
+          "абакан"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "timestamp": "20260521_020017",
+    "model_name": "human:player11",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player11"
+  },
+  "statistics": {
+    "model_name": "human:player11",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 27.0,
+    "avg_attempts_won": 27.0,
+    "median_attempts": 27,
+    "min_attempts": 27,
+    "max_attempts": 27,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "27": 1
+    },
+    "total_duration_seconds": 1405.2053713798523,
+    "avg_duration_seconds": 1405.2053713798523
+  },
+  "games": [
+    {
+      "game_id": "alias_62",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 27,
+      "target": "Святой Франциск Ассизский",
+      "duration_seconds": 1405.2053713798523,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это женщина?",
+          "player_answer": "это женщина?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: это реальный человек?",
+          "player_answer": "это реальный человек?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он жив?",
+          "player_answer": "он жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он занимался политикой?",
+          "player_answer": "он занимался политикой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: это человек из сферы искусства?",
+          "player_answer": "это человек из сферы искусства?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он спортсмен?",
+          "player_answer": "он спортсмен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Он жил в новейшее время?",
+          "player_answer": "Он жил в новейшее время?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: в средние века?",
+          "player_answer": "в средние века?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: он ученый?",
+          "player_answer": "он ученый?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: он богослов?",
+          "player_answer": "он богослов?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он жив в Европе?",
+          "player_answer": "он жив в Европе?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: в италии?",
+          "player_answer": "в италии?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он занимался медициной?",
+          "player_answer": "он занимался медициной?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он умер своей смертью?",
+          "player_answer": "он умер своей смертью?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: он как-то связан с религией?",
+          "player_answer": "он как-то связан с религией?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он пречислен к лику святых?",
+          "player_answer": "он пречислен к лику святых?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Это Фома Аквинский?",
+          "player_answer": "Это Фома Аквинский?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он занимал папский престол?",
+          "player_answer": "он занимал папский престол?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он дворянин?",
+          "player_answer": "он дворянин?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: он жил в 15 веке?",
+          "player_answer": "он жил в 15 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: он почитается в россии?",
+          "player_answer": "он почитается в россии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: он жил после 11 века7?",
+          "player_answer": "он жил после 11 века7?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: он жумер до 1300 года?",
+          "player_answer": "он жумер до 1300 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: Он родился после 1200 года?",
+          "player_answer": "Он родился после 1200 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: он родился после 1100 года?",
+          "player_answer": "он родился после 1100 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: он основал монастырь?",
+          "player_answer": "он основал монастырь?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: Это Франциск Ассизский?",
+          "player_answer": "Это Франциск Ассизский?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Religious Figures/ru/SvyatoiFrancziskAssizskii"
+      }
+    }
+  ],
+  "debug": []
+}

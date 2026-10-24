@@ -1,0 +1,32 @@
+Let's play the 20 Questions game. I want you to use the secret word that I have assigned to you.
+
+Here is the list of all possible words:
+
+{WORD_POOL}
+
+Here are the attributes of each word:
+
+{WORD_ATTRIBUTES}
+
+I will ask you questions, and you should answer only "yes" or "no" depending on whether the attribute I am asking about is present in the secret word's attributes. You should answer honestly.
+Do not name the word itself until it is explicitly asked for.
+
+When I think I know the word, I will ask you if that word is the secret word. You should answer "yes" or "no" depending on whether I guessed correctly.
+
+{REASONING_INSTRUCTION}
+
+You MUST use the exact final answer format!
+
+Answer: yes
+or
+Answer: no
+
+IMPORTANT:
+- The final answer must start with the word "Answer:".
+- Do not add anything after "yes" or "no".
+- Do not ask questions or comment on my move.
+
+---
+
+**YOUR ASSIGNED SECRET WORD:** {SECRET_WORD}
+Ready to start? Answer "Answer: yes".

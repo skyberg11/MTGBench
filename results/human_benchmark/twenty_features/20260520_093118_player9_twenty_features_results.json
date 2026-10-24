@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_093118",
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 363.9673457145691,
+    "avg_duration_seconds": 363.9673457145691
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_4",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "простокваша",
+      "duration_seconds": 363.9673457145691,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: лист",
+          "player_answer": "лист",
+          "feedback": "Форма: жидкость",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: молоко",
+          "player_answer": "молоко",
+          "feedback": "Размер: переменный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: кефир",
+          "player_answer": "кефир",
+          "feedback": "Материал: пищевой продукт",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Йогурт",
+          "player_answer": "йогурт",
+          "feedback": "Вес: зависит от объёма",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Ряженка",
+          "player_answer": "ряженка",
+          "feedback": "Текстура: кремообразная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Желе",
+          "player_answer": "желе",
+          "feedback": "Температура-на-ощупь: холодная или комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Сливки",
+          "player_answer": "сливки",
+          "feedback": "Запах: Кисломолочный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Кефир",
+          "player_answer": "кефир",
+          "feedback": "Вкус: Кисловатый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Творог",
+          "player_answer": "творог",
+          "feedback": "Прозрачность: непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Гибкость: гибкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Твёрдость: Мягкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Молоко",
+          "player_answer": "молоко",
+          "feedback": "Подвижность: Текучая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Масло",
+          "player_answer": "масло",
+          "feedback": "Количество-частей/компонентов: несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: Йогурт",
+          "player_answer": "йогурт",
+          "feedback": "Назначение: Продукт питания",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Живой/неживой: неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Встречаемость: часто",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Стоимость/ценовая-категория: Зависит от производителя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Опасность-для-человека: низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Не знаю",
+          "player_answer": "не знаю",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "timestamp": "20260520_142823",
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 4.0,
+    "avg_attempts_won": 4.0,
+    "median_attempts": 4,
+    "min_attempts": 4,
+    "max_attempts": 4,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "4": 1
+    },
+    "total_duration_seconds": 31.36421012878418,
+    "avg_duration_seconds": 31.36421012878418
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_47",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 4,
+      "target": "рельс",
+      "duration_seconds": 31.36421012878418,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: волк",
+          "player_answer": "волк",
+          "feedback": "Форма: длинная прямая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: меч",
+          "player_answer": "меч",
+          "feedback": "Размер: Длинный, крупный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: поезд",
+          "player_answer": "поезд",
+          "feedback": "Материал: сталь",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: рельс",
+          "player_answer": "рельс",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 4,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

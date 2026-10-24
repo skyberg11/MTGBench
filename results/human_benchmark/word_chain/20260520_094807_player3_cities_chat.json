@@ -1,0 +1,202 @@
+{
+  "episode_id": "cities_41",
+  "model": "human:player3",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 15,
+  "target": "Шумерля",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Шумерля\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ярославль",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лансинг.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Гаага",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анна.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астрахань",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нетешин.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нью-Йорк",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Куеда.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анадырь",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Рожнятов.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Воткинск",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Констанц.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Цюрих",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Харлоу.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Уфа",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Алексин.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новороссийск",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Колашин.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нагасаки",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Избербаш.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Шанхай",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йыгева.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астана",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анкоридж.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Женева",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анкона.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абу-Даби",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Инза.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Адлер",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Город 'Адлер' не найден в базе. Игра окончена.",
+      "turn": 15
+    }
+  ],
+  "metadata": {
+    "start_city": "Шумерля",
+    "current_letter": "а",
+    "last_opponent_city": "Инза",
+    "total_cities_used": 29,
+    "used_cities": [
+      "гаага",
+      "рожнятов",
+      "новороссийск",
+      "уфа",
+      "анна",
+      "нагасаки",
+      "абу даби",
+      "констанц",
+      "женева",
+      "шанхай",
+      "харлоу",
+      "йыгева",
+      "анкона",
+      "лансинг",
+      "астана",
+      "анкоридж",
+      "нью йорк",
+      "воткинск",
+      "анадырь",
+      "алексин",
+      "куеда",
+      "инза",
+      "избербаш",
+      "цюрих",
+      "ярославль",
+      "нетешин",
+      "шумерля",
+      "колашин",
+      "астрахань"
+    ]
+  }
+}

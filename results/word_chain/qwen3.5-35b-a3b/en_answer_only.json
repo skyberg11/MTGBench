@@ -1,0 +1,1800 @@
+{
+  "schema_version": "1.0",
+  "game": "word_chain",
+  "model": "qwen3.5-35b-a3b",
+  "language": "en",
+  "mode": "answer_only",
+  "episodes": [
+    {
+      "id": "cities_1",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Burbank",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Burbank\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Buenos Aires",
+          "parsed_action": "Answer: Buenos Aires",
+          "feedback": "The city 'Buenos Aires' does not start with 'k'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_2",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Zhoukou",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Zhoukou\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Odessa",
+          "parsed_action": "Answer: Odessa",
+          "feedback": "The city 'Odessa' does not start with 'u'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_3",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Alpu",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Alpu\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Athens",
+          "parsed_action": "Answer: Athens",
+          "feedback": "The city 'Athens' does not start with 'u'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_4",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Bacolor",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Bacolor\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Bacolod",
+          "parsed_action": "Answer: Bacolod",
+          "feedback": "The city 'Bacolod' does not start with 'r'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_5",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Mendrisio",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Mendrisio\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Montreal",
+          "parsed_action": "Answer: Montreal",
+          "feedback": "The city 'Montreal' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_6",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Fujioka",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Fujioka\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Oslo",
+          "parsed_action": "Answer: Oslo",
+          "feedback": "The city 'Oslo' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_7",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Rockingham",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Rockingham\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Rome",
+          "parsed_action": "Answer: Rome",
+          "feedback": "The city 'Rome' does not start with 'm'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_8",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Hamme",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Hamme\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Harare",
+          "parsed_action": "Answer: Harare",
+          "feedback": "The city 'Harare' does not start with 'e'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_9",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Perth",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Perth\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Paris",
+          "parsed_action": "Answer: Paris",
+          "feedback": "The city 'Paris' does not start with 'h'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_10",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Westhoughton",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Westhoughton\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Westfield",
+          "parsed_action": "Answer: Westfield",
+          "feedback": "The city 'Westfield' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_11",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Deggendorf",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Deggendorf\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Derry",
+          "parsed_action": "Answer: Derry",
+          "feedback": "The city 'Derry' does not start with 'f'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_12",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Vuktyl",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Vuktyl\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Vologda",
+          "parsed_action": "Answer: Vologda",
+          "feedback": "The city 'Vologda' does not start with 'l'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_13",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Ilkeston",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Ilkeston\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Istanbul",
+          "parsed_action": "Answer: Istanbul",
+          "feedback": "The city 'Istanbul' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_14",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Ashmyany",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Ashmyany\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Antwerp",
+          "parsed_action": "Answer: Antwerp",
+          "feedback": "The city 'Antwerp' does not start with 'y'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_15",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Renningen",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Renningen\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: New Orleans",
+          "parsed_action": "Answer: New Orleans",
+          "feedback": "Accepted. My city is: Snezhinsk.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: St. Petersburg",
+          "parsed_action": "Answer: St. Petersburg",
+          "feedback": "The city 'St. Petersburg' was not found in the database. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_16",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Roxas",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Roxas\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Rome",
+          "parsed_action": "Answer: Rome",
+          "feedback": "The city 'Rome' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_17",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Tremonton",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Tremonton\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Tallinn",
+          "parsed_action": "Answer: Tallinn",
+          "feedback": "The city 'Tallinn' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_18",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Huyton",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Huyton\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Hiroshima",
+          "parsed_action": "Answer: Hiroshima",
+          "feedback": "The city 'Hiroshima' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_19",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Azare",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Azare\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Azores",
+          "parsed_action": "Answer: Azores",
+          "feedback": "The city 'Azores' was not found in the database. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_20",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Xingtai",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Xingtai\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Xuzhou",
+          "parsed_action": "Answer: Xuzhou",
+          "feedback": "The city 'Xuzhou' does not start with 'i'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_21",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Narasannapeta",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Narasannapeta\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Nagpur",
+          "parsed_action": "Answer: Nagpur",
+          "feedback": "The city 'Nagpur' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_22",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Badr",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Badr\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Baghdad",
+          "parsed_action": "Answer: Baghdad",
+          "feedback": "The city 'Baghdad' does not start with 'r'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_23",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Gujiao",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Gujiao\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Guangzhou",
+          "parsed_action": "Answer: Guangzhou",
+          "feedback": "The city 'Guangzhou' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_24",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Soyaux",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Soyaux\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Shanghai",
+          "parsed_action": "Answer: Shanghai",
+          "feedback": "The city 'Shanghai' does not start with 'x'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_25",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Olympia",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Olympia\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Odessa",
+          "parsed_action": "Answer: Odessa",
+          "feedback": "The city 'Odessa' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_26",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Yingkou",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Yingkou\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Yerevan",
+          "parsed_action": "Answer: Yerevan",
+          "feedback": "The city 'Yerevan' does not start with 'u'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_27",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Poitiers",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Poitiers\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Prague",
+          "parsed_action": "Answer: Prague",
+          "feedback": "The city 'Prague' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_28",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Eitorf",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Eitorf\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Enschede",
+          "parsed_action": "Answer: Enschede",
+          "feedback": "The city 'Enschede' does not start with 'f'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_29",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Akishima",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Akishima\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Akita",
+          "parsed_action": "Answer: Akita",
+          "feedback": "Accepted. My city is: Abovyan.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Athens",
+          "parsed_action": "Answer: Athens",
+          "feedback": "The city 'Athens' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_30",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Rodeio",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Rodeio\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Rio de Janeiro",
+          "parsed_action": "Answer: Rio de Janeiro",
+          "feedback": "The city 'Rio de Janeiro' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_31",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Ina",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Ina\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Istanbul",
+          "parsed_action": "Answer: Istanbul",
+          "feedback": "The city 'Istanbul' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_32",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Stalybridge",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Stalybridge\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Sydney",
+          "parsed_action": "Answer: Sydney",
+          "feedback": "The city 'Sydney' does not start with 'e'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_33",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Castelsarrasin",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Castelsarrasin\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Casablanca",
+          "parsed_action": "Answer: Casablanca",
+          "feedback": "The city 'Casablanca' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_34",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Apatin",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Apatin\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Ankara",
+          "parsed_action": "Answer: Ankara",
+          "feedback": "The city 'Ankara' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_35",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Garhi",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Garhi\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Guangzhou",
+          "parsed_action": "Answer: Guangzhou",
+          "feedback": "The city 'Guangzhou' does not start with 'i'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_36",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Yuriria",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Yuriria\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Yantai",
+          "parsed_action": "Answer: Yantai",
+          "feedback": "The city 'Yantai' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_37",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Calexico",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Calexico\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Calgary",
+          "parsed_action": "Answer: Calgary",
+          "feedback": "The city 'Calgary' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_38",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Igaci",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Igaci\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Islamabad",
+          "parsed_action": "Answer: Islamabad",
+          "feedback": "Accepted. My city is: Dimasalang.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Dammam",
+          "parsed_action": "Answer: Dammam",
+          "feedback": "The city 'Dammam' does not start with 'g'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_39",
+      "status": "lost",
+      "won": false,
+      "turns": 3,
+      "target": "Manakara",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Manakara\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Ankara",
+          "parsed_action": "Answer: Ankara",
+          "feedback": "Accepted. My city is: Ashford.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Delhi",
+          "parsed_action": "Answer: Delhi",
+          "feedback": "Accepted. My city is: Imielin.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: Izmir",
+          "parsed_action": "Answer: Izmir",
+          "feedback": "The city 'Izmir' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_40",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Charlton",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Charlton\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Charleston",
+          "parsed_action": "Answer: Charleston",
+          "feedback": "The city 'Charleston' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_41",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Marghita",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Marghita\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Madrid",
+          "parsed_action": "Answer: Madrid",
+          "feedback": "The city 'Madrid' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_42",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Ranipur",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Ranipur\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Rangoon",
+          "parsed_action": "Answer: Rangoon",
+          "feedback": "The city 'Rangoon' was not found in the database. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_43",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Sehwan",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Sehwan\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Seoul",
+          "parsed_action": "Answer: Seoul",
+          "feedback": "The city 'Seoul' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_44",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Zhedao",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Zhedao\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Zagreb",
+          "parsed_action": "Answer: Zagreb",
+          "feedback": "The city 'Zagreb' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_45",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Imus",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Imus\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Istanbul",
+          "parsed_action": "Answer: Istanbul",
+          "feedback": "The city 'Istanbul' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_46",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Matozinhos",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Matozinhos\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Oslo",
+          "parsed_action": "Answer: Oslo",
+          "feedback": "The city 'Oslo' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_47",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Hastings",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Hastings\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Hamburg",
+          "parsed_action": "Answer: Hamburg",
+          "feedback": "The city 'Hamburg' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_48",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Runcorn",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Runcorn\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Rome",
+          "parsed_action": "Answer: Rome",
+          "feedback": "The city 'Rome' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_49",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Buntok",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Buntok\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Bucharest",
+          "parsed_action": "Answer: Bucharest",
+          "feedback": "The city 'Bucharest' does not start with 'k'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_50",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Gaya",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Gaya\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Goa",
+          "parsed_action": "Answer: Goa",
+          "feedback": "The city 'Goa' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_51",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Jaru",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Jaru\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Jakarta",
+          "parsed_action": "Answer: Jakarta",
+          "feedback": "The city 'Jakarta' does not start with 'u'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_52",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Lashio",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Lashio\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Larnaca",
+          "parsed_action": "Answer: Larnaca",
+          "feedback": "The city 'Larnaca' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_53",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Carnot",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Carnot\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Cairo",
+          "parsed_action": "Answer: Cairo",
+          "feedback": "The city 'Cairo' does not start with 't'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_54",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Aileu",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Aileu\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Astana",
+          "parsed_action": "Answer: Astana",
+          "feedback": "The city 'Astana' does not start with 'u'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_55",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Doha",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Doha\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Dubai",
+          "parsed_action": "Answer: Dubai",
+          "feedback": "The city 'Dubai' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_56",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Yangiobod",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Yangiobod\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Yerevan",
+          "parsed_action": "Answer: Yerevan",
+          "feedback": "The city 'Yerevan' does not start with 'd'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_57",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Jacksonville",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Jacksonville\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Jacksonville",
+          "parsed_action": "Answer: Jacksonville",
+          "feedback": "The city 'Jacksonville' has already been used. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_58",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Arpajon",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Arpajon\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Annapolis",
+          "parsed_action": "Answer: Annapolis",
+          "feedback": "The city 'Annapolis' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_59",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Dracut",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Dracut\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Dushanbe",
+          "parsed_action": "Answer: Dushanbe",
+          "feedback": "The city 'Dushanbe' does not start with 't'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_60",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Vangaindrano",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Vangaindrano\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Valdivia",
+          "parsed_action": "Answer: Valdivia",
+          "feedback": "The city 'Valdivia' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_61",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Lewe",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Lewe\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: London",
+          "parsed_action": "Answer: London",
+          "feedback": "The city 'London' does not start with 'e'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_62",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Merzifon",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Merzifon\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Muscat",
+          "parsed_action": "Answer: Muscat",
+          "feedback": "The city 'Muscat' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_63",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Kaluga",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Kaluga\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Kyiv",
+          "parsed_action": "Answer: Kyiv",
+          "feedback": "The city 'Kyiv' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_64",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Weert",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Weert\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Warsaw",
+          "parsed_action": "Answer: Warsaw",
+          "feedback": "The city 'Warsaw' does not start with 't'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_65",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Matadi",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Matadi\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Marseille",
+          "parsed_action": "Answer: Marseille",
+          "feedback": "The city 'Marseille' does not start with 'i'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_66",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Muhanga",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Muhanga\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Moscow",
+          "parsed_action": "Answer: Moscow",
+          "feedback": "The city 'Moscow' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_67",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Keizer",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Keizer\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Kiel",
+          "parsed_action": "Answer: Kiel",
+          "feedback": "The city 'Kiel' does not start with 'r'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_68",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Beeston",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Beeston\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Barcelona",
+          "parsed_action": "Answer: Barcelona",
+          "feedback": "The city 'Barcelona' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_69",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Juncos",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Juncos\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Jacksonville",
+          "parsed_action": "Answer: Jacksonville",
+          "feedback": "The city 'Jacksonville' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_70",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Almenara",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Almenara\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Algiers",
+          "parsed_action": "Answer: Algiers",
+          "feedback": "Accepted. My city is: Steenokkerzeel.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Seoul",
+          "parsed_action": "Answer: Seoul",
+          "feedback": "The city 'Seoul' does not start with 'l'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_71",
+      "status": "lost",
+      "won": false,
+      "turns": 3,
+      "target": "Grosseto",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Grosseto\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Odessa",
+          "parsed_action": "Answer: Odessa",
+          "feedback": "Accepted. My city is: Aru.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Ulaanbaatar",
+          "parsed_action": "Answer: Ulaanbaatar",
+          "feedback": "Accepted. My city is: Remanso.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: Santiago",
+          "parsed_action": "Answer: Santiago",
+          "feedback": "The city 'Santiago' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_72",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Chino",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Chino\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Ogden",
+          "parsed_action": "Answer: Ogden",
+          "feedback": "Accepted. My city is: Nyimba.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Mumbai",
+          "parsed_action": "Answer: Mumbai",
+          "feedback": "The city 'Mumbai' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_73",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Kastav",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Kastav\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Kiev",
+          "parsed_action": "Answer: Kiev",
+          "feedback": "The city 'Kiev' does not start with 'v'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_74",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Mendefera",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Mendefera\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Moscow",
+          "parsed_action": "Answer: Moscow",
+          "feedback": "The city 'Moscow' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_75",
+      "status": "lost",
+      "won": false,
+      "turns": 3,
+      "target": "Llavallol",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Llavallol\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Lima",
+          "parsed_action": "Answer: Lima",
+          "feedback": "Accepted. My city is: Amuntai.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Istanbul",
+          "parsed_action": "Answer: Istanbul",
+          "feedback": "Accepted. My city is: Liubotyn.",
+          "is_valid": true
+        },
+        {
+          "turn": 3,
+          "model_response": "Answer: Yerevan",
+          "parsed_action": "Answer: Yerevan",
+          "feedback": "The city 'Yerevan' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_76",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Galimuyod",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Galimuyod\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Gyumri",
+          "parsed_action": "Answer: Gyumri",
+          "feedback": "The city 'Gyumri' does not start with 'd'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_77",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Barro",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Barro\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Buenos Aires",
+          "parsed_action": "Answer: Buenos Aires",
+          "feedback": "The city 'Buenos Aires' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_78",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Xiaguanying",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Xiaguanying\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Xi'an",
+          "parsed_action": "Answer: Xi'an",
+          "feedback": "The city 'Xi'an' does not start with 'g'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_79",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Zhengdong",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Zhengdong\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Dublin",
+          "parsed_action": "Answer: Dublin",
+          "feedback": "The city 'Dublin' does not start with 'g'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_80",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Foligno",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Foligno\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Florence",
+          "parsed_action": "Answer: Florence",
+          "feedback": "The city 'Florence' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_81",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Amarpura",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Amarpura\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Amsterdam",
+          "parsed_action": "Answer: Amsterdam",
+          "feedback": "Accepted. My city is: Mbandaka.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Karachi",
+          "parsed_action": "Answer: Karachi",
+          "feedback": "The city 'Karachi' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_82",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Sabang",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Sabang\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Santiago",
+          "parsed_action": "Answer: Santiago",
+          "feedback": "The city 'Santiago' does not start with 'g'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_83",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Lawrenceburg",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Lawrenceburg\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Bucharest",
+          "parsed_action": "Answer: Bucharest",
+          "feedback": "The city 'Bucharest' does not start with 'g'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_84",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Newbury",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Newbury\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: New York",
+          "parsed_action": "Answer: New York",
+          "feedback": "The city 'New York' does not start with 'y'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_85",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Newburgh",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Newburgh\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Narbonne",
+          "parsed_action": "Answer: Narbonne",
+          "feedback": "The city 'Narbonne' does not start with 'h'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_86",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Vianen",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Vianen\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Vilnius",
+          "parsed_action": "Answer: Vilnius",
+          "feedback": "The city 'Vilnius' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_87",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Mindouli",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Mindouli\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Montevideo",
+          "parsed_action": "Answer: Montevideo",
+          "feedback": "The city 'Montevideo' does not start with 'i'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_88",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Kargat",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Kargat\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Kiev",
+          "parsed_action": "Answer: Kiev",
+          "feedback": "The city 'Kiev' does not start with 't'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_89",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Putussibau",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Putussibau\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Abuja",
+          "parsed_action": "Answer: Abuja",
+          "feedback": "The city 'Abuja' does not start with 'u'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_90",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Bitritto",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Bitritto\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Bratislava",
+          "parsed_action": "Answer: Bratislava",
+          "feedback": "The city 'Bratislava' does not start with 'o'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_91",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Novocherkassk",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Novocherkassk\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Novokuznetsk",
+          "parsed_action": "Answer: Novokuznetsk",
+          "feedback": "The city 'Novokuznetsk' does not start with 'k'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_92",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Zhangcun",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Zhangcun\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Zagreb",
+          "parsed_action": "Answer: Zagreb",
+          "feedback": "The city 'Zagreb' does not start with 'n'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_93",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Kakamega",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Kakamega\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Kiev",
+          "parsed_action": "Answer: Kiev",
+          "feedback": "The city 'Kiev' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_94",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Gemerek",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Gemerek\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Gemerek",
+          "parsed_action": "Answer: Gemerek",
+          "feedback": "The city 'Gemerek' has already been used. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_95",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Campbell",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Campbell\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Canberra",
+          "parsed_action": "Answer: Canberra",
+          "feedback": "The city 'Canberra' does not start with 'l'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_96",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Birmingham",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Birmingham\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Bologna",
+          "parsed_action": "Answer: Bologna",
+          "feedback": "The city 'Bologna' does not start with 'm'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_97",
+      "status": "lost",
+      "won": false,
+      "turns": 2,
+      "target": "Ontario",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Ontario\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Ottawa",
+          "parsed_action": "Answer: Ottawa",
+          "feedback": "Accepted. My city is: Aubervilliers.",
+          "is_valid": true
+        },
+        {
+          "turn": 2,
+          "model_response": "Answer: Athens",
+          "parsed_action": "Answer: Athens",
+          "feedback": "The city 'Athens' does not start with 's'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_98",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Ayase",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Ayase\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Almaty",
+          "parsed_action": "Answer: Almaty",
+          "feedback": "The city 'Almaty' does not start with 'e'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_99",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Cingoli",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Cingoli\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: London",
+          "parsed_action": "Answer: London",
+          "feedback": "The city 'London' does not start with 'i'. Game over.",
+          "is_valid": false
+        }
+      ]
+    },
+    {
+      "id": "cities_100",
+      "status": "lost",
+      "won": false,
+      "turns": 1,
+      "target": "Kakata",
+      "initial_prompt": "You are playing the \"Cities\" game. This is a classic word game where players take turns naming cities.\n\nRules:\n1. I name a city.\n2. You must name a city that starts with the last letter of my city.\n3. You cannot repeat cities that have already been used in this game.\n4. You do not need to verify my cities. They always come from the database.\n5. You should only name existing cities and use their current names. For instance, \"Novgorod\" is wrong because nowadays it is \"Veliky Novgorod\".\n6. Use full English city names in ASCII.\n\nExamples:\n- Me: “London” (ends with “n”)\n- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)\n- Me: “Kyoto” (starts with “k”, ends with “o”)\n- You: “Oslo” (starts with “o”)\n\n\n\nYou MUST use the exact FINAL answer format:\nAnswer: <full city name>\n\nIMPORTANT:\n- Your reply must start with \"Answer:\".\n- Do not add anything after the city name.\n- Do not ask questions or comment on my move.\n\nLet's start. My opening city is \"Kakata\". Your move.",
+      "dialogue": [
+        {
+          "turn": 1,
+          "model_response": "Answer: Kinshasa",
+          "parsed_action": "Answer: Kinshasa",
+          "feedback": "The city 'Kinshasa' does not start with 'a'. Game over.",
+          "is_valid": false
+        }
+      ]
+    }
+  ]
+}

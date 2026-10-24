@@ -1,0 +1,298 @@
+{
+  "episode_id": "cities_46",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 23,
+  "target": "Они",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Они\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карабулак.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Киров",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Волжский.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-ола",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анкона.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ахангаран.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижневартовск",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Канаш.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Шахты",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Таганрог.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Грозный",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йосу.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Уфа",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Алушта.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алупка",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аугсбург.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Гатчина",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Абдулино.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гоща.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Азов",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Версаль.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кливленд.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Дубна",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ахсу.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Уссурийск",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кретинга.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Аксай",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йыгева.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Амурск",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каменец.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Циолковский",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонава.",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алейск",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каргополь.",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Лиски",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Иноземцево.",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орск",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кумух.",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Хабаровск",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кшенский.",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йемен",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "Город 'Йемен' не найден в базе. Игра окончена.",
+      "turn": 23
+    }
+  ],
+  "metadata": {
+    "start_city": "Они",
+    "current_letter": "й",
+    "last_opponent_city": "Кшенский",
+    "total_cities_used": 45,
+    "used_cities": [
+      "дубна",
+      "уфа",
+      "волжский",
+      "кретинга",
+      "каргополь",
+      "циолковский",
+      "версаль",
+      "хабаровск",
+      "карабулак",
+      "абдулино",
+      "шахты",
+      "иноземцево",
+      "азов",
+      "алупка",
+      "оренбург",
+      "йыгева",
+      "йосу",
+      "анкона",
+      "киров",
+      "йошкар ола",
+      "анапа",
+      "лиски",
+      "канаш",
+      "гатчина",
+      "грозный",
+      "орск",
+      "аксай",
+      "йонава",
+      "алейск",
+      "ахангаран",
+      "кумух",
+      "амурск",
+      "алушта",
+      "таганрог",
+      "кшенский",
+      "липецк",
+      "гоща",
+      "они",
+      "уссурийск",
+      "нижневартовск",
+      "ахсу",
+      "кливленд",
+      "ижевск",
+      "каменец",
+      "аугсбург"
+    ]
+  }
+}

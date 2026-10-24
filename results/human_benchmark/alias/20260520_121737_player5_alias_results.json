@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_121737",
+    "model_name": "human:player5",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player5"
+  },
+  "statistics": {
+    "model_name": "human:player5",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 30.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "30": 1
+    },
+    "total_duration_seconds": 1725.2531697750092,
+    "avg_duration_seconds": 1725.2531697750092
+  },
+  "games": [
+    {
+      "game_id": "alias_26",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Филип Джонсон",
+      "duration_seconds": 1725.2531697750092,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он жив сейчас?",
+          "player_answer": "он жив сейчас?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он связан с киноиндустрией?",
+          "player_answer": "он связан с киноиндустрией?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он политик?",
+          "player_answer": "он политик?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он - человек творческих профессий?",
+          "player_answer": "он - человек творческих профессий?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он художник?",
+          "player_answer": "он художник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: он музыкант?",
+          "player_answer": "он музыкант?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он певец?",
+          "player_answer": "он певец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: он писатель?",
+          "player_answer": "он писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: он актёр?",
+          "player_answer": "он актёр?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он композитор?",
+          "player_answer": "он композитор?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: его известность связана с музыкой?",
+          "player_answer": "его известность связана с музыкой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он занимался визуальным творчеством?",
+          "player_answer": "он занимался визуальным творчеством?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он скульптор?",
+          "player_answer": "он скульптор?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: архитектор?",
+          "player_answer": "архитектор?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он европеец?",
+          "player_answer": "он европеец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он американец?",
+          "player_answer": "он американец?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Фрэнк Ллойд Райт?",
+          "player_answer": "Фрэнк Ллойд Райт?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он работал в стиле модернизм?",
+          "player_answer": "он работал в стиле модернизм?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Салливан?",
+          "player_answer": "Салливан?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: он работал в стиле брутализм?",
+          "player_answer": "он работал в стиле брутализм?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: Гери?",
+          "player_answer": "Гери?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: Мис ван дер Роэ?",
+          "player_answer": "Мис ван дер Роэ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: его можно считать основоположником какого-то стиля?",
+          "player_answer": "его можно считать основоположником какого-то стиля?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: Рихард Нойтра?",
+          "player_answer": "Рихард Нойтра?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: Кан?",
+          "player_answer": "Кан?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: он проектировал хотя бы один небоскреб?",
+          "player_answer": "он проектировал хотя бы один небоскреб?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: он проектировал хотя бы один аэропорт?",
+          "player_answer": "он проектировал хотя бы один аэропорт?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: Джонсон?",
+          "player_answer": "Джонсон?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: Филип Джонсон?",
+          "player_answer": "Филип Джонсон?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Architects/ru/FilipDzhonson"
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_091713",
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 550.5194764137268,
+    "avg_duration_seconds": 550.5194764137268
+  },
+  "games": [
+    {
+      "game_id": "alias_5",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Америго Веспуччи",
+      "duration_seconds": 550.5194764137268,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он уже умер?",
+          "player_answer": "он уже умер?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он жил до 20 века?",
+          "player_answer": "он жил до 20 века?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он жил в средевековье?",
+          "player_answer": "он жил в средевековье?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он жил в античности?",
+          "player_answer": "он жил в античности?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он жил до 1000 года нашей эры?",
+          "player_answer": "он жил до 1000 года нашей эры?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: он жил до 1500 года?",
+          "player_answer": "он жил до 1500 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он жил в Европе?",
+          "player_answer": "он жил в Европе?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: это религиозный деятель?",
+          "player_answer": "это религиозный деятель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: это учёный?",
+          "player_answer": "это учёный?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: это военный?",
+          "player_answer": "это военный?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: он аристократ?",
+          "player_answer": "он аристократ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он писатель?",
+          "player_answer": "он писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он известен своими произведениями?",
+          "player_answer": "он известен своими произведениями?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: он жил в европе после 1000 года, но до 1500 года?",
+          "player_answer": "он жил в европе после 1000 года, но до 1500 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он монарх?",
+          "player_answer": "он монарх?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он оставил после себя произведения?",
+          "player_answer": "он оставил после себя произведения?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он художник?",
+          "player_answer": "он художник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он писал на русском?",
+          "player_answer": "он писал на русском?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: он писал на латинском?",
+          "player_answer": "он писал на латинском?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: он писал религиозные тексты?",
+          "player_answer": "он писал религиозные тексты?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: он писал научные работы?",
+          "player_answer": "он писал научные работы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: он писал исторические работы?",
+          "player_answer": "он писал исторические работы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: он писал художественные произведения?",
+          "player_answer": "он писал художественные произведения?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: он писал стихи?",
+          "player_answer": "он писал стихи?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: он жил в Италии или Франции?",
+          "player_answer": "он жил в Италии или Франции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: он жил в Германии или Нидерландах?",
+          "player_answer": "он жил в Германии или Нидерландах?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: он жил в Англии?",
+          "player_answer": "он жил в Англии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: он жил в восточной европе?",
+          "player_answer": "он жил в восточной европе?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: он жил в южной европе?",
+          "player_answer": "он жил в южной европе?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Explorers/ru/AmerigoVespuchchi"
+      }
+    }
+  ],
+  "debug": []
+}

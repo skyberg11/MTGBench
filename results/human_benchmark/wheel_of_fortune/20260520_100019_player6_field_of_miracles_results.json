@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "timestamp": "20260520_100019",
+    "model_name": "human:player6",
+    "game_type": "field_of_miracles",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "field_of_miracles",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 8.0,
+    "avg_attempts_won": 8.0,
+    "median_attempts": 8,
+    "min_attempts": 8,
+    "max_attempts": 8,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "8": 1
+    },
+    "total_duration_seconds": 64.25459313392639,
+    "avg_duration_seconds": 64.25459313392639
+  },
+  "games": [
+    {
+      "game_id": "field_of_miracles_26",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "Давай сыграем в \"Поле чудес\".\n\nВ этой игре от вас требуется угадать скрытое слово. Вы можете угадывать буквы по одной или пытаться угадать слово целиком. Когда вы угадываете букву, если она есть в слове, она открывается. Если буква присутствует в слове несколько раз, откроются все её вхождения. Вы выигрываете либо угадав слово целиком, либо угадав все его буквы. Вы проигрываете, если исчерпаете все свои попытки, не угадав слово.\n\n\n**Правила:**\n- У вас есть 29 попыток\n- **Эквивалентные буквы**: Следующие буквы считаются взаимозаменяемыми:\n  - И и Й (можно использовать любую)\n  - Е и Ё (можно использовать любую)\n  - Ь, Ъ и Ы (можно использовать любую)\n\nНе пиши никаких рассуждений, дай сразу же окончательный ответ в формате\nОтвет: <ваш ответ>.\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\n\nПример угадывания буквы:\nОтвет: О\n\nПример угадывания слова:\nОтвет: СЛОВО: СОБАКА\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после угаданной буквы или слова.\n- Не задавай вопросов и не комментируй мой ход.\n\n---\n\n**Текущее состояние:**\nСлово: _ _ _ _ _ _ _ _ _ _ _ _ _\nИспользовано попыток: 0/29\n",
+      "total_moves": 8,
+      "target": "ОЛИЦЕТВОРЕНИЕ",
+      "duration_seconds": 64.25459313392639,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: З",
+          "player_answer": "Ответ: З",
+          "feedback": "Неправильно. Буквы 'З' нет в слове.\n\nТекущее состояние:\nСлово: _ _ _ _ _ _ _ _ _ _ _ _ _\nИспользовано попыток: 0/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "З",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: А",
+          "player_answer": "Ответ: А",
+          "feedback": "Неправильно. Буквы 'А' нет в слове.\n\nТекущее состояние:\nСлово: _ _ _ _ _ _ _ _ _ _ _ _ _\nИспользовано попыток: 1/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "А",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: Е",
+          "player_answer": "Ответ: Е",
+          "feedback": "Правильно! Буква 'Е' встречается 3 раз(а).\n\nТекущее состояние:\nСлово: _ _ _ _ Е _ _ _ _ Е _ _ Е\nИспользовано попыток: 2/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Е",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: Н",
+          "player_answer": "Ответ: Н",
+          "feedback": "Правильно! Буква 'Н' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ _ _ _ Е _ _ _ _ Е Н _ Е\nИспользовано попыток: 3/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Н",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: И",
+          "player_answer": "Ответ: И",
+          "feedback": "Правильно! Буква 'И' встречается 2 раз(а).\n\nТекущее состояние:\nСлово: _ _ И _ Е _ _ _ _ Е Н И Е\nИспользовано попыток: 4/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "И",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Ответ: О",
+          "player_answer": "Ответ: О",
+          "feedback": "Правильно! Буква 'О' встречается 2 раз(а).\n\nТекущее состояние:\nСлово: О _ И _ Е _ _ О _ Е Н И Е\nИспользовано попыток: 5/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "О",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Ответ: Р",
+          "player_answer": "Ответ: Р",
+          "feedback": "Правильно! Буква 'Р' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: О _ И _ Е _ _ О Р Е Н И Е\nИспользовано попыток: 6/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Р",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Ответ: СЛОВО: ОЛИЦЕТВОРЕНИЕ",
+          "player_answer": "Ответ: СЛОВО: ОЛИЦЕТВОРЕНИЕ",
+          "feedback": "Правильно! Слово 'ОЛИЦЕТВОРЕНИЕ' угадано!\nТекущее состояние:\nСлово: О Л И Ц Е Т В О Р Е Н И Е\nИспользовано попыток: 7/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "ОЛИЦЕТВОРЕНИЕ",
+            "is_word_guess": true
+          }
+        }
+      ],
+      "metadata": {
+        "revealed_letters": [
+          "И",
+          "Н",
+          "О",
+          "Е",
+          "Р"
+        ],
+        "guessed_letters": [
+          "И",
+          "Н",
+          "Ё",
+          "А",
+          "О",
+          "З",
+          "Р"
+        ],
+        "word_length": 13,
+        "final_revealed_word": "О Л И Ц Е Т В О Р Е Н И Е",
+        "level": "B1"
+      }
+    }
+  ],
+  "debug": []
+}

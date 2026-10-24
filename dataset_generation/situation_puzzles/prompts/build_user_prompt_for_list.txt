@@ -1,0 +1,1 @@
+Generate {value_0} different elements for the list <<{value_1}>>. Return strictly a JSON array of exactly {value_2} strings.

@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_171150",
+    "model_name": "human:player5",
+    "game_type": "field_of_miracles",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player5"
+  },
+  "statistics": {
+    "model_name": "human:player5",
+    "game_type": "field_of_miracles",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 13.0,
+    "avg_attempts_won": 13.0,
+    "median_attempts": 13,
+    "min_attempts": 13,
+    "max_attempts": 13,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "13": 1
+    },
+    "total_duration_seconds": 348.7692425251007,
+    "avg_duration_seconds": 348.7692425251007
+  },
+  "games": [
+    {
+      "game_id": "field_of_miracles_56",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "Давай сыграем в \"Поле чудес\".\n\nВ этой игре от вас требуется угадать скрытое слово. Вы можете угадывать буквы по одной или пытаться угадать слово целиком. Когда вы угадываете букву, если она есть в слове, она открывается. Если буква присутствует в слове несколько раз, откроются все её вхождения. Вы выигрываете либо угадав слово целиком, либо угадав все его буквы. Вы проигрываете, если исчерпаете все свои попытки, не угадав слово.\n\n\n**Правила:**\n- У вас есть 29 попыток\n- **Эквивалентные буквы**: Следующие буквы считаются взаимозаменяемыми:\n  - И и Й (можно использовать любую)\n  - Е и Ё (можно использовать любую)\n  - Ь, Ъ и Ы (можно использовать любую)\n\nНе пиши никаких рассуждений, дай сразу же окончательный ответ в формате\nОтвет: <ваш ответ>.\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\n\nПример угадывания буквы:\nОтвет: О\n\nПример угадывания слова:\nОтвет: СЛОВО: СОБАКА\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после угаданной буквы или слова.\n- Не задавай вопросов и не комментируй мой ход.\n\n---\n\n**Текущее состояние:**\nСлово: _ _ _ _ _ _ _ _ _ _\nИспользовано попыток: 0/29\n",
+      "total_moves": 13,
+      "target": "ЗАМУЖЕСТВО",
+      "duration_seconds": 348.7692425251007,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: А",
+          "player_answer": "Ответ: А",
+          "feedback": "Правильно! Буква 'А' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А _ _ _ _ _ _ _ _\nИспользовано попыток: 0/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "А",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: О",
+          "player_answer": "Ответ: О",
+          "feedback": "Правильно! Буква 'О' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А _ _ _ _ _ _ _ О\nИспользовано попыток: 1/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "О",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: Е",
+          "player_answer": "Ответ: Е",
+          "feedback": "Правильно! Буква 'Е' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А _ _ _ Е _ _ _ О\nИспользовано попыток: 2/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Е",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: И",
+          "player_answer": "Ответ: И",
+          "feedback": "Неправильно. Буквы 'И' нет в слове.\n\nТекущее состояние:\nСлово: _ А _ _ _ Е _ _ _ О\nИспользовано попыток: 3/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "И",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: П",
+          "player_answer": "Ответ: П",
+          "feedback": "Неправильно. Буквы 'П' нет в слове.\n\nТекущее состояние:\nСлово: _ А _ _ _ Е _ _ _ О\nИспользовано попыток: 4/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "П",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Ответ: Н",
+          "player_answer": "Ответ: Н",
+          "feedback": "Неправильно. Буквы 'Н' нет в слове.\n\nТекущее состояние:\nСлово: _ А _ _ _ Е _ _ _ О\nИспользовано попыток: 5/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Н",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Ответ: М",
+          "player_answer": "Ответ: М",
+          "feedback": "Правильно! Буква 'М' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А М _ _ Е _ _ _ О\nИспользовано попыток: 6/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "М",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Ответ: В",
+          "player_answer": "Ответ: В",
+          "feedback": "Правильно! Буква 'В' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А М _ _ Е _ _ В О\nИспользовано попыток: 7/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "В",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 9,
+          "player_input": "Ответ: Т",
+          "player_answer": "Ответ: Т",
+          "feedback": "Правильно! Буква 'Т' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А М _ _ Е _ Т В О\nИспользовано попыток: 8/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Т",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 10,
+          "player_input": "Ответ: Ь",
+          "player_answer": "Ответ: Ь",
+          "feedback": "Неправильно. Буквы 'Ь' нет в слове.\n\nТекущее состояние:\nСлово: _ А М _ _ Е _ Т В О\nИспользовано попыток: 9/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Ь",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 11,
+          "player_input": "Ответ: С",
+          "player_answer": "Ответ: С",
+          "feedback": "Правильно! Буква 'С' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А М _ _ Е С Т В О\nИспользовано попыток: 10/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "С",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 12,
+          "player_input": "Ответ: У",
+          "player_answer": "Ответ: У",
+          "feedback": "Правильно! Буква 'У' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ А М У _ Е С Т В О\nИспользовано попыток: 11/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "У",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 13,
+          "player_input": "Ответ: СЛОВО: ЗАМУЖЕСТВО",
+          "player_answer": "Ответ: СЛОВО: ЗАМУЖЕСТВО",
+          "feedback": "Правильно! Слово 'ЗАМУЖЕСТВО' угадано!\nТекущее состояние:\nСлово: З А М У Ж Е С Т В О\nИспользовано попыток: 12/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "ЗАМУЖЕСТВО",
+            "is_word_guess": true
+          }
+        }
+      ],
+      "metadata": {
+        "revealed_letters": [
+          "М",
+          "А",
+          "В",
+          "С",
+          "О",
+          "Т",
+          "У",
+          "Е"
+        ],
+        "guessed_letters": [
+          "М",
+          "Ё",
+          "А",
+          "В",
+          "Н",
+          "О",
+          "Т",
+          "С",
+          "И",
+          "П",
+          "У",
+          "Ъ"
+        ],
+        "word_length": 10,
+        "final_revealed_word": "З А М У Ж Е С Т В О",
+        "level": "B2"
+      }
+    }
+  ],
+  "debug": []
+}

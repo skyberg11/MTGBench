@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "timestamp": "20260520_112218",
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 19.0,
+    "avg_attempts_won": 19.0,
+    "median_attempts": 19,
+    "min_attempts": 19,
+    "max_attempts": 19,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "19": 1
+    },
+    "total_duration_seconds": 663.6914930343628,
+    "avg_duration_seconds": 663.6914930343628
+  },
+  "games": [
+    {
+      "game_id": "alias_20",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 19,
+      "target": "Бенджамин Франклин",
+      "duration_seconds": 663.6914930343628,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он уже умер?",
+          "player_answer": "он уже умер?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он жил в 20 веке?",
+          "player_answer": "он жил в 20 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: из статьи, которую тебе дали про этого человека, тебе известно в какие годы он жил (хотя бы примерно)?",
+          "player_answer": "из статьи, которую тебе дали про этого человека, тебе известно в какие годы он жил (хотя бы примерно)?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: а география где он жил известна?",
+          "player_answer": "а география где он жил известна?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: это вымышленный персонаж?",
+          "player_answer": "это вымышленный персонаж?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: а на каком языке он говорил известно?",
+          "player_answer": "а на каком языке он говорил известно?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он оставил какие-то произведения: картины или книги?",
+          "player_answer": "он оставил какие-то произведения: картины или книги?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: это писатель?",
+          "player_answer": "это писатель?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: он из России?",
+          "player_answer": "он из России?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он европейский писатель?",
+          "player_answer": "он европейский писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: он американский писатель?",
+          "player_answer": "он американский писатель?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: это Марк Твен?",
+          "player_answer": "это Марк Твен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он умер в 20 веке?",
+          "player_answer": "он умер в 20 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: он умер в 19 веке?",
+          "player_answer": "он умер в 19 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он был политиком?",
+          "player_answer": "он был политиком?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он был президентом?",
+          "player_answer": "он был президентом?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он был одним из отцов основателей?",
+          "player_answer": "он был одним из отцов основателей?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Бенджамин Франклин?",
+          "player_answer": "Бенджамин Франклин?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Politicians/ru/BendzhaminFranklin"
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "timestamp": "20260520_121752",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 19.0,
+    "avg_attempts_won": 19.0,
+    "median_attempts": 19,
+    "min_attempts": 19,
+    "max_attempts": 19,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "19": 1
+    },
+    "total_duration_seconds": 270.38749146461487,
+    "avg_duration_seconds": 270.38749146461487
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_23",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 19,
+      "target": "слизень",
+      "duration_seconds": 270.38749146461487,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Форма: вытянутая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Размер: небольшой, средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Материал: органическая ткань",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Вес: очень лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Текстура: Слизистая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: слайм",
+          "player_answer": "слайм",
+          "feedback": "Температура-на-ощупь: Прохладная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Запах: слабый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Вкус: горьковатый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: желе",
+          "player_answer": "желе",
+          "feedback": "Прозрачность: полупрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Гибкость: высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Твёрдость: мягкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Подвижность: медленная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: амеба",
+          "player_answer": "амеба",
+          "feedback": "Количество-частей/компонентов: единое целое",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Назначение: живое существо",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: червь",
+          "player_answer": "червь",
+          "feedback": "Происхождение: природное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: пиявка",
+          "player_answer": "пиявка",
+          "feedback": "Живой/неживой: Живой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: полип",
+          "player_answer": "полип",
+          "feedback": "Встречаемость: распространённый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Стоимость/ценовая-категория: бесполезный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: слизняк",
+          "player_answer": "слизняк",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 19,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

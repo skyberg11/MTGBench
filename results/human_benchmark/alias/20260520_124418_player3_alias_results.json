@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_124418",
+    "model_name": "human:player3",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player3"
+  },
+  "statistics": {
+    "model_name": "human:player3",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 769.4438743591309,
+    "avg_duration_seconds": 769.4438743591309
+  },
+  "games": [
+    {
+      "game_id": "alias_36",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Уолтер Кронкайт",
+      "duration_seconds": 769.4438743591309,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: этот человек жив в настойщий момент?",
+          "player_answer": "этот человек жив в настойщий момент?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он родился после 1900 года?",
+          "player_answer": "он родился после 1900 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он умер до 2000 года?",
+          "player_answer": "он умер до 2000 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он умер с 2000 по 2010 год?",
+          "player_answer": "он умер с 2000 по 2010 год?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он жил в западном полушарии?",
+          "player_answer": "он жил в западном полушарии?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он жил в США?",
+          "player_answer": "он жил в США?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: это писатель?",
+          "player_answer": "это писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: это музыкант?",
+          "player_answer": "это музыкант?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: это актер?",
+          "player_answer": "это актер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: это ученый?",
+          "player_answer": "это ученый?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: это полтики?",
+          "player_answer": "это полтики?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: это политик?",
+          "player_answer": "это политик?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: художник?",
+          "player_answer": "художник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: бизнесмен?",
+          "player_answer": "бизнесмен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: изобретатель?",
+          "player_answer": "изобретатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: спортсмен?",
+          "player_answer": "спортсмен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он имеет отношение к киноиндустрии?",
+          "player_answer": "он имеет отношение к киноиндустрии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он знаменит?",
+          "player_answer": "он знаменит?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он врач?",
+          "player_answer": "он врач?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: военный?",
+          "player_answer": "военный?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: он знаменит из-за своей общественной деятельности?",
+          "player_answer": "он знаменит из-за своей общественной деятельности?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: он танцор?",
+          "player_answer": "он танцор?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: Джеймс Браун?",
+          "player_answer": "Джеймс Браун?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: Милтон Фридман?",
+          "player_answer": "Милтон Фридман?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: он экономист?",
+          "player_answer": "он экономист?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: автор книг?",
+          "player_answer": "автор книг?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: Джером Дэвид Сэлинджер?",
+          "player_answer": "Джером Дэвид Сэлинджер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: Он автор книг, но не писатель?",
+          "player_answer": "Он автор книг, но не писатель?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: Норман Мейлер?",
+          "player_answer": "Норман Мейлер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Journalists/ru/UolterKronkait"
+      }
+    }
+  ],
+  "debug": []
+}

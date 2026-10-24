@@ -1,0 +1,214 @@
+{
+  "episode_id": "cities_8",
+  "model": "human:player5",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 16,
+  "target": "Люберцы",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Люберцы\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Цюрих",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Хилок.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кострома",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ауце.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Елец",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цнори.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Канны.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижневартовск",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кандава.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алматы",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Тымовское.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Екатеринбург",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Городенка.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астана",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арапирака.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Антананариву",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Унеча.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Асбест",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Тракай.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-Ола",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арамиль.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кульсары.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Рига",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Алдан.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новокузнецк",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Комитан.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижний Тагил",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лесной.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орел",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Город 'Орел' не начинается на букву 'й'. Игра окончена.",
+      "turn": 16
+    }
+  ],
+  "metadata": {
+    "start_city": "Люберцы",
+    "current_letter": "й",
+    "last_opponent_city": "Лесной",
+    "total_cities_used": 31,
+    "used_cities": [
+      "люберцы",
+      "лесной",
+      "канны",
+      "новокузнецк",
+      "екатеринбург",
+      "алдан",
+      "ауце",
+      "рига",
+      "городенка",
+      "алматы",
+      "асбест",
+      "тракай",
+      "арапирака",
+      "комитан",
+      "астана",
+      "кострома",
+      "йошкар ола",
+      "хилок",
+      "цнори",
+      "нижний тагил",
+      "цюрих",
+      "кандава",
+      "кульсары",
+      "антананариву",
+      "липецк",
+      "тымовское",
+      "нижневартовск",
+      "унеча",
+      "елец",
+      "ижевск",
+      "арамиль"
+    ]
+  }
+}

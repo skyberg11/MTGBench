@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_34",
+  "model": "human:player10",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "грань",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: катер",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - серая буква\n- \"а\" - жёлтая буква\n- \"т\" - серая буква\n- \"е\" - серая буква\n- \"р\" - жёлтая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: роман",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"р\" - жёлтая буква\n- \"о\" - серая буква\n- \"м\" - серая буква\n- \"а\" - жёлтая буква\n- \"н\" - жёлтая буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: грань",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"г\" - зелёная буква\n- \"р\" - зелёная буква\n- \"а\" - зелёная буква\n- \"н\" - зелёная буква\n- \"ь\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_125408",
+    "model_name": "human:player4",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 1211.7127227783203,
+    "avg_duration_seconds": 1211.7127227783203
+  },
+  "games": [
+    {
+      "game_id": "alias_37",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Томас Келлер",
+      "duration_seconds": 1211.7127227783203,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: жив?",
+          "player_answer": "жив?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: мужчина?",
+          "player_answer": "мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: старше 50 лет?",
+          "player_answer": "старше 50 лет?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: прославился в политике?",
+          "player_answer": "прославился в политике?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: прославился в искусстве?",
+          "player_answer": "прославился в искусстве?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: прославился в спорте?",
+          "player_answer": "прославился в спорте?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: прославился в бизнесе?",
+          "player_answer": "прославился в бизнесе?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он праславился в науке?",
+          "player_answer": "он праславился в науке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: он из россии?",
+          "player_answer": "он из россии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: из америки?",
+          "player_answer": "из америки?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он бизнесмэн?",
+          "player_answer": "он бизнесмэн?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: илон маск?",
+          "player_answer": "илон маск?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он входит в список форбс?",
+          "player_answer": "он входит в список форбс?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: миллиардер?",
+          "player_answer": "миллиардер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: он известен как бизнесмэн?",
+          "player_answer": "он известен как бизнесмэн?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он знаменит чем то еще?",
+          "player_answer": "он знаменит чем то еще?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: его бизнес связан с техникой?",
+          "player_answer": "его бизнес связан с техникой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: его бизнес связан с автомобилями?",
+          "player_answer": "его бизнес связан с автомобилями?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Он появляется в интернет-мемах?",
+          "player_answer": "Он появляется в интернет-мемах?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Он когда-то занимал (или занимает) государственную должность / пост политика?",
+          "player_answer": "Он когда-то занимал (или занимает) государственную должность / пост политика?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: Это писатель?",
+          "player_answer": "Это писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: Он миллионер?",
+          "player_answer": "Он миллионер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: Он был когда либо в списках форбс?",
+          "player_answer": "Он был когда либо в списках форбс?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: Он богатый?",
+          "player_answer": "Он богатый?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: Это вымышленный персонаж?",
+          "player_answer": "Это вымышленный персонаж?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: Его бизнес успешен?",
+          "player_answer": "Его бизнес успешен?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: он снимался в кино?",
+          "player_answer": "он снимался в кино?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: он снимался в шоу?",
+          "player_answer": "он снимался в шоу?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: он женат?",
+          "player_answer": "он женат?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: у него есть дети?",
+          "player_answer": "у него есть дети?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Chefs/ru/TomasKeller"
+      }
+    }
+  ],
+  "debug": []
+}

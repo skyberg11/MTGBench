@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_111139",
+    "model_name": "human:player6",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 1320.5367028713226,
+    "avg_duration_seconds": 1320.5367028713226
+  },
+  "games": [
+    {
+      "game_id": "alias_15",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Мерил Стрип",
+      "duration_seconds": 1320.5367028713226,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: этот человек жив?",
+          "player_answer": "этот человек жив?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: это учёная?",
+          "player_answer": "это учёная?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: это артистка?",
+          "player_answer": "это артистка?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: связана с музыкой?",
+          "player_answer": "связана с музыкой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: связана с изобразительным искусством?",
+          "player_answer": "связана с изобразительным искусством?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: писательница?",
+          "player_answer": "писательница?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: актриса?",
+          "player_answer": "актриса?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: актриса кино?",
+          "player_answer": "актриса кино?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: из Америки?",
+          "player_answer": "из Америки?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: голливудская?",
+          "player_answer": "голливудская?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: снимается в боевиках?",
+          "player_answer": "снимается в боевиках?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: снимается в мелодрамах?",
+          "player_answer": "снимается в мелодрамах?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: ей больше 50 лет?",
+          "player_answer": "ей больше 50 лет?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: у неё белая кожа?",
+          "player_answer": "у неё белая кожа?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: это чернокожая актриса?",
+          "player_answer": "это чернокожая актриса?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: она азиатского происхождения?",
+          "player_answer": "она азиатского происхождения?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: она испанского или мексиканского происхождения?",
+          "player_answer": "она испанского или мексиканского происхождения?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: латиноамериканка?",
+          "player_answer": "латиноамериканка?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: арабского происхождения?",
+          "player_answer": "арабского происхождения?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: коренная американка?",
+          "player_answer": "коренная американка?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: она белая?",
+          "player_answer": "она белая?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: снималась в комедиях?",
+          "player_answer": "снималась в комедиях?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: она знаменита ролью в телесериале?",
+          "player_answer": "она знаменита ролью в телесериале?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: она получала Оскар?",
+          "player_answer": "она получала Оскар?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: снималась в одном фильме с Ричардом Гиром?",
+          "player_answer": "снималась в одном фильме с Ричардом Гиром?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: родилась в 60-х?",
+          "player_answer": "родилась в 60-х?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: родилась в 50-х?",
+          "player_answer": "родилась в 50-х?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: родилась в 70-х?",
+          "player_answer": "родилась в 70-х?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: родилась в 40-х?",
+          "player_answer": "родилась в 40-х?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Actors/ru/MerilStrip"
+      }
+    }
+  ],
+  "debug": []
+}

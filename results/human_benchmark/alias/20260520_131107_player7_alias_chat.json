@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_38",
+  "model": "human:player7",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Жозеф Лагранж",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: этот человек сейчас жив?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер до 20 века?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: деятель искусства?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: политический деятель?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ученый?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: в области физики ученый?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: открыл законы физические?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: в имени есть буква Н ?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Ньютон?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Кулон?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Ампер?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Лоренц?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Рентген?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: В его фамилии есть буква Н?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Бернулли?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: русский?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: итальянец?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ученый из Италии?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Энрико Ферми?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Леонардо да Винчи?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: в его фамилии есть буква р ?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: в его фамилии одновременно есть две буквы: и буква н, и буква р ?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: его имя начинается на к?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер раньше 1900 годов?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер раньше 1800 годов?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер между 1800 и 1900 годами?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Вентури?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Нобили?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Леопольдо Нобили?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Leopoldo Nobili?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Mathematicians/ru/ZHozefLagranzh"
+  }
+}

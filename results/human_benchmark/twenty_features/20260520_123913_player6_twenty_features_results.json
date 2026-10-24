@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123913",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 3.0,
+    "avg_attempts_won": 3.0,
+    "median_attempts": 3,
+    "min_attempts": 3,
+    "max_attempts": 3,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "3": 1
+    },
+    "total_duration_seconds": 17.25465965270996,
+    "avg_duration_seconds": 17.25465965270996
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_35",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 3,
+      "target": "меч",
+      "duration_seconds": 17.25465965270996,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: машина",
+          "player_answer": "машина",
+          "feedback": "Форма: продолговатая с лезвием",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: нож",
+          "player_answer": "нож",
+          "feedback": "Размер: крупный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: меч",
+          "player_answer": "меч",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 3,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

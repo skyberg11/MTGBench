@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_105541",
+    "model_name": "human:player3",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player3"
+  },
+  "statistics": {
+    "model_name": "human:player3",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 808.1354842185974,
+    "avg_duration_seconds": 808.1354842185974
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_10",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "гарнитура",
+      "duration_seconds": 808.1354842185974,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: фотография",
+          "player_answer": "фотография",
+          "feedback": "Форма: Изогнутая дуга",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: вешалка",
+          "player_answer": "вешалка",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: обруч",
+          "player_answer": "обруч",
+          "feedback": "Материал: пластик",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: ободок",
+          "player_answer": "ободок",
+          "feedback": "Вес: Легкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: заколка",
+          "player_answer": "заколка",
+          "feedback": "Текстура: Гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: подкова",
+          "player_answer": "подкова",
+          "feedback": "Температура-на-ощупь: нейтральная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: капа",
+          "player_answer": "капа",
+          "feedback": "Запах: слабый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: фиксатор",
+          "player_answer": "фиксатор",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: дуга",
+          "player_answer": "дуга",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: бумеранг",
+          "player_answer": "бумеранг",
+          "feedback": "Гибкость: жёсткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: трубка телефона",
+          "player_answer": "трубка телефона",
+          "feedback": "Твёрдость: средняя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: ложка",
+          "player_answer": "ложка",
+          "feedback": "Подвижность: Подвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: лопасть",
+          "player_answer": "лопасть",
+          "feedback": "Количество-частей/компонентов: несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: лук",
+          "player_answer": "лук",
+          "feedback": "Назначение: звукопередача",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: антенна",
+          "player_answer": "антенна",
+          "feedback": "Происхождение: Искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: спутник",
+          "player_answer": "спутник",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: наушник",
+          "player_answer": "наушник",
+          "feedback": "Встречаемость: Распространенный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: наушники",
+          "player_answer": "наушники",
+          "feedback": "Стоимость/ценовая-категория: средняя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: радиоприемник",
+          "player_answer": "радиоприемник",
+          "feedback": "Опасность-для-человека: Безопасный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: телефон",
+          "player_answer": "телефон",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

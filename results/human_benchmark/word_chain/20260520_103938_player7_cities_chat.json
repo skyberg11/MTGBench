@@ -1,0 +1,324 @@
+{
+  "episode_id": "cities_47",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": true,
+  "turns_used": 25,
+  "target": "Трентон",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Трентон\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Находка",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Амангельды.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Дубна",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агрыз.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Златоуст",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Тульский.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-ола",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аромашево.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гардабани.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Караул.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каракол.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Лиски",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Иглино.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орел",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лозанна.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арбаж.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Железноводск",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Коло.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Омск",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Качуг.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Гатчина",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аткарск.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курск",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кярдла.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алупка",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арсланбоб.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Буй",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йена.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Аксай",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонава.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Арск",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Комо.",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орск",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Корваллис.",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сочи",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Иматра.",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алдан",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ноглики.",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Керчь.",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Череповец",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цнори.",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Истра",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ачинск.",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Казань",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Наровля.",
+      "turn": 25
+    }
+  ],
+  "metadata": {
+    "start_city": "Трентон",
+    "current_letter": "я",
+    "last_opponent_city": "Наровля",
+    "total_cities_used": 51,
+    "used_cities": [
+      "буй",
+      "арск",
+      "тульский",
+      "аромашево",
+      "гардабани",
+      "дубна",
+      "керчь",
+      "череповец",
+      "ноглики",
+      "качуг",
+      "сочи",
+      "курск",
+      "иматра",
+      "железноводск",
+      "алдан",
+      "ачинск",
+      "златоуст",
+      "иглино",
+      "алупка",
+      "лозанна",
+      "находка",
+      "оренбург",
+      "арбаж",
+      "аткарск",
+      "казань",
+      "корваллис",
+      "коло",
+      "йошкар ола",
+      "кярдла",
+      "анапа",
+      "лиски",
+      "омск",
+      "караул",
+      "гатчина",
+      "иркутск",
+      "цнори",
+      "орск",
+      "аксай",
+      "йонава",
+      "комо",
+      "арсланбоб",
+      "каракол",
+      "липецк",
+      "орел",
+      "йена",
+      "истра",
+      "трентон",
+      "амангельды",
+      "наровля",
+      "ижевск",
+      "агрыз"
+    ]
+  }
+}

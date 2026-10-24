@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "timestamp": "20260520_121106",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 10.0,
+    "avg_attempts_won": 10.0,
+    "median_attempts": 10,
+    "min_attempts": 10,
+    "max_attempts": 10,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "10": 1
+    },
+    "total_duration_seconds": 194.22575449943542,
+    "avg_duration_seconds": 194.22575449943542
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_19",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 10,
+      "target": "занавески",
+      "duration_seconds": 194.22575449943542,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Форма: прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Размер: Различный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: коробка",
+          "player_answer": "коробка",
+          "feedback": "Материал: Разные",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Вес: лёгкий или средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Текстура: Мягкая, гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: покрывало",
+          "player_answer": "покрывало",
+          "feedback": "Запах: отсутствует или лёгкий химический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: тряпка",
+          "player_answer": "тряпка",
+          "feedback": "Прозрачность: полупрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: занавеска",
+          "player_answer": "занавеска",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 10,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

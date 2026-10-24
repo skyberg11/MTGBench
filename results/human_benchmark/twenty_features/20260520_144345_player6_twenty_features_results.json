@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_144345",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 20.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "20": 1
+    },
+    "total_duration_seconds": 447.8141620159149,
+    "avg_duration_seconds": 447.8141620159149
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_51",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "ролики",
+      "duration_seconds": 447.8141620159149,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: автомобиль",
+          "player_answer": "автомобиль",
+          "feedback": "Форма: Колёсная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: телега",
+          "player_answer": "телега",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: велоиспед",
+          "player_answer": "велоиспед",
+          "feedback": "Материал: Пластик металл ткань",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: карета",
+          "player_answer": "карета",
+          "feedback": "Вес: Легкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: мотоцикл",
+          "player_answer": "мотоцикл",
+          "feedback": "Текстура: Гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Температура-на-ощупь: Обычная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Запах: нейтральный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Гибкость: Частичная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: прицеп",
+          "player_answer": "прицеп",
+          "feedback": "Твёрдость: твёрдый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: фургон",
+          "player_answer": "фургон",
+          "feedback": "Подвижность: вращающийся",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: колесо",
+          "player_answer": "колесо",
+          "feedback": "Количество-частей/компонентов: Много",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: руль",
+          "player_answer": "руль",
+          "feedback": "Назначение: Передвижение, спорт",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: велосипед",
+          "player_answer": "велосипед",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: байк",
+          "player_answer": "байк",
+          "feedback": "Живой/неживой: неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: да что ты говоришь",
+          "player_answer": "да что ты говоришь",
+          "feedback": "Встречаемость: Распространенный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: коньки",
+          "player_answer": "коньки",
+          "feedback": "Стоимость/ценовая-категория: средняя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: скейтборд",
+          "player_answer": "скейтборд",
+          "feedback": "Опасность-для-человека: низкая (при правильном использовании)",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: ролики",
+          "player_answer": "ролики",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

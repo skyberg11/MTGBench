@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "timestamp": "20260521_125731",
+    "model_name": "human:player2",
+    "game_type": "field_of_miracles",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "field_of_miracles",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 12.0,
+    "avg_attempts_won": 12.0,
+    "median_attempts": 12,
+    "min_attempts": 12,
+    "max_attempts": 12,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "12": 1
+    },
+    "total_duration_seconds": 129.5247609615326,
+    "avg_duration_seconds": 129.5247609615326
+  },
+  "games": [
+    {
+      "game_id": "field_of_miracles_68",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "Давай сыграем в \"Поле чудес\".\n\nВ этой игре от вас требуется угадать скрытое слово. Вы можете угадывать буквы по одной или пытаться угадать слово целиком. Когда вы угадываете букву, если она есть в слове, она открывается. Если буква присутствует в слове несколько раз, откроются все её вхождения. Вы выигрываете либо угадав слово целиком, либо угадав все его буквы. Вы проигрываете, если исчерпаете все свои попытки, не угадав слово.\n\n\n**Правила:**\n- У вас есть 29 попыток\n- **Эквивалентные буквы**: Следующие буквы считаются взаимозаменяемыми:\n  - И и Й (можно использовать любую)\n  - Е и Ё (можно использовать любую)\n  - Ь, Ъ и Ы (можно использовать любую)\n\nНе пиши никаких рассуждений, дай сразу же окончательный ответ в формате\nОтвет: <ваш ответ>.\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\n\nПример угадывания буквы:\nОтвет: О\n\nПример угадывания слова:\nОтвет: СЛОВО: СОБАКА\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после угаданной буквы или слова.\n- Не задавай вопросов и не комментируй мой ход.\n\n---\n\n**Текущее состояние:**\nСлово: _ _ _ _ _ _\nИспользовано попыток: 0/29\n",
+      "total_moves": 12,
+      "target": "ПРИЛИВ",
+      "duration_seconds": 129.5247609615326,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: А",
+          "player_answer": "Ответ: А",
+          "feedback": "Неправильно. Буквы 'А' нет в слове.\n\nТекущее состояние:\nСлово: _ _ _ _ _ _\nИспользовано попыток: 0/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "А",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: Е",
+          "player_answer": "Ответ: Е",
+          "feedback": "Неправильно. Буквы 'Е' нет в слове.\n\nТекущее состояние:\nСлово: _ _ _ _ _ _\nИспользовано попыток: 1/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Е",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: И",
+          "player_answer": "Ответ: И",
+          "feedback": "Правильно! Буква 'И' встречается 2 раз(а).\n\nТекущее состояние:\nСлово: _ _ И _ И _\nИспользовано попыток: 2/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "И",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: О",
+          "player_answer": "Ответ: О",
+          "feedback": "Неправильно. Буквы 'О' нет в слове.\n\nТекущее состояние:\nСлово: _ _ И _ И _\nИспользовано попыток: 3/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "О",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: Т",
+          "player_answer": "Ответ: Т",
+          "feedback": "Неправильно. Буквы 'Т' нет в слове.\n\nТекущее состояние:\nСлово: _ _ И _ И _\nИспользовано попыток: 4/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Т",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Ответ: М",
+          "player_answer": "Ответ: М",
+          "feedback": "Неправильно. Буквы 'М' нет в слове.\n\nТекущее состояние:\nСлово: _ _ И _ И _\nИспользовано попыток: 5/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "М",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Ответ: К",
+          "player_answer": "Ответ: К",
+          "feedback": "Неправильно. Буквы 'К' нет в слове.\n\nТекущее состояние:\nСлово: _ _ И _ И _\nИспользовано попыток: 6/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "К",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Ответ: Р",
+          "player_answer": "Ответ: Р",
+          "feedback": "Правильно! Буква 'Р' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: _ Р И _ И _\nИспользовано попыток: 7/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Р",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 9,
+          "player_input": "Ответ: П",
+          "player_answer": "Ответ: П",
+          "feedback": "Правильно! Буква 'П' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: П Р И _ И _\nИспользовано попыток: 8/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "П",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 10,
+          "player_input": "Ответ: Б",
+          "player_answer": "Ответ: Б",
+          "feedback": "Неправильно. Буквы 'Б' нет в слове.\n\nТекущее состояние:\nСлово: П Р И _ И _\nИспользовано попыток: 9/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Б",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 11,
+          "player_input": "Ответ: Л",
+          "player_answer": "Ответ: Л",
+          "feedback": "Правильно! Буква 'Л' встречается 1 раз(а).\n\nТекущее состояние:\nСлово: П Р И Л И _\nИспользовано попыток: 10/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Л",
+            "is_word_guess": false
+          }
+        },
+        {
+          "move_number": 12,
+          "player_input": "Ответ: СЛОВО: ПРИЛИВ",
+          "player_answer": "Ответ: СЛОВО: ПРИЛИВ",
+          "feedback": "Правильно! Слово 'ПРИЛИВ' угадано!\nТекущее состояние:\nСлово: П Р И Л И В\nИспользовано попыток: 11/29",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "ПРИЛИВ",
+            "is_word_guess": true
+          }
+        }
+      ],
+      "metadata": {
+        "revealed_letters": [
+          "Р",
+          "И",
+          "Л",
+          "П"
+        ],
+        "guessed_letters": [
+          "М",
+          "Р",
+          "Ё",
+          "А",
+          "Б",
+          "О",
+          "Т",
+          "К",
+          "И",
+          "П",
+          "Л"
+        ],
+        "word_length": 6,
+        "final_revealed_word": "П Р И Л И В",
+        "level": "C1"
+      }
+    }
+  ],
+  "debug": []
+}

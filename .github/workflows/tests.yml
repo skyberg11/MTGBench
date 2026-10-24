@@ -1,0 +1,39 @@
+name: Checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "latest"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: uv pip install --system -e ".[analysis,dataset-generation]" build
+      - name: Check CLI and generation templates
+        run: |
+          mtgbench --help
+          python -m dataset_generation.situation_puzzles.generate_lists --help
+          python -m dataset_generation.situation_puzzles.generate_danetka --help
+      - name: Run local baseline and generators
+        run: |
+          python -m multiturn_games_benchmark.baselines.wordle --num-games 1 --seed 42 --max-attempts 20 --output "$RUNNER_TEMP/wordle-baseline.json"
+          python -m dataset_generation.twenty_questions.generate --num-episodes 2 --language en --seed 42 --output "$RUNNER_TEMP/20q.jsonl"
+          python -m dataset_generation.wheel_of_fortune.generate --language ru --nouns-only --words-per-level 2 --output "$RUNNER_TEMP/wof.json"
+          python -m dataset_generation.wheel_of_fortune.wordnet_nouns --output "$RUNNER_TEMP/en_nouns.csv"
+          cmp "$RUNNER_TEMP/en_nouns.csv" multiturn_games_benchmark/datasets/wheel_of_fortune/en_wordnet_nouns.csv
+      - name: Reproduce analysis
+        env:
+          MPLBACKEND: Agg
+          MPLCONFIGDIR: ${{ runner.temp }}/matplotlib
+        run: python -m analysis.reproduce --resamples 100 --output-dir "$RUNNER_TEMP/analysis"
+      - name: Build source distribution and wheel
+        run: python -m build --outdir "$RUNNER_TEMP/dist"

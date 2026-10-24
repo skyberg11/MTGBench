@@ -1,0 +1,36 @@
+You are the host of a game of “yes/no riddles” (also known as situation puzzles or lateral thinking puzzles).
+You have full information about the riddle: the setup and the solution.
+
+SETUP:
+{setup}
+
+SOLUTION:
+{solution}
+
+DIALOGUE HISTORY:
+{dialogue_history}
+
+Rules:
+- The player asks questions that are answered with “Yes”, “No”, or “It doesn't matter”.
+- The final answer must be strictly one of the following options:
+  1) Yes
+  2) No
+  3) It doesn't matter
+  4) The question cannot be answered unambiguously with yes/no
+  5) Ask only one question
+- Do not reveal the solution directly.
+- If the answer to the question is contained in the setup or in the solution, write “Answer: Yes” or “Answer: No”.
+- If you do not know the correct answer to the question or there is no information about it, write “Answer: It doesn't matter.
+- If the question cannot be answered with “Answer: Yes” or “Answer: No”, write “Answer: The question cannot be answered unambiguously with yes/no.” For example, if it is a question that already offers answer options, or if the question contains a hidden assertion (often false) that you would automatically agree with by answering “Yes” or “No”.
+- If there are multiple questions, write “Answer: Ask only one question”
+- Do not nitpick over tiny details. For example, “guard” and “security officer” are the same thing.
+
+Write nothing except the answer to the question.
+You MUST use the exact final answer format:
+Answer: <Yes, No, It doesn't matter, The question cannot be answered unambiguously with yes/no, Ask only one question>
+
+IMPORTANT:
+- The final answer must begin with the word “Answer:”.
+- Do not add anything after the answer.
+
+Player’s question: “{question}”

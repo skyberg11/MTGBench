@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "timestamp": "20260520_121645",
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 16.0,
+    "avg_attempts_won": 16.0,
+    "median_attempts": 16,
+    "min_attempts": 16,
+    "max_attempts": 16,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "16": 1
+    },
+    "total_duration_seconds": 270.0105290412903,
+    "avg_duration_seconds": 270.0105290412903
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_22",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 16,
+      "target": "полотенце",
+      "duration_seconds": 270.0105290412903,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Форма: прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: форма",
+          "player_answer": "форма",
+          "feedback": "Материал: хлопок",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: подушка",
+          "player_answer": "подушка",
+          "feedback": "Вес: Лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: платье",
+          "player_answer": "платье",
+          "feedback": "Текстура: ворсистая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: штаны",
+          "player_answer": "штаны",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: пододеяльник",
+          "player_answer": "пододеяльник",
+          "feedback": "Запах: Нейтральный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: наволочка",
+          "player_answer": "наволочка",
+          "feedback": "Вкус: отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: футболка",
+          "player_answer": "футболка",
+          "feedback": "Прозрачность: Непрозрачное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: прихватка",
+          "player_answer": "прихватка",
+          "feedback": "Гибкость: гибкое",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Твёрдость: Мягкое",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: покрывало",
+          "player_answer": "покрывало",
+          "feedback": "Подвижность: Высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: коврик",
+          "player_answer": "коврик",
+          "feedback": "Количество-частей/компонентов: одна часть",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: ковёр",
+          "player_answer": "ковёр",
+          "feedback": "Назначение: вытирание",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: тряпка",
+          "player_answer": "тряпка",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: полотенце",
+          "player_answer": "полотенце",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 16,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

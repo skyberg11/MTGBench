@@ -1,0 +1,178 @@
+{
+  "episode_id": "cities_28",
+  "model": "human:player1",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 13,
+  "target": "Сомбор",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Сомбор\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: рязань",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нижневартовск.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: кострома",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Альменево.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: оттава",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Александрия.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ярославль",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Липецк.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: крымск",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каррара.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анапа",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Антверпен.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: нижний новгород",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Джезказган.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: нью-йорк",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кировское.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ейск",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Короча.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: алушта",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Алексеевка.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: амстердам",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Модена.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анкара",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аткарск.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: кустанай",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Город 'кустанай' не найден в базе. Игра окончена.",
+      "turn": 13
+    }
+  ],
+  "metadata": {
+    "start_city": "Сомбор",
+    "current_letter": "к",
+    "last_opponent_city": "Аткарск",
+    "total_cities_used": 25,
+    "used_cities": [
+      "ейск",
+      "каррара",
+      "амстердам",
+      "короча",
+      "рязань",
+      "кировское",
+      "нижний новгород",
+      "аткарск",
+      "анкара",
+      "крымск",
+      "кострома",
+      "оттава",
+      "нью йорк",
+      "джезказган",
+      "анапа",
+      "антверпен",
+      "алушта",
+      "александрия",
+      "липецк",
+      "ярославль",
+      "альменево",
+      "нижневартовск",
+      "модена",
+      "сомбор",
+      "алексеевка"
+    ]
+  }
+}

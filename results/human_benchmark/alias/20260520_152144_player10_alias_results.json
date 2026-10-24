@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "timestamp": "20260520_152144",
+    "model_name": "human:player10",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player10"
+  },
+  "statistics": {
+    "model_name": "human:player10",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 19.0,
+    "avg_attempts_won": 19.0,
+    "median_attempts": 19,
+    "min_attempts": 19,
+    "max_attempts": 19,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "19": 1
+    },
+    "total_duration_seconds": 904.6669068336487,
+    "avg_duration_seconds": 904.6669068336487
+  },
+  "games": [
+    {
+      "game_id": "alias_57",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 19,
+      "target": "Андрей Тарковский",
+      "duration_seconds": 904.6669068336487,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Этот человек мужчина?",
+          "player_answer": "Этот человек мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Он сейчас жив?",
+          "player_answer": "Он сейчас жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Он родился после 1900 года?",
+          "player_answer": "Он родился после 1900 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Он родом из США?",
+          "player_answer": "Он родом из США?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Он родом из Европы?",
+          "player_answer": "Он родом из Европы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Он связан с политикой?",
+          "player_answer": "Он связан с политикой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Его деятельность была связана с искусством, кино или музыкой?",
+          "player_answer": "Его деятельность была связана с искусством, кино или музыкой?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Его деятельность была связана с музыкой (он был певцом / композитором / исполнителем)?",
+          "player_answer": "Его деятельность была связана с музыкой (он был певцом / композитором / исполнителем)?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Он был связан с кинематографом (актёр, режиссёр, сценарист)?",
+          "player_answer": "Он был связан с кинематографом (актёр, режиссёр, сценарист)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Он был в первую очередь режиссёром (а не актёром)?",
+          "player_answer": "Он был в первую очередь режиссёром (а не актёром)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Он был родом из Италии?",
+          "player_answer": "Он был родом из Италии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Он был родом из Франции?",
+          "player_answer": "Он был родом из Франции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Он работал в англоязычном кино (Великобритания)?",
+          "player_answer": "Он работал в англоязычном кино (Великобритания)?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: Он был родом из страны бывшего соцлагеря (СССР, Польша, Чехословакия, Венгрия, Югославия и т.д.)?",
+          "player_answer": "Он был родом из страны бывшего соцлагеря (СССР, Польша, Чехословакия, Венгрия, Югославия и т.д.)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Он был родом из СССР/России?",
+          "player_answer": "Он был родом из СССР/России?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Он начал свою режиссёрскую карьеру ещё в советское время (до 1991 года)?",
+          "player_answer": "Он начал свою режиссёрскую карьеру ещё в советское время (до 1991 года)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Он работал преимущественно в жанре комедии?",
+          "player_answer": "Он работал преимущественно в жанре комедии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Его фильмы носили преимущественно философско-поэтический, авторский характер (артхаус)?",
+          "player_answer": "Его фильмы носили преимущественно философско-поэтический, авторский характер (артхаус)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Это Андрей Тарковский?",
+          "player_answer": "Это Андрей Тарковский?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Film Directors/ru/AndreiTarkovskii"
+      }
+    }
+  ],
+  "debug": []
+}

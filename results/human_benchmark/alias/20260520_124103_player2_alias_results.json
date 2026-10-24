@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_124103",
+    "model_name": "human:player2",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 907.6919703483582,
+    "avg_duration_seconds": 907.6919703483582
+  },
+  "games": [
+    {
+      "game_id": "alias_35",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Хамфри Богарт",
+      "duration_seconds": 907.6919703483582,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это реальный человек?",
+          "player_answer": "это реальный человек?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он еще жив?",
+          "player_answer": "он еще жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: ты знаешь точно, когда он жил?",
+          "player_answer": "ты знаешь точно, когда он жил?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: ты знаешь примерный период, когда он жил?",
+          "player_answer": "ты знаешь примерный период, когда он жил?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: это легендарный персонаж?",
+          "player_answer": "это легендарный персонаж?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: он из западных стран?",
+          "player_answer": "он из западных стран?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он из европы?",
+          "player_answer": "он из европы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: он из сша?",
+          "player_answer": "он из сша?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: он связан с политикой?",
+          "player_answer": "он связан с политикой?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он связан с отцами основателями?",
+          "player_answer": "он связан с отцами основателями?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: он связан с борьбой за независимость?",
+          "player_answer": "он связан с борьбой за независимость?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он относится к коренным народам америки?",
+          "player_answer": "он относится к коренным народам америки?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он сам занимался политикой?",
+          "player_answer": "он сам занимался политикой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: он связан с военными действиями?",
+          "player_answer": "он связан с военными действиями?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он победил в какой-то битве?",
+          "player_answer": "он победил в какой-то битве?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он воевал в большой войне?",
+          "player_answer": "он воевал в большой войне?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он воевал против европейцев?",
+          "player_answer": "он воевал против европейцев?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он воевал против коренных народов америки?",
+          "player_answer": "он воевал против коренных народов америки?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: он воевал в войне севера и юга?",
+          "player_answer": "он воевал в войне севера и юга?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: он воевал против американцев?",
+          "player_answer": "он воевал против американцев?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: в войне, где он участвовал, его фракция победила?",
+          "player_answer": "в войне, где он участвовал, его фракция победила?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: этот человек непосредственно способствовал победе своей фракции в войне?",
+          "player_answer": "этот человек непосредственно способствовал победе своей фракции в войне?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: война, в которой участвовал этот человек, была в 18 веке?",
+          "player_answer": "война, в которой участвовал этот человек, была в 18 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: ты знаешь, когда была война, в которой он участвовал?",
+          "player_answer": "ты знаешь, когда была война, в которой он участвовал?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: про этого человека писали книги?",
+          "player_answer": "про этого человека писали книги?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: про него снимали кино?",
+          "player_answer": "про него снимали кино?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: он белый?",
+          "player_answer": "он белый?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: он афроамериканец?",
+          "player_answer": "он афроамериканец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: он азиат?",
+          "player_answer": "он азиат?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Actors/ru/HamfriBogart"
+      }
+    }
+  ],
+  "debug": []
+}

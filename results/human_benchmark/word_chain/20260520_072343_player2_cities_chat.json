@@ -1,0 +1,118 @@
+{
+  "episode_id": "cities_11",
+  "model": "human:player2",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 8,
+  "target": "Хучитан",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Хучитан\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижний Новгород",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Дижон.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нячанг",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гурзуф.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Фес",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Савона.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Александров",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Верхнеяркеево.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орёл",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лебяжье.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Екатеринбург",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ганчи.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иваново",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Оржица.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Аргыз",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Город 'Аргыз' не найден в базе. Игра окончена.",
+      "turn": 8
+    }
+  ],
+  "metadata": {
+    "start_city": "Хучитан",
+    "current_letter": "а",
+    "last_opponent_city": "Оржица",
+    "total_cities_used": 15,
+    "used_cities": [
+      "гурзуф",
+      "хучитан",
+      "орел",
+      "иваново",
+      "дижон",
+      "нижний новгород",
+      "лебяжье",
+      "александров",
+      "оржица",
+      "верхнеяркеево",
+      "ганчи",
+      "екатеринбург",
+      "савона",
+      "нячанг",
+      "фес"
+    ]
+  }
+}

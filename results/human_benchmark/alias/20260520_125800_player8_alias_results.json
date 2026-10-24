@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_125800",
+    "model_name": "human:player8",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player8"
+  },
+  "statistics": {
+    "model_name": "human:player8",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 2989.557567834854,
+    "avg_duration_seconds": 2989.557567834854
+  },
+  "games": [
+    {
+      "game_id": "alias_31",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Мартин Лютер",
+      "duration_seconds": 2989.557567834854,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Это мужчина?",
+          "player_answer": "Это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Он жив сейчас?",
+          "player_answer": "Он жив сейчас?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Он умер после 2000 года?",
+          "player_answer": "Он умер после 2000 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Он жил в двадцатом веке?",
+          "player_answer": "Он жил в двадцатом веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Его деятельность связана с искусством?",
+          "player_answer": "Его деятельность связана с искусством?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Он художник?",
+          "player_answer": "Он художник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Он писатель или поэт?",
+          "player_answer": "Он писатель или поэт?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Он музыкант или композитор?",
+          "player_answer": "Он музыкант или композитор?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Он скульптор?",
+          "player_answer": "Он скульптор?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Он из России?",
+          "player_answer": "Он из России?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Известен ли он чем-то кроме деятельности в искусстве?",
+          "player_answer": "Известен ли он чем-то кроме деятельности в искусстве?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Он политик?",
+          "player_answer": "Он политик?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Он ученый?",
+          "player_answer": "Он ученый?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: Его деятельность была связана с театром?",
+          "player_answer": "Его деятельность была связана с театром?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Его деятельность была связана с архитектурой?",
+          "player_answer": "Его деятельность была связана с архитектурой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Связано ли его имя с искусством фотографии?",
+          "player_answer": "Связано ли его имя с искусством фотографии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Он создавал какие-то предметы?",
+          "player_answer": "Он создавал какие-то предметы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Он путешественник?",
+          "player_answer": "Он путешественник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Это реальный человек?",
+          "player_answer": "Это реальный человек?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Он философ?",
+          "player_answer": "Он философ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: Он выступал перед публикой?",
+          "player_answer": "Он выступал перед публикой?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: Он фокусник?",
+          "player_answer": "Он фокусник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: Он певец?",
+          "player_answer": "Он певец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: Его деятельность связана с религией?",
+          "player_answer": "Его деятельность связана с религией?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: Это Иероним Стридонский?",
+          "player_answer": "Это Иероним Стридонский?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: Это Иоанн Златоуст?",
+          "player_answer": "Это Иоанн Златоуст?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: Он жил до нашей эры?",
+          "player_answer": "Он жил до нашей эры?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: Он был Папой Римским?",
+          "player_answer": "Он был Папой Римским?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: Он боролся с искусством?",
+          "player_answer": "Он боролся с искусством?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: Он был натурщиком?",
+          "player_answer": "Он был натурщиком?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Religious Figures/ru/MartinLyuter"
+      }
+    }
+  ],
+  "debug": []
+}

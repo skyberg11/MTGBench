@@ -1,0 +1,142 @@
+{
+  "episode_id": "cities_27",
+  "model": "human:player6",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 10,
+  "target": "Нижнеудинск",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Нижнеудинск\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: казань",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Навля.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ярославль",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ляоян.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ницца",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анан.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: норильск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кобрин.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: нижний новгород",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Донское.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: емва",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Архангельское.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: елец",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Целина.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: абакан",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нормал.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: лиман",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новосибирск.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: карманово",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Город 'карманово' не найден в базе. Игра окончена.",
+      "turn": 10
+    }
+  ],
+  "metadata": {
+    "start_city": "Нижнеудинск",
+    "current_letter": "к",
+    "last_opponent_city": "Новосибирск",
+    "total_cities_used": 19,
+    "used_cities": [
+      "нижнеудинск",
+      "кобрин",
+      "ляоян",
+      "емва",
+      "нормал",
+      "нижний новгород",
+      "казань",
+      "анан",
+      "целина",
+      "лиман",
+      "ницца",
+      "абакан",
+      "норильск",
+      "ярославль",
+      "навля",
+      "архангельское",
+      "новосибирск",
+      "елец",
+      "донское"
+    ]
+  }
+}

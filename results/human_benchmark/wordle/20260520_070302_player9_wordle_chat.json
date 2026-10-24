@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_11",
+  "model": "human:player9",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "опока",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: спорт",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"с\" - серая буква\n- \"п\" - зелёная буква\n- \"о\" - зелёная буква\n- \"р\" - серая буква\n- \"т\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: книга",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - жёлтая буква\n- \"н\" - серая буква\n- \"и\" - серая буква\n- \"г\" - серая буква\n- \"а\" - зелёная буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: опока",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"о\" - зелёная буква\n- \"п\" - зелёная буква\n- \"о\" - зелёная буква\n- \"к\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

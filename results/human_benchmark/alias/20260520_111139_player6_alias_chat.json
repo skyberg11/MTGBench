@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_15",
+  "model": "human:player6",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Мерил Стрип",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: этот человек жив?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это учёная?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это артистка?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связана с музыкой?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связана с изобразительным искусством?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: писательница?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: актриса?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: актриса кино?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: из Америки?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: голливудская?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: снимается в боевиках?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: снимается в мелодрамах?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ей больше 50 лет?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: у неё белая кожа?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это чернокожая актриса?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она азиатского происхождения?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она испанского или мексиканского происхождения?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: латиноамериканка?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: арабского происхождения?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: коренная американка?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она белая?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: снималась в комедиях?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она знаменита ролью в телесериале?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она получала Оскар?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: снималась в одном фильме с Ричардом Гиром?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: родилась в 60-х?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: родилась в 50-х?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: родилась в 70-х?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: родилась в 40-х?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Actors/ru/MerilStrip"
+  }
+}

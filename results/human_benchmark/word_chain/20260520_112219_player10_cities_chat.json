@@ -1,0 +1,178 @@
+{
+  "episode_id": "cities_52",
+  "model": "human:player10",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 13,
+  "target": "Ареццо",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Ареццо\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Октябрьский",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йорк.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кабардинка",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анкара.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абай",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йокогама.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абакан",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новоуральск.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кагул",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лиссабон.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нагасаки",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ирвин.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нагария",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Язъяван.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нестеров",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Вяземский.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йена",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Араван.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижнеангарск",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Колашин.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Никольское",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Езерище.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Единец",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цуриб.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Белиц",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Город 'Белиц' не найден в базе. Игра окончена.",
+      "turn": 13
+    }
+  ],
+  "metadata": {
+    "start_city": "Ареццо",
+    "current_letter": "б",
+    "last_opponent_city": "Цуриб",
+    "total_cities_used": 25,
+    "used_cities": [
+      "абай",
+      "нагария",
+      "единец",
+      "кагул",
+      "нагасаки",
+      "новоуральск",
+      "никольское",
+      "ирвин",
+      "цуриб",
+      "анкара",
+      "нестеров",
+      "кабардинка",
+      "лиссабон",
+      "йорк",
+      "йокогама",
+      "вяземский",
+      "октябрьский",
+      "абакан",
+      "езерище",
+      "араван",
+      "йена",
+      "ареццо",
+      "язъяван",
+      "колашин",
+      "нижнеангарск"
+    ]
+  }
+}

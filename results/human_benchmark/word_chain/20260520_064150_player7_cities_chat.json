@@ -1,0 +1,142 @@
+{
+  "episode_id": "cities_6",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 10,
+  "target": "Талас",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Талас\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Саратов",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Волчеяровка.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Абай.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-ола",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агджабеди.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кивиыли.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Курган.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Норильск",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Казань.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новосибирск",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карни.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иваново",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Оричи.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ивантеевка",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аксай.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: йошкар-ола",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Город 'йошкар-ола' уже был назван раньше. Игра окончена.",
+      "turn": 10
+    }
+  ],
+  "metadata": {
+    "start_city": "Талас",
+    "current_letter": "й",
+    "last_opponent_city": "Аксай",
+    "total_cities_used": 19,
+    "used_cities": [
+      "абай",
+      "ивантеевка",
+      "иваново",
+      "курган",
+      "волчеяровка",
+      "саратов",
+      "казань",
+      "карни",
+      "йошкар ола",
+      "анапа",
+      "иркутск",
+      "оричи",
+      "аксай",
+      "кивиыли",
+      "норильск",
+      "талас",
+      "агджабеди",
+      "новосибирск",
+      "ижевск"
+    ]
+  }
+}

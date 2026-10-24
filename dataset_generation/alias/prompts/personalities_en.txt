@@ -1,0 +1,38 @@
+Act as a strict data generator. Your task is to generate exactly 20 diverse personalities for EACH of the 20 categories listed below. 
+
+Rules:
+1. Provide ONLY the first and last name for each person.
+2. Do NOT include middle names, titles, birth/death years, descriptions, occupations, or any additional text.
+3. Ensure diversity in gender, ethnicity, nationality, and time periods (mix of historical and contemporary figures).
+4. Follow the exact output format provided below.
+
+Categories:
+- Athletes
+- Religious Figures
+- Humanitarians
+- Inventors
+- Writers
+- Comedians
+- Entrepreneurs
+- Politicians
+- Journalists
+- Architects
+- Mathematicians
+- Film Directors
+- Scientists
+- Explorers
+- Actors
+- Fashion Designers
+- Musicians
+- Artists
+- Philosophers
+- Chefs
+
+Output Format:
+[Category Name]
+1. Firstname Lastname
+2. Firstname Lastname
+...
+20. Firstname Lastname
+
+Repeat this exact format for all 20 categories. Do not add any introductory or concluding remarks.

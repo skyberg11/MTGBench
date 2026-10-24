@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "timestamp": "20260520_130126",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 13.0,
+    "avg_attempts_won": 13.0,
+    "median_attempts": 13,
+    "min_attempts": 13,
+    "max_attempts": 13,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "13": 1
+    },
+    "total_duration_seconds": 155.6303689479828,
+    "avg_duration_seconds": 155.6303689479828
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_42",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 13,
+      "target": "ёж",
+      "duration_seconds": 155.6303689479828,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: жук",
+          "player_answer": "жук",
+          "feedback": "Форма: овальная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: конфета",
+          "player_answer": "конфета",
+          "feedback": "Размер: маленький",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: драже",
+          "player_answer": "драже",
+          "feedback": "Материал: Органический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: так",
+          "player_answer": "так",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: продолжай",
+          "player_answer": "продолжай",
+          "feedback": "Текстура: Колючая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: колючка",
+          "player_answer": "колючка",
+          "feedback": "Температура-на-ощупь: теплый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: теплючка",
+          "player_answer": "теплючка",
+          "feedback": "Запах: землистый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: землючка",
+          "player_answer": "землючка",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: камень",
+          "player_answer": "камень",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Гибкость: маленькая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Твёрдость: твёрдые иголки, мягкое тело",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: каштан",
+          "player_answer": "каштан",
+          "feedback": "Подвижность: подвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: ёж",
+          "player_answer": "ёж",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 13,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

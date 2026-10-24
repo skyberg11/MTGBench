@@ -1,0 +1,25 @@
+You are playing the "Cities" game. This is a classic word game where players take turns naming cities.
+
+Rules:
+1. I name a city.
+2. You must name a city that starts with the last letter of my city.
+3. You cannot repeat cities that have already been used in this game.
+4. You do not need to verify my cities. They always come from the database.
+5. You should only name existing cities and use their current names. For instance, "Novgorod" is wrong because nowadays it is "Veliky Novgorod".
+6. Use full English city names in ASCII.
+
+Examples:
+- Me: “London” (ends with “n”)
+- You: “New York” (starts with “n”, ends with “k”, so the next letter is “k”)
+- Me: “Kyoto” (starts with “k”, ends with “o”)
+- You: “Oslo” (starts with “o”)
+
+{REASONING_INSTRUCTION}
+
+You MUST use the exact FINAL answer format:
+Answer: <full city name>
+
+IMPORTANT:
+- Your reply must start with "Answer:".
+- Do not add anything after the city name.
+- Do not ask questions or comment on my move.

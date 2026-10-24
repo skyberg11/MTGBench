@@ -1,0 +1,7510 @@
+{
+  "metadata": {
+    "source": "freq_dict_ruslang.csv",
+    "cite": "О. Н. Ляшевская, С. А. Шаров, Частотный словарь современного русского языка (на материалах Национального корпуса русского языка). М.: Азбуковник, 2009.",
+    "scoring_method": "letter_rarity",
+    "total_words": 1250
+  },
+  "words": [
+    {
+      "word": "тонна",
+      "difficulty_score": 92.02,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сосна",
+      "difficulty_score": 92.21,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "насос",
+      "difficulty_score": 92.21,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "тесто",
+      "difficulty_score": 92.21,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "осина",
+      "difficulty_score": 92.3,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "новое",
+      "difficulty_score": 92.33,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "теснота",
+      "difficulty_score": 92.36,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "террор",
+      "difficulty_score": 92.4,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "сонет",
+      "difficulty_score": 92.43,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "ответ",
+      "difficulty_score": 92.45,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "отнесение",
+      "difficulty_score": 92.47,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "океан",
+      "difficulty_score": 92.48,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "отлет",
+      "difficulty_score": 92.48,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "оратор",
+      "difficulty_score": 92.51,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "соната",
+      "difficulty_score": 92.52,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "антитело",
+      "difficulty_score": 92.55,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "тенор",
+      "difficulty_score": 92.58,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "ориентир",
+      "difficulty_score": 92.59,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "конек",
+      "difficulty_score": 92.6,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "основание",
+      "difficulty_score": 92.64,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "антенна",
+      "difficulty_score": 92.64,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "старое",
+      "difficulty_score": 92.69,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "икона",
+      "difficulty_score": 92.7,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "ссора",
+      "difficulty_score": 92.7,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "кокаин",
+      "difficulty_score": 92.7,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "канон",
+      "difficulty_score": 92.71,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "темнота",
+      "difficulty_score": 92.73,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "отмена",
+      "difficulty_score": 92.73,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "монета",
+      "difficulty_score": 92.73,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "талон",
+      "difficulty_score": 92.73,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "немота",
+      "difficulty_score": 92.73,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "освоение",
+      "difficulty_score": 92.75,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "верование",
+      "difficulty_score": 92.75,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "настроение",
+      "difficulty_score": 92.76,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "отстранение",
+      "difficulty_score": 92.76,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "ресторан",
+      "difficulty_score": 92.77,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "основное",
+      "difficulty_score": 92.77,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "сенатор",
+      "difficulty_score": 92.77,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "восстание",
+      "difficulty_score": 92.78,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "отставание",
+      "difficulty_score": 92.78,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "террорист",
+      "difficulty_score": 92.8,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "континент",
+      "difficulty_score": 92.8,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "нанесение",
+      "difficulty_score": 92.8,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "острие",
+      "difficulty_score": 92.8,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "авторитет",
+      "difficulty_score": 92.81,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "каток",
+      "difficulty_score": 92.82,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "новелла",
+      "difficulty_score": 92.82,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "откат",
+      "difficulty_score": 92.82,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "соответствие",
+      "difficulty_score": 92.83,
+      "level": "A2",
+      "length": 12
+    },
+    {
+      "word": "оттенок",
+      "difficulty_score": 92.83,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "литератор",
+      "difficulty_score": 92.83,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "котенок",
+      "difficulty_score": 92.83,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "пианино",
+      "difficulty_score": 92.83,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "сеанс",
+      "difficulty_score": 92.84,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "миномет",
+      "difficulty_score": 92.84,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "столетие",
+      "difficulty_score": 92.85,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "совет",
+      "difficulty_score": 92.86,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "основа",
+      "difficulty_score": 92.86,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "ореол",
+      "difficulty_score": 92.86,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "естество",
+      "difficulty_score": 92.86,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "отсвет",
+      "difficulty_score": 92.86,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "строение",
+      "difficulty_score": 92.87,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "сирота",
+      "difficulty_score": 92.87,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "момент",
+      "difficulty_score": 92.88,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "панно",
+      "difficulty_score": 92.88,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "описание",
+      "difficulty_score": 92.89,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "салон",
+      "difficulty_score": 92.89,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "опасение",
+      "difficulty_score": 92.89,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "несоответствие",
+      "difficulty_score": 92.89,
+      "level": "A2",
+      "length": 14
+    },
+    {
+      "word": "атеист",
+      "difficulty_score": 92.89,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "томат",
+      "difficulty_score": 92.89,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "контакт",
+      "difficulty_score": 92.91,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "острота",
+      "difficulty_score": 92.91,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "староста",
+      "difficulty_score": 92.91,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "нотка",
+      "difficulty_score": 92.91,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "титан",
+      "difficulty_score": 92.92,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "волнение",
+      "difficulty_score": 92.93,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "сосиска",
+      "difficulty_score": 92.94,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "состав",
+      "difficulty_score": 92.95,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "ранение",
+      "difficulty_score": 92.95,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "обитание",
+      "difficulty_score": 92.95,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "аттестат",
+      "difficulty_score": 92.95,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "оппонент",
+      "difficulty_score": 92.96,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "таинство",
+      "difficulty_score": 92.96,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "ассистент",
+      "difficulty_score": 92.96,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "сомнение",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "соревнование",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 12
+    },
+    {
+      "word": "равновесие",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "наименование",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 12
+    },
+    {
+      "word": "мамонт",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "гонение",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "рисование",
+      "difficulty_score": 92.97,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "сторона",
+      "difficulty_score": 92.98,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "котик",
+      "difficulty_score": 92.98,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "малое",
+      "difficulty_score": 92.99,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "расслоение",
+      "difficulty_score": 92.99,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "творение",
+      "difficulty_score": 93.0,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "кинотеатр",
+      "difficulty_score": 93.0,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "коленка",
+      "difficulty_score": 93.0,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "абонент",
+      "difficulty_score": 93.0,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "наводнение",
+      "difficulty_score": 93.0,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "соединение",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "опера",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "ворона",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "второе",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "воевода",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "реактор",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "донесение",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "несение",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "картотека",
+      "difficulty_score": 93.01,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "стена",
+      "difficulty_score": 93.02,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сенат",
+      "difficulty_score": 93.02,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сосед",
+      "difficulty_score": 93.03,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "арена",
+      "difficulty_score": 93.03,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сортир",
+      "difficulty_score": 93.04,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "наполнение",
+      "difficulty_score": 93.04,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "песнопение",
+      "difficulty_score": 93.04,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "тоник",
+      "difficulty_score": 93.05,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сознание",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "осознание",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "теорема",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "тестирование",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 12
+    },
+    {
+      "word": "инвестирование",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 14
+    },
+    {
+      "word": "веретено",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "растворение",
+      "difficulty_score": 93.06,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "котлета",
+      "difficulty_score": 93.07,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "отсек",
+      "difficulty_score": 93.07,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "осанка",
+      "difficulty_score": 93.07,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "волна",
+      "difficulty_score": 93.08,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "интернат",
+      "difficulty_score": 93.08,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "реставратор",
+      "difficulty_score": 93.08,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "восстановление",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 14
+    },
+    {
+      "word": "становление",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "составление",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "отток",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "одессит",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "оставление",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "пропитание",
+      "difficulty_score": 93.09,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "автор",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "товар",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "ворота",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "орнамент",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "отвар",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "отрава",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "рвота",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "настояние",
+      "difficulty_score": 93.1,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "контекст",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "идиот",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "равенство",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "скотина",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "солист",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "останки",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "неравенство",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "отдаление",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "иконостас",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "пансион",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "отпевание",
+      "difficulty_score": 93.11,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "окраина",
+      "difficulty_score": 93.12,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "теоретик",
+      "difficulty_score": 93.12,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "металлолом",
+      "difficulty_score": 93.12,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "воинство",
+      "difficulty_score": 93.12,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "свинство",
+      "difficulty_score": 93.12,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "место",
+      "difficulty_score": 93.13,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "оператор",
+      "difficulty_score": 93.13,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "оперетта",
+      "difficulty_score": 93.13,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "арендатор",
+      "difficulty_score": 93.13,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "масон",
+      "difficulty_score": 93.13,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "новатор",
+      "difficulty_score": 93.13,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "театр",
+      "difficulty_score": 93.14,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "досада",
+      "difficulty_score": 93.14,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "видео",
+      "difficulty_score": 93.14,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сословие",
+      "difficulty_score": 93.14,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "осада",
+      "difficulty_score": 93.14,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "метанол",
+      "difficulty_score": 93.14,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "теннис",
+      "difficulty_score": 93.15,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "теннисист",
+      "difficulty_score": 93.15,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "остаток",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "тоска",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "новинка",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "пионер",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "гетто",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "сотка",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "озарение",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "ношение",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "отвал",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "разорение",
+      "difficulty_score": 93.16,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "сочетание",
+      "difficulty_score": 93.17,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "венок",
+      "difficulty_score": 93.17,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "рента",
+      "difficulty_score": 93.17,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "нововведение",
+      "difficulty_score": 93.17,
+      "level": "A2",
+      "length": 12
+    },
+    {
+      "word": "метеорит",
+      "difficulty_score": 93.17,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "доведение",
+      "difficulty_score": 93.17,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "отверстие",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "стадион",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "станок",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "киоск",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "теплота",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "отравление",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "константа",
+      "difficulty_score": 93.18,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "номер",
+      "difficulty_score": 93.19,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "радио",
+      "difficulty_score": 93.19,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "инвестор",
+      "difficulty_score": 93.19,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "завоевание",
+      "difficulty_score": 93.19,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "сотворение",
+      "difficulty_score": 93.19,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "остов",
+      "difficulty_score": 93.19,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "колено",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "отклонение",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "корка",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "носик",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "риторика",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "пансионат",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "лесосека",
+      "difficulty_score": 93.2,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "родина",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "понимание",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "рассмотрение",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 12
+    },
+    {
+      "word": "наркотик",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "ассортимент",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "бетон",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "непонимание",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "сирена",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "напоминание",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "контрактник",
+      "difficulty_score": 93.21,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "отчет",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "крона",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "ректор",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "корона",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "пополнение",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 10
+    },
+    {
+      "word": "ордер",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "светило",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "норка",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "лотос",
+      "difficulty_score": 93.22,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "орден",
+      "difficulty_score": 93.23,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "послание",
+      "difficulty_score": 93.23,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "сострадание",
+      "difficulty_score": 93.23,
+      "level": "A2",
+      "length": 11
+    },
+    {
+      "word": "весло",
+      "difficulty_score": 93.23,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "лента",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "приоритет",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "винтовка",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "налет",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "оснащение",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "ипотека",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "репетитор",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "томление",
+      "difficulty_score": 93.24,
+      "level": "A2",
+      "length": 8
+    },
+    {
+      "word": "распространение",
+      "difficulty_score": 93.25,
+      "level": "A2",
+      "length": 15
+    },
+    {
+      "word": "попадание",
+      "difficulty_score": 93.25,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "опека",
+      "difficulty_score": 93.25,
+      "level": "A2",
+      "length": 5
+    },
+    {
+      "word": "синева",
+      "difficulty_score": 93.25,
+      "level": "A2",
+      "length": 6
+    },
+    {
+      "word": "католик",
+      "difficulty_score": 93.25,
+      "level": "A2",
+      "length": 7
+    },
+    {
+      "word": "отношение",
+      "difficulty_score": 93.26,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "состояние",
+      "difficulty_score": 93.26,
+      "level": "A2",
+      "length": 9
+    },
+    {
+      "word": "событие",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "образование",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "ветер",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "водка",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "сигарета",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "спрос",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "опрос",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "сияние",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "толща",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "плотник",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "аттракцион",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "базирование",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "татуировка",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "полтинник",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "совместимость",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "советчик",
+      "difficulty_score": 94.0,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "ребенок",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "строительство",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "стакан",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "опасность",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "логика",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "символ",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "платок",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "клиника",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "щенок",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "героиня",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "кончик",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "овраг",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "пересмотр",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "вдохновение",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "лопатка",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "алкоголик",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "заинтересованность",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 18
+    },
+    {
+      "word": "иголка",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "калина",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "смирение",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "почет",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "пирожное",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "генетика",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "полимер",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "родственница",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "античность",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "фарфор",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "восклицание",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "ограбление",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "американка",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "агрессивность",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "вождение",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "кровотечение",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "обивка",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "олицетворение",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "прореха",
+      "difficulty_score": 94.01,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "кабинет",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "желание",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "соглашение",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "творчество",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "танец",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "ведомство",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "компонент",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "морда",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "расположение",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "синтез",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "трещина",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "совершенство",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "разочарование",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "окрестность",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "деление",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "метафора",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "знаменитость",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "листочек",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "нежелание",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "лепесток",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "говно",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "реформатор",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "идеолог",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "обстрел",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "созерцание",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "адресат",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "несовершенство",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 14
+    },
+    {
+      "word": "сельсовет",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "кочка",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "усовершенствование",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 18
+    },
+    {
+      "word": "секретность",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "успокоение",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "деликатность",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "телескоп",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "лесник",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "столп",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "реагент",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "отрочество",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "неполадка",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "пассивность",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "психопат",
+      "difficulty_score": 94.02,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "литература",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "доклад",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "лодка",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "критика",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "чемодан",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "интонация",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "намек",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "монах",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "старичок",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "контейнер",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "стенд",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "наставник",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "оклад",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "доцент",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "автомашина",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "взаимопонимание",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 15
+    },
+    {
+      "word": "протоиерей",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "колода",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "немка",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "трактир",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "благоговение",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "видеокамера",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "инвентарь",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "маскировка",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "затворник",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "колодка",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "оранжерея",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "конверсия",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "манекен",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "начисление",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "тарелочка",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "повстанец",
+      "difficulty_score": 94.03,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "зеркало",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "заболевание",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "охотник",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "родные",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "изобретение",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "доставка",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "логистика",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "комплимент",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "перила",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "телохранитель",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "крестик",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "диктор",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "черновик",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "прошение",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "горелка",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "леска",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "черенок",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "наработка",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "банкрот",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "крематорий",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "обелиск",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "мерзлота",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "гистограмма",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "меморандум",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "мораторий",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "средоточие",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "плодородие",
+      "difficulty_score": 94.04,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "положение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "возраст",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "источник",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "новость",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "столовая",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "туалет",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "регулирование",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "комбинат",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "поклонник",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "сражение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "урегулирование",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 14
+    },
+    {
+      "word": "инструктор",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "мировоззрение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 13
+    },
+    {
+      "word": "милосердие",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "истечение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "строфа",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "веревочка",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "стечение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "слива",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "экосистема",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "ломтик",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "паром",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "наследственность",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 16
+    },
+    {
+      "word": "выравнивание",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "непогода",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "затмение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "массовка",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "еврейство",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "ожесточение",
+      "difficulty_score": 94.05,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "реформа",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "отрасль",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "могила",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "наказание",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "поставка",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "полка",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "бомба",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "маневр",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "косточка",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "разногласие",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "приток",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "братство",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "рабство",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "колпак",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "смертность",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "этнос",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "нашествие",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "поднятие",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "обсерватория",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "абрикос",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "неясность",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "деточка",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "рутина",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "универсальность",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 15
+    },
+    {
+      "word": "ангина",
+      "difficulty_score": 94.06,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "число",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "среда",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "командир",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "адрес",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "человечество",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "поселок",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "посетитель",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "актив",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "конгресс",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "возражение",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "противостояние",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 14
+    },
+    {
+      "word": "отрезок",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "фонарик",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "отдача",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "материк",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "символика",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "летопись",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "малина",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "сценарист",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "цистерна",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "свинка",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "наркоз",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "скорпион",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "декан",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "комсомолка",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "автостоянка",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "астролог",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "низина",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "пережитое",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "соломка",
+      "difficulty_score": 94.07,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "голова",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 6
+    },
+    {
+      "word": "текст",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "сведение",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 8
+    },
+    {
+      "word": "диван",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "атмосфера",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "атака",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "расширение",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 10
+    },
+    {
+      "word": "воображение",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "профессионал",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 12
+    },
+    {
+      "word": "организатор",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "потребление",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 11
+    },
+    {
+      "word": "койка",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 5
+    },
+    {
+      "word": "феномен",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 7
+    },
+    {
+      "word": "отпечаток",
+      "difficulty_score": 94.08,
+      "level": "B1",
+      "length": 9
+    },
+    {
+      "word": "горец",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "громада",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "долька",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "клерк",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "перипетия",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "безмолвие",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "сандалия",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "темень",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "пловец",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "ноутбук",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "расческа",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "наружность",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "эластичность",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "иезуит",
+      "difficulty_score": 94.73,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "письмо",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "поверхность",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "профессия",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "замечание",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "должник",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "украшение",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "эшелон",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "барабан",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "методология",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "инфаркт",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "добавка",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "осторожность",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "тележка",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "реставрация",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "баран",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "теплоход",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "выращивание",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "смещение",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "узелок",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "апартаменты",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "универмаг",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "берет",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "ремешок",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "авторучка",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "кинематография",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 14
+    },
+    {
+      "word": "лесть",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "обреченность",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "безответственность",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 18
+    },
+    {
+      "word": "угода",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "хризантема",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "билетик",
+      "difficulty_score": 94.74,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "государство",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "критерий",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "гарантия",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "ветвь",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "телеграмма",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "рассуждение",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "развлечение",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "иерархия",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "воробей",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "приемник",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "стипендия",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "бросок",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "возглас",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "преемник",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "забастовка",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "округа",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "гроссмейстер",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "чехол",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "валун",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "охапка",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "причинение",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "изменчивость",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "неполноценность",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 15
+    },
+    {
+      "word": "сварка",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "капкан",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "комнатушка",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "магистр",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "кабаре",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "побоище",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "форвард",
+      "difficulty_score": 94.75,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "программа",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "степень",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "разработка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "страсть",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "ткань",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "подросток",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "бассейн",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "квартал",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "затылок",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "плоть",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "подача",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "прекращение",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "японец",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "функционирование",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 16
+    },
+    {
+      "word": "заработок",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "объятие",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "десятка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "величие",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "микрофон",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "борец",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "промысел",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "превосходство",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "парочка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "тополь",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "коалиция",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "пограничник",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "бактерия",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "блокада",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "матка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "корреляция",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "аллергия",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "бомбежка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "нажим",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "коллективизация",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 15
+    },
+    {
+      "word": "бурение",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "повозка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "простой",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "пивная",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "немощь",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "водочка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "дезертир",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "сосулька",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "обшивка",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "пойма",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "проблеск",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "радар",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "проигрыватель",
+      "difficulty_score": 94.76,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "гость",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "руководитель",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "счастье",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "карман",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "обсуждение",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "летчик",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "архитектура",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "баланс",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "задолженность",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "производительность",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 18
+    },
+    {
+      "word": "гражданство",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "заготовка",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "продолжительность",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 17
+    },
+    {
+      "word": "уборка",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "бедствие",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "закрытие",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "потерпевший",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "уборная",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "украинец",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "драгоценность",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "злоупотребление",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 15
+    },
+    {
+      "word": "свечка",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "кобура",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "надзиратель",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "подполье",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "озабоченность",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "обозреватель",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "помещик",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "личинка",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "озноб",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "луковица",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "домработница",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "изящество",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "доблесть",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "завхоз",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "шиповник",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "изготовитель",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "махорка",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "зевака",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "левша",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "переустройство",
+      "difficulty_score": 94.77,
+      "level": "B2",
+      "length": 14
+    },
+    {
+      "word": "чувство",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "схема",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "подпись",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "речка",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "энергетика",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "электричество",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "прическа",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "дежурство",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "кулиса",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "пепел",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "застройка",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "страховщик",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "содружество",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "тундра",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "полуостров",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "коктейль",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "уголовник",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "арифметика",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "комплектация",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "хобби",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "микроб",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "стюардесса",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "нападки",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "сажень",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "удержание",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "легкомыслие",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "волхв",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "извращение",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "визитка",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "прима",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "гарем",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "передник",
+      "difficulty_score": 94.78,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "газета",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "размер",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "способ",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "москвич",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "сложность",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "скважина",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "аргумент",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "провод",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "документация",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "виски",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "унижение",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "произвол",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "комсомолец",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "реорганизация",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "автограф",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "болтовня",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "трибунал",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "судорога",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "реквизит",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "голосок",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "водопровод",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "замужество",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "бомбардировка",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 13
+    },
+    {
+      "word": "корифей",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "путеводитель",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 12
+    },
+    {
+      "word": "обманщик",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "шипение",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "замер",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "кожица",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "модельер",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "небрежность",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "флотилия",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "крестьянка",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "издевка",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "лодочка",
+      "difficulty_score": 94.79,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "наука",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "бизнес",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "мастерская",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "рейтинг",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "спектр",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "препятствие",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "упражнение",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 10
+    },
+    {
+      "word": "галактика",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "колледж",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 7
+    },
+    {
+      "word": "выяснение",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 9
+    },
+    {
+      "word": "нюанс",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "броня",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "биолог",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 6
+    },
+    {
+      "word": "канун",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 5
+    },
+    {
+      "word": "электрод",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "конспирация",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 11
+    },
+    {
+      "word": "лингвист",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "ожерелье",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 8
+    },
+    {
+      "word": "обязательность",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 14
+    },
+    {
+      "word": "наблюдательность",
+      "difficulty_score": 94.8,
+      "level": "B2",
+      "length": 16
+    },
+    {
+      "word": "драка",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "перемещение",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "распад",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "племянник",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "обморок",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "скула",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "спецназ",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "зараза",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "выписка",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "тачка",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "энтузиаст",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "духовка",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "архипелаг",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "дошкольник",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "панихида",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "художество",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "эстафета",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "сучок",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "ультиматум",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "холостяк",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "локализация",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "бампер",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "мирянин",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "подложка",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "юнкер",
+      "difficulty_score": 95.2,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "вечер",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "печать",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "сахар",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "петля",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "санкция",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "схватка",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "обвиняемый",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "болельщик",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "клятва",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "причал",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "избранник",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "графин",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "дырочка",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "хижина",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "оглядка",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "ревизия",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "шуточка",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "ягодица",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "участница",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "любезность",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "паралич",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "русалка",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "газетчик",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "апелляция",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "домишко",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "мечтатель",
+      "difficulty_score": 95.21,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "промышленность",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 14
+    },
+    {
+      "word": "съемка",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "путешествие",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "дисциплина",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "завтрак",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "государь",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "капуста",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "возбуждение",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "эмигрант",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "генштаб",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "уступка",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "повязка",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "преграда",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "авангард",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "морковь",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "преувеличение",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "камешек",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "богослов",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "возбудитель",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "раздевалка",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "прибой",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "дубленка",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "субстрат",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "фанатизм",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "маузер",
+      "difficulty_score": 95.22,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "магазин",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "август",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "религия",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "вызов",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "городок",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "папка",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "валюта",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "популярность",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 12
+    },
+    {
+      "word": "рояль",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "поручик",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "индустрия",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "скрип",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "доброволец",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "выговор",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "полководец",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "вывоз",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "опушка",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "полуфабрикат",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 12
+    },
+    {
+      "word": "ссуда",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "обиход",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "прилив",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "кинофильм",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "хищение",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "флейта",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "убежденность",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 12
+    },
+    {
+      "word": "дяденька",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "окружность",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "лицемерие",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "прииск",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "лоджия",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "рафик",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "пчелка",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "рецептура",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "собутыльник",
+      "difficulty_score": 95.23,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "премия",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "прогноз",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "империя",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "сволочь",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "спичка",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "менеджмент",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "магистраль",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "дружина",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "израильтянин",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 12
+    },
+    {
+      "word": "скрипач",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "беспомощность",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "капюшон",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "заговорщик",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "шизофрения",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "окружающие",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "прицеп",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "басня",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "манекенщица",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "плательщик",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "вахтенный",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "рецидив",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "энергоресурсы",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "дупло",
+      "difficulty_score": 95.24,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "выбор",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "выборы",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "учительница",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "мудрость",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "урожай",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "репутация",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "обрыв",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "оптимизация",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "клавиша",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "досуг",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "мученик",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "ураган",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "священнослужитель",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 17
+    },
+    {
+      "word": "запорожец",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "самоорганизация",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 15
+    },
+    {
+      "word": "полынь",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "ястреб",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "плантация",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "управленец",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "давка",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "тигрица",
+      "difficulty_score": 95.25,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "предмет",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "передача",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "исключение",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "подъем",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "разведчик",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "обзор",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "поляк",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "составляющая",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 12
+    },
+    {
+      "word": "избыток",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "пружина",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "землянка",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "богач",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "грешник",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "смертный",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "угодье",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "упрямство",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "праймер",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "маркиз",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "проституция",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "автобиография",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "гирлянда",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "кулек",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "баланда",
+      "difficulty_score": 95.26,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "результат",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "начальник",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "защита",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "еврей",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "замысел",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "мадам",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "драма",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "порция",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "парус",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "общность",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "обломок",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "прибытие",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "умница",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "пропорция",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "педаль",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "богородица",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "римлянин",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "мачта",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "ассамблея",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "буран",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "плеть",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "наплыв",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "перышко",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "кофейня",
+      "difficulty_score": 95.27,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "праздник",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "администрация",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "площадка",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "приятель",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "смесь",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "штаны",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "прихожая",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "крыса",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "совхоз",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "скульптор",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "беспорядок",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "альянс",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "ножницы",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "бомбардировщик",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 14
+    },
+    {
+      "word": "дикарь",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "оккупация",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "кладка",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "переселенец",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "допуск",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "булочная",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "специфичность",
+      "difficulty_score": 95.28,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "фирма",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "немец",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "бровь",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "размышление",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "слушатель",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "благодать",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "рифма",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "мешочек",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "запчасти",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "экстракт",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "амплитуда",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "новорожденный",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 13
+    },
+    {
+      "word": "рецензент",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 9
+    },
+    {
+      "word": "стриптиз",
+      "difficulty_score": 95.29,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "изучение",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "округ",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "розыск",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "прицел",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "безразличие",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 11
+    },
+    {
+      "word": "счеты",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 5
+    },
+    {
+      "word": "лимфоцит",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 8
+    },
+    {
+      "word": "подряд",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "фиалка",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "молочко",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "мясник",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 6
+    },
+    {
+      "word": "психиатрия",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 10
+    },
+    {
+      "word": "правнук",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "трагизм",
+      "difficulty_score": 95.3,
+      "level": "C1",
+      "length": 7
+    },
+    {
+      "word": "хиппи",
+      "difficulty_score": 96.29,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пальба",
+      "difficulty_score": 96.29,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "мундштук",
+      "difficulty_score": 96.29,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "кушак",
+      "difficulty_score": 96.29,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "ружье",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "культ",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "рюкзак",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "юстиция",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "ближний",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "презумпция",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "ощупь",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "загрузка",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "разгрузка",
+      "difficulty_score": 96.3,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "дежурный",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "ручей",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "брюшко",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "шампунь",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "фальсификация",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 13
+    },
+    {
+      "word": "мультфильм",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "ключица",
+      "difficulty_score": 96.31,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "жизнь",
+      "difficulty_score": 96.32,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "присяжный",
+      "difficulty_score": 96.32,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "взмах",
+      "difficulty_score": 96.32,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "рыжик",
+      "difficulty_score": 96.32,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "влюбленный",
+      "difficulty_score": 96.32,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "жвачка",
+      "difficulty_score": 96.32,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "улыбка",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "рубеж",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "трудящийся",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "барышня",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "субсидия",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "эмиссия",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "графа",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "азербайджанец",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 13
+    },
+    {
+      "word": "гибрид",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "пряжка",
+      "difficulty_score": 96.33,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "фраза",
+      "difficulty_score": 96.34,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пузырек",
+      "difficulty_score": 96.34,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "эскиз",
+      "difficulty_score": 96.34,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "индукция",
+      "difficulty_score": 96.34,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "люлька",
+      "difficulty_score": 96.34,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "задумка",
+      "difficulty_score": 96.34,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "малыш",
+      "difficulty_score": 96.35,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "дядька",
+      "difficulty_score": 96.35,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "пустырь",
+      "difficulty_score": 96.35,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "завуч",
+      "difficulty_score": 96.35,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "публикация",
+      "difficulty_score": 96.36,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "глухой",
+      "difficulty_score": 96.36,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "беженец",
+      "difficulty_score": 96.37,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "дрянь",
+      "difficulty_score": 96.37,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "избушка",
+      "difficulty_score": 96.37,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "блузка",
+      "difficulty_score": 96.37,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "имидж",
+      "difficulty_score": 96.38,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "булыжник",
+      "difficulty_score": 96.38,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "малышка",
+      "difficulty_score": 96.38,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "макушка",
+      "difficulty_score": 96.39,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "розыгрыш",
+      "difficulty_score": 96.39,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "буржуазия",
+      "difficulty_score": 96.39,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "мушка",
+      "difficulty_score": 96.39,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "щупальце",
+      "difficulty_score": 96.39,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "фугас",
+      "difficulty_score": 96.39,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "спуск",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "эвакуация",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "присутствующий",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 14
+    },
+    {
+      "word": "эпиграф",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "альфа",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "гайка",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "разруха",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "фигня",
+      "difficulty_score": 96.4,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "шляпа",
+      "difficulty_score": 96.41,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "зайка",
+      "difficulty_score": 96.41,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "рубаха",
+      "difficulty_score": 96.42,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "абажур",
+      "difficulty_score": 96.42,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "циркуляция",
+      "difficulty_score": 96.42,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "язычок",
+      "difficulty_score": 96.42,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "загадка",
+      "difficulty_score": 96.43,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "купец",
+      "difficulty_score": 96.43,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пульт",
+      "difficulty_score": 96.43,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "шляпка",
+      "difficulty_score": 96.43,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "байка",
+      "difficulty_score": 96.43,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "рубец",
+      "difficulty_score": 96.43,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "брюки",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "рычаг",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "учащийся",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "груша",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "следующее",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "узбек",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "бирюк",
+      "difficulty_score": 96.44,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "ущерб",
+      "difficulty_score": 96.45,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "убежище",
+      "difficulty_score": 96.45,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "шкафчик",
+      "difficulty_score": 96.45,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "изъян",
+      "difficulty_score": 96.45,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "убийца",
+      "difficulty_score": 96.46,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "чайка",
+      "difficulty_score": 96.46,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фашизм",
+      "difficulty_score": 96.46,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "бильярд",
+      "difficulty_score": 96.46,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "эмаль",
+      "difficulty_score": 96.46,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "рубашка",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "пушка",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "инфляция",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "въезд",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "лучшее",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "казах",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "буфер",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "экземляр",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "земледелец",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "курильщик",
+      "difficulty_score": 96.47,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "задача",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "мужик",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "мэрия",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фюрер",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "управляющий",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 11
+    },
+    {
+      "word": "глыба",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "упряжка",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "пейджер",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "умирающий",
+      "difficulty_score": 96.48,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "шахматы",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "штурм",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "ущелье",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "белый",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "ухмылка",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "язычник",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "задачка",
+      "difficulty_score": 96.49,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "прибыль",
+      "difficulty_score": 96.5,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "мячик",
+      "difficulty_score": 96.5,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "параграф",
+      "difficulty_score": 96.5,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "милиция",
+      "difficulty_score": 96.51,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "француз",
+      "difficulty_score": 96.51,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "убитый",
+      "difficulty_score": 96.51,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "выигрыш",
+      "difficulty_score": 96.51,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "музыка",
+      "difficulty_score": 96.52,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "бюджет",
+      "difficulty_score": 96.52,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "дружба",
+      "difficulty_score": 96.52,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "эмиграция",
+      "difficulty_score": 96.52,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "губка",
+      "difficulty_score": 96.52,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "петербуржец",
+      "difficulty_score": 96.52,
+      "level": "C2",
+      "length": 11
+    },
+    {
+      "word": "выпуск",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "мышка",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "супруг",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "хирург",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "фрукт",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "заведующая",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "камыш",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "безделье",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "азбука",
+      "difficulty_score": 96.53,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "ключик",
+      "difficulty_score": 96.54,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "мюзикл",
+      "difficulty_score": 96.54,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "экземпляр",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 9
+    },
+    {
+      "word": "батюшка",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "башка",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "лужайка",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "глухарь",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "юбиляр",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "брешь",
+      "difficulty_score": 96.55,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пилюля",
+      "difficulty_score": 96.56,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "бумага",
+      "difficulty_score": 96.57,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "музей",
+      "difficulty_score": 96.57,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "бальзам",
+      "difficulty_score": 96.57,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "чашка",
+      "difficulty_score": 96.58,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пульс",
+      "difficulty_score": 96.59,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "башмак",
+      "difficulty_score": 96.59,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "шпиль",
+      "difficulty_score": 96.59,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "глупец",
+      "difficulty_score": 96.59,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "фужер",
+      "difficulty_score": 96.6,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фильм",
+      "difficulty_score": 96.61,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "юрисдикция",
+      "difficulty_score": 96.61,
+      "level": "C2",
+      "length": 10
+    },
+    {
+      "word": "лифчик",
+      "difficulty_score": 96.61,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "химия",
+      "difficulty_score": 96.62,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "футляр",
+      "difficulty_score": 96.62,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "фабула",
+      "difficulty_score": 96.62,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "рыцарь",
+      "difficulty_score": 96.63,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "запах",
+      "difficulty_score": 96.64,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "мякиш",
+      "difficulty_score": 96.64,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "шайка",
+      "difficulty_score": 96.64,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "гильдия",
+      "difficulty_score": 96.64,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "шлюпка",
+      "difficulty_score": 96.65,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "мысль",
+      "difficulty_score": 96.66,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фуражка",
+      "difficulty_score": 96.66,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "фельдшер",
+      "difficulty_score": 96.67,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "вьюга",
+      "difficulty_score": 96.67,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "беглец",
+      "difficulty_score": 96.68,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "бумажка",
+      "difficulty_score": 96.69,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "шпага",
+      "difficulty_score": 96.69,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "ярлык",
+      "difficulty_score": 96.69,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "чужак",
+      "difficulty_score": 96.7,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "бабушка",
+      "difficulty_score": 96.71,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "шубка",
+      "difficulty_score": 96.71,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "лягушка",
+      "difficulty_score": 96.72,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "грузчик",
+      "difficulty_score": 96.72,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "фляга",
+      "difficulty_score": 96.72,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "функция",
+      "difficulty_score": 96.73,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "брэнд",
+      "difficulty_score": 96.74,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "жеребец",
+      "difficulty_score": 96.76,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "хирургия",
+      "difficulty_score": 96.77,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "буддизм",
+      "difficulty_score": 96.77,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "бурьян",
+      "difficulty_score": 96.77,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "шприц",
+      "difficulty_score": 96.78,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пыльца",
+      "difficulty_score": 96.78,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "грызун",
+      "difficulty_score": 96.78,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "взрыв",
+      "difficulty_score": 96.79,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "иллюзия",
+      "difficulty_score": 96.79,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "пазуха",
+      "difficulty_score": 96.79,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "будущее",
+      "difficulty_score": 96.8,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "спящий",
+      "difficulty_score": 96.8,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "физик",
+      "difficulty_score": 96.81,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фляжка",
+      "difficulty_score": 96.81,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "шлагбаум",
+      "difficulty_score": 96.82,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "кухня",
+      "difficulty_score": 96.84,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "брызги",
+      "difficulty_score": 96.85,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "флюид",
+      "difficulty_score": 96.87,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "князь",
+      "difficulty_score": 96.88,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "чугун",
+      "difficulty_score": 96.88,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "камуфляж",
+      "difficulty_score": 96.88,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "шельф",
+      "difficulty_score": 96.88,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "газификация",
+      "difficulty_score": 96.88,
+      "level": "C2",
+      "length": 11
+    },
+    {
+      "word": "туфля",
+      "difficulty_score": 96.89,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "блюдце",
+      "difficulty_score": 96.91,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "связь",
+      "difficulty_score": 96.92,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "бутыль",
+      "difficulty_score": 96.92,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "изгиб",
+      "difficulty_score": 96.93,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "выкуп",
+      "difficulty_score": 96.93,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "багаж",
+      "difficulty_score": 96.94,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "жемчуг",
+      "difficulty_score": 96.94,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "чешуя",
+      "difficulty_score": 96.95,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фальшь",
+      "difficulty_score": 96.97,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "рубль",
+      "difficulty_score": 96.98,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "шлейф",
+      "difficulty_score": 96.99,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "безумец",
+      "difficulty_score": 97.0,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "дядюшка",
+      "difficulty_score": 97.02,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "судья",
+      "difficulty_score": 97.04,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "зубец",
+      "difficulty_score": 97.04,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "шлюха",
+      "difficulty_score": 97.05,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "абзац",
+      "difficulty_score": 97.07,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "эрудиция",
+      "difficulty_score": 97.07,
+      "level": "C2",
+      "length": 8
+    },
+    {
+      "word": "взгляд",
+      "difficulty_score": 97.12,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "шайба",
+      "difficulty_score": 97.12,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "мышца",
+      "difficulty_score": 97.13,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "прядь",
+      "difficulty_score": 97.15,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "грудь",
+      "difficulty_score": 97.25,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "пьяный",
+      "difficulty_score": 97.27,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "фикция",
+      "difficulty_score": 97.28,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "дубль",
+      "difficulty_score": 97.33,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "фюзеляж",
+      "difficulty_score": 97.38,
+      "level": "C2",
+      "length": 7
+    },
+    {
+      "word": "пузырь",
+      "difficulty_score": 97.42,
+      "level": "C2",
+      "length": 6
+    },
+    {
+      "word": "убыль",
+      "difficulty_score": 97.55,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "глубь",
+      "difficulty_score": 97.59,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "дуэль",
+      "difficulty_score": 97.59,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "грязь",
+      "difficulty_score": 97.63,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "глушь",
+      "difficulty_score": 97.76,
+      "level": "C2",
+      "length": 5
+    },
+    {
+      "word": "буржуй",
+      "difficulty_score": 97.78,
+      "level": "C2",
+      "length": 6
+    }
+  ]
+}

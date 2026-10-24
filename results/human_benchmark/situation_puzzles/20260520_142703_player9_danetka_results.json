@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "timestamp": "20260520_142703",
+    "model_name": "human:player9",
+    "game_type": "danetka",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "danetka",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 822.4817728996277,
+    "avg_duration_seconds": 822.4817728996277
+  },
+  "games": [
+    {
+      "game_id": "danetka_49",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "Ты играешь в данетку. Тебе будет дана завязка странной истории, но истинная разгадка тебе неизвестна.\n\nТвоя задача:\n1. Задавать ведущему уточняющие вопросы, на которые можно ответить \"да\", \"нет\" или \"неважно\".\n2. На основе ответов постепенно восстановить полную картину произошедшего.\n3. Когда будешь уверен в решении, выдать финальную разгадку.\n4. За один ход можно сделать только одно действие: задать один вопрос или предложить финальный ответ.\n\nПравила:\n- Задавай конкретные и полезные вопросы.\n- Не объединяй несколько независимых вопросов в один ход.\n- Учитывай историю предыдущих ответов.\n- Не придумывай сверхъестественные объяснения без явных оснований.\n\n\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа или вопроса:\nОтвет: <полное решение загадки> или Вопрос: <твой вопрос>\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\", а вопрос со слова \"Вопрос:\".\n- Не добавляй ничего после ответа или вопроса.\n",
+      "total_moves": 20,
+      "target": "Это не часть стратегии и не сигнал сообщнику. Мужчина суеверен: он верит, что нужно нарочно «проиграть на счастье» в самом начале, чтобы потом не проиграться по-крупному. Поэтому он каждый вечер сознательно жертвует первой фишкой.",
+      "duration_seconds": 822.4817728996277,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Вопрос: Он смотрит за реакцией других?",
+          "player_answer": "Вопрос: Он смотрит за реакцией других?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 19",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Он смотрит за реакцией других?"
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Вопрос: Он жулик?",
+          "player_answer": "Вопрос: Он жулик?",
+          "feedback": "Нет\n\nОсталось ходов до конца игры: 18",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Он жулик?"
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Вопрос: Важна ли реакция мужчины во время проигрыша?",
+          "player_answer": "Вопрос: Важна ли реакция мужчины во время проигрыша?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 17",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Важна ли реакция мужчины во время проигрыша?"
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Вопрос: Если он не проиграет её, то что-то изменится?",
+          "player_answer": "Вопрос: Если он не проиграет её, то что-то изменится?",
+          "feedback": "Да\n\nОсталось ходов до конца игры: 16",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Если он не проиграет её, то что-то изменится?"
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Вопрос: Его тогда будут в чём-то подозревать?",
+          "player_answer": "Вопрос: Его тогда будут в чём-то подозревать?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 15",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Его тогда будут в чём-то подозревать?"
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Вопрос: Важно ли кто этот мужчина?",
+          "player_answer": "Вопрос: Важно ли кто этот мужчина?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 14",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Важно ли кто этот мужчина?"
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Вопрос: Он отдыхает на этом лайнере?",
+          "player_answer": "Вопрос: Он отдыхает на этом лайнере?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 13",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Он отдыхает на этом лайнере?"
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Вопрос: Важно ли что на лайнере?",
+          "player_answer": "Вопрос: Важно ли что на лайнере?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 12",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Важно ли что на лайнере?"
+          }
+        },
+        {
+          "move_number": 9,
+          "player_input": "Вопрос: Он должен кому-то?",
+          "player_answer": "Вопрос: Он должен кому-то?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 11",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Он должен кому-то?"
+          }
+        },
+        {
+          "move_number": 10,
+          "player_input": "Вопрос: Эта фишка меченая?",
+          "player_answer": "Вопрос: Эта фишка меченая?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 10",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Эта фишка меченая?"
+          }
+        },
+        {
+          "move_number": 11,
+          "player_input": "Вопрос: Этот жест что-то говорит об этом мужчине?",
+          "player_answer": "Вопрос: Этот жест что-то говорит об этом мужчине?",
+          "feedback": "Да\n\nОсталось ходов до конца игры: 9",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Этот жест что-то говорит об этом мужчине?"
+          }
+        },
+        {
+          "move_number": 12,
+          "player_input": "Вопрос: Это говорит об его азартности?",
+          "player_answer": "Вопрос: Это говорит об его азартности?",
+          "feedback": "Нет\n\nОсталось ходов до конца игры: 8",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Это говорит об его азартности?"
+          }
+        },
+        {
+          "move_number": 13,
+          "player_input": "Вопрос: Он владелец казино?",
+          "player_answer": "Вопрос: Он владелец казино?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 7",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Он владелец казино?"
+          }
+        },
+        {
+          "move_number": 14,
+          "player_input": "Вопрос: У него есть больше фишек?",
+          "player_answer": "Вопрос: У него есть больше фишек?",
+          "feedback": "Да\n\nОсталось ходов до конца игры: 6",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "У него есть больше фишек?"
+          }
+        },
+        {
+          "move_number": 15,
+          "player_input": "Вопрос: Он проигрывает ещё фишки?",
+          "player_answer": "Вопрос: Он проигрывает ещё фишки?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 5",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Он проигрывает ещё фишки?"
+          }
+        },
+        {
+          "move_number": 16,
+          "player_input": "Вопрос: Это говорит о его честности?",
+          "player_answer": "Вопрос: Это говорит о его честности?",
+          "feedback": "Неважно\n\nОсталось ходов до конца игры: 4",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Это говорит о его честности?"
+          }
+        },
+        {
+          "move_number": 17,
+          "player_input": "Вопрос: Это часть плана?",
+          "player_answer": "Вопрос: Это часть плана?",
+          "feedback": "Нет\n\nОсталось ходов до конца игры: 3",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Это часть плана?"
+          }
+        },
+        {
+          "move_number": 18,
+          "player_input": "Вопрос: Это обязательный взнос?",
+          "player_answer": "Вопрос: Это обязательный взнос?",
+          "feedback": "Нет\n\nОсталось ходов до конца игры: 2",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Это обязательный взнос?"
+          }
+        },
+        {
+          "move_number": 19,
+          "player_input": "Вопрос: Это договорённость?",
+          "player_answer": "Вопрос: Это договорённость?",
+          "feedback": "Нет\n\nОсталось ходов до конца игры: 1",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Это договорённость?"
+          }
+        },
+        {
+          "move_number": 20,
+          "player_input": "Вопрос: Давай ответ :(",
+          "player_answer": "Вопрос: Давай ответ :(",
+          "feedback": "На вопрос нельзя ответить однозначно да/нет\n\nОсталось ходов до конца игры: 0",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "move_type": "question",
+            "payload": "Давай ответ :("
+          }
+        }
+      ],
+      "metadata": {
+        "setup": "В казино на круизном лайнере мужчина, который прекрасно играет и явно не любит терять деньги, каждый вечер специально проигрывает первую фишку. Почему?",
+        "facts": "Проигрыш первой фишки — суеверный ритуал для привлечения удачи и предотвращения крупных потерь.",
+        "final_guess": "",
+        "language": "ru"
+      }
+    }
+  ],
+  "debug": []
+}

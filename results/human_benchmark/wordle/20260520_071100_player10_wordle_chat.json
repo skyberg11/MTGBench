@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_14",
+  "model": "human:player10",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "тюнер",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: стена",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"с\" - серая буква\n- \"т\" - жёлтая буква\n- \"е\" - жёлтая буква\n- \"н\" - жёлтая буква\n- \"а\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: тенор",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"т\" - зелёная буква\n- \"е\" - жёлтая буква\n- \"н\" - зелёная буква\n- \"о\" - серая буква\n- \"р\" - зелёная буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: тюнер",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"т\" - зелёная буква\n- \"ю\" - зелёная буква\n- \"н\" - зелёная буква\n- \"е\" - зелёная буква\n- \"р\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

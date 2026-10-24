@@ -1,0 +1,324 @@
+{
+  "episode_id": "cities_49",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": true,
+  "turns_used": 25,
+  "target": "Петровское",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Петровское\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Екатеринбург",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Галич.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Чита",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Амасья.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ялта",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Алдан.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Норильск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Красноперекопск.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кемерово",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Оха.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Атырау.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Уфа",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ананьев.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Воронеж",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Жигалово.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гуниб.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Батайск",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Касан.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижневартовск",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кивиыли.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Корец.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Циолковский",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йосу.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Удомля",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ярославль.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Лиски",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ивня.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Якутск",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Куйтун.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нальчик",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каменск.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курск",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Калининская.",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Яровое",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ельня.",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: player11ул",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Литин.",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нытва",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аделаида.",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Амурск",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Крыжополь.",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кур.",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Рязань",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нода.",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абинск",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кирсанов.",
+      "turn": 25
+    }
+  ],
+  "metadata": {
+    "start_city": "Петровское",
+    "current_letter": "в",
+    "last_opponent_city": "Кирсанов",
+    "total_cities_used": 51,
+    "used_cities": [
+      "кирсанов",
+      "ивня",
+      "куйтун",
+      "уфа",
+      "литин",
+      "циолковский",
+      "курск",
+      "кемерово",
+      "аделаида",
+      "жигалово",
+      "чита",
+      "екатеринбург",
+      "алдан",
+      "рязань",
+      "нытва",
+      "каменск",
+      "оренбург",
+      "йосу",
+      "корец",
+      "ананьев",
+      "нода",
+      "галич",
+      "касан",
+      "калининская",
+      "кур",
+      "петровское",
+      "ялта",
+      "анапа",
+      "лиски",
+      "якутск",
+      "янаул",
+      "батайск",
+      "гуниб",
+      "абинск",
+      "оха",
+      "воронеж",
+      "кивиыли",
+      "красноперекопск",
+      "яровое",
+      "ельня",
+      "амурск",
+      "нальчик",
+      "атырау",
+      "норильск",
+      "амасья",
+      "липецк",
+      "ярославль",
+      "крыжополь",
+      "нижневартовск",
+      "удомля",
+      "ижевск"
+    ]
+  }
+}

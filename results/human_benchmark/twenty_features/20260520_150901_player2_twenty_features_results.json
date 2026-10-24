@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "timestamp": "20260520_150901",
+    "model_name": "human:player2",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 15.0,
+    "avg_attempts_won": 15.0,
+    "median_attempts": 15,
+    "min_attempts": 15,
+    "max_attempts": 15,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "15": 1
+    },
+    "total_duration_seconds": 1489.6704716682434,
+    "avg_duration_seconds": 1489.6704716682434
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_53",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 15,
+      "target": "краски",
+      "duration_seconds": 1489.6704716682434,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: утюг",
+          "player_answer": "утюг",
+          "feedback": "Форма: жидкая/пастообразная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: коктейль",
+          "player_answer": "коктейль",
+          "feedback": "Размер: зависит от упаковки",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: умывалка",
+          "player_answer": "умывалка",
+          "feedback": "Материал: Смешанные вещества",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: эмульсия",
+          "player_answer": "эмульсия",
+          "feedback": "Вес: зависит от объёма",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: тонер",
+          "player_answer": "тонер",
+          "feedback": "Текстура: Гладкая или зернистая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: зубная паста",
+          "player_answer": "зубная паста",
+          "feedback": "Температура-на-ощупь: Комнатной температуры",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: моющее средство",
+          "player_answer": "моющее средство",
+          "feedback": "Запах: Специфический химический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: мыло",
+          "player_answer": "мыло",
+          "feedback": "Вкус: неприятный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: пятновыводитель",
+          "player_answer": "пятновыводитель",
+          "feedback": "Прозрачность: Прозрачная/непрозрачная в зависимости от типа",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: бытовая химия",
+          "player_answer": "бытовая химия",
+          "feedback": "Гибкость: Текучие",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: кондиционер",
+          "player_answer": "кондиционер",
+          "feedback": "Твёрдость: Мягкая, густая (паста)",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: краска для волос",
+          "player_answer": "краска для волос",
+          "feedback": "Подвижность: жидкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: очиститель",
+          "player_answer": "очиститель",
+          "feedback": "Количество-частей/компонентов: Много компонентов",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: укладочное средство",
+          "player_answer": "укладочное средство",
+          "feedback": "Назначение: окрашивание поверхностей",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: краска",
+          "player_answer": "краска",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 15,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,262 @@
+{
+  "episode_id": "cities_60",
+  "model": "human:player13",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 20,
+  "target": "Чикаго",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Чикаго\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: осака",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Актобе.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: екатеринбург",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Горбатов.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: воткинск",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Калвария.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ялта",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Амьен.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижний новгород",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Дербент.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: томск",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кота.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астана",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Атаки.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Корнинг.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Глазов",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Волчанск.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: киров",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Верхнеднепровский.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-Ола",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анан.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новосибирск",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Красилов.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Вологда",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Асти.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ижевск",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Калуш.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: шадринск",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Китаибараки.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: иваново",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Острогожск.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: калуга",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ачинск.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: керчь",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Черемхово.",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: омск",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Корнешты.",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: томск",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "Город 'томск' уже был назван раньше. Игра окончена.",
+      "turn": 20
+    }
+  ],
+  "metadata": {
+    "start_city": "Чикаго",
+    "current_letter": "т",
+    "last_opponent_city": "Корнешты",
+    "total_cities_used": 39,
+    "used_cities": [
+      "актобе",
+      "горбатов",
+      "атаки",
+      "китаибараки",
+      "калуга",
+      "ялта",
+      "асти",
+      "черемхово",
+      "калуш",
+      "ижевск",
+      "омск",
+      "анан",
+      "осака",
+      "красилов",
+      "острогожск",
+      "чикаго",
+      "новосибирск",
+      "дербент",
+      "иваново",
+      "ачинск",
+      "йошкар ола",
+      "кота",
+      "иркутск",
+      "астана",
+      "верхнеднепровский",
+      "шадринск",
+      "калвария",
+      "нижний новгород",
+      "вологда",
+      "глазов",
+      "волчанск",
+      "корнинг",
+      "корнешты",
+      "екатеринбург",
+      "воткинск",
+      "керчь",
+      "амьен",
+      "киров",
+      "томск"
+    ]
+  }
+}

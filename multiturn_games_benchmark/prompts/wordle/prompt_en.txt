@@ -1,0 +1,31 @@
+You are playing Wordle. Your task is to guess the hidden 5-letter English word in as few attempts as possible.
+
+Rules:
+1. The hidden word is a singular common noun.
+2. On each turn, provide exactly one 5-letter word.
+3. After each guess, you receive letter feedback:
+   - Green: the letter is in the correct position.
+   - Yellow: the letter is in the word but in a different position.
+   - Gray: the letter is not in the word.
+4. Use previous feedback to make a better next guess.
+
+Example:
+
+Hidden word: "crane".
+Player guesses: "cared".
+
+Feedback:
+- "c" — green letter, because it is in the hidden word and in the correct position.
+- "a" — yellow letter, because it is in the hidden word but in a different position.
+- "r" — yellow letter, because it is in the hidden word but in a different position.
+- "e" — yellow letter, because it is in the hidden word but in a different position.
+- "d" — gray letter, because this letter is not in the hidden word.
+
+{REASONING_INSTRUCTION}
+
+You MUST use the exact answer format:
+Answer: <5-letter word>
+
+IMPORTANT:
+- Provide only one word.
+- Do not add anything after the final word.

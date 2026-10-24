@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "timestamp": "20260520_101030",
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player5"
+  },
+  "statistics": {
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 18.0,
+    "avg_attempts_won": 18.0,
+    "median_attempts": 18,
+    "min_attempts": 18,
+    "max_attempts": 18,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "18": 1
+    },
+    "total_duration_seconds": 2107.3217267990112,
+    "avg_duration_seconds": 2107.3217267990112
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_6",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 18,
+      "target": "сова",
+      "duration_seconds": 2107.3217267990112,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: дерево",
+          "player_answer": "дерево",
+          "feedback": "Форма: Овальная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: зеркало",
+          "player_answer": "зеркало",
+          "feedback": "Размер: Средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: картофелина",
+          "player_answer": "картофелина",
+          "feedback": "Материал: перья, кожа, кости",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: птица",
+          "player_answer": "птица",
+          "feedback": "Вес: Лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: воробей",
+          "player_answer": "воробей",
+          "feedback": "Текстура: Мягкая и пушистая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: цыпленок",
+          "player_answer": "цыпленок",
+          "feedback": "Температура-на-ощупь: тёплая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: птенец",
+          "player_answer": "птенец",
+          "feedback": "Запах: Слабый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: утенок",
+          "player_answer": "утенок",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: совенок",
+          "player_answer": "совенок",
+          "feedback": "Прозрачность: непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: игрушка",
+          "player_answer": "игрушка",
+          "feedback": "Гибкость: частично гибкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: брелок",
+          "player_answer": "брелок",
+          "feedback": "Твёрдость: Мягкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: курица",
+          "player_answer": "курица",
+          "feedback": "Подвижность: подвижная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: петух",
+          "player_answer": "петух",
+          "feedback": "Количество-частей/компонентов: Множество органов",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: голубь",
+          "player_answer": "голубь",
+          "feedback": "Назначение: Жизнеобеспечение",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: рябчик",
+          "player_answer": "рябчик",
+          "feedback": "Происхождение: Природное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: куропатка",
+          "player_answer": "куропатка",
+          "feedback": "Живой/неживой: живой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: дрозд",
+          "player_answer": "дрозд",
+          "feedback": "Встречаемость: Широко",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: сова",
+          "player_answer": "сова",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 18,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

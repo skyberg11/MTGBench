@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_124505",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 349.35282731056213,
+    "avg_duration_seconds": 349.35282731056213
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_36",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "осока",
+      "duration_seconds": 349.35282731056213,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: растение",
+          "player_answer": "растение",
+          "feedback": "Форма: линейная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: лист",
+          "player_answer": "лист",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: трава",
+          "player_answer": "трава",
+          "feedback": "Материал: растительный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: травинка",
+          "player_answer": "травинка",
+          "feedback": "Вес: Лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: листок",
+          "player_answer": "листок",
+          "feedback": "Текстура: жёсткая, шероховатая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Запах: травяной",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Вкус: горьковатый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Гибкость: Гибкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Твёрдость: Средняя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Подвижность: низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Количество-частей/компонентов: стебель, листья, соцветия",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: дерево",
+          "player_answer": "дерево",
+          "feedback": "Назначение: элемент экосистемы",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: цветок",
+          "player_answer": "цветок",
+          "feedback": "Происхождение: Природное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: побег",
+          "player_answer": "побег",
+          "feedback": "Живой/неживой: Живой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: растение",
+          "player_answer": "растение",
+          "feedback": "Встречаемость: Встречается в природе",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: куст",
+          "player_answer": "куст",
+          "feedback": "Стоимость/ценовая-категория: низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: ты издеваешься, это растение",
+          "player_answer": "ты издеваешься это растение",
+          "feedback": "Опасность-для-человека: Безопасна",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: что же это",
+          "player_answer": "что же это",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

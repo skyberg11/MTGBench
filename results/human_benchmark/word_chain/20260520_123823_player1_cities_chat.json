@@ -1,0 +1,118 @@
+{
+  "episode_id": "cities_59",
+  "model": "human:player1",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 8,
+  "target": "Холм",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Холм\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: минск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кавалерово.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: овьедо",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Отавара.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: абинск",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Киреевск.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: крымск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кандалакша.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анапа",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Акташ.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: шахты",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Таруса.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: алупка",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ангарск.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: крымск",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Город 'крымск' уже был назван раньше. Игра окончена.",
+      "turn": 8
+    }
+  ],
+  "metadata": {
+    "start_city": "Холм",
+    "current_letter": "к",
+    "last_opponent_city": "Ангарск",
+    "total_cities_used": 15,
+    "used_cities": [
+      "акташ",
+      "алупка",
+      "киреевск",
+      "кавалерово",
+      "крымск",
+      "овьедо",
+      "отавара",
+      "минск",
+      "шахты",
+      "ангарск",
+      "абинск",
+      "холм",
+      "анапа",
+      "кандалакша",
+      "таруса"
+    ]
+  }
+}

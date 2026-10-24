@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123330",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 17.0,
+    "avg_attempts_won": 17.0,
+    "median_attempts": 17,
+    "min_attempts": 17,
+    "max_attempts": 17,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "17": 1
+    },
+    "total_duration_seconds": 302.971803188324,
+    "avg_duration_seconds": 302.971803188324
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_29",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 17,
+      "target": "миксер",
+      "duration_seconds": 302.971803188324,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Форма: Овальная/цилиндрическая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Размер: компактный, средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Материал: пластик и металл",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Вес: от лёгкого до среднего",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: ведро",
+          "player_answer": "ведро",
+          "feedback": "Текстура: гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: таз",
+          "player_answer": "таз",
+          "feedback": "Температура-на-ощупь: Обычная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Запах: Технический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Гибкость: Жёсткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Твёрдость: Твёрдый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: поднос",
+          "player_answer": "поднос",
+          "feedback": "Подвижность: Стационарный/ручной",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: тубус",
+          "player_answer": "тубус",
+          "feedback": "Количество-частей/компонентов: несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: контейнер",
+          "player_answer": "контейнер",
+          "feedback": "Назначение: смешивание продуктов",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: миска",
+          "player_answer": "миска",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: шейкер",
+          "player_answer": "шейкер",
+          "feedback": "Живой/неживой: неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: миксер",
+          "player_answer": "миксер",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 17,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,6 @@
+You generate a list of genres for future puzzles (lateral thinking puzzles).
+You need to return only a JSON array of strings, each string is a genre name.
+Requirements:
+- genres should be diverse and suitable for short stories-puzzles;
+- without overtly violent/pornographic genres;
+Return strictly a valid JSON array of strings, without comments and Markdown.

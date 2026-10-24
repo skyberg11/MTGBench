@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_68",
+  "model": "human:player1",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "колба",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: кумир",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - зелёная буква\n- \"у\" - серая буква\n- \"м\" - серая буква\n- \"и\" - серая буква\n- \"р\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: волна",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"в\" - серая буква\n- \"о\" - зелёная буква\n- \"л\" - зелёная буква\n- \"н\" - серая буква\n- \"а\" - зелёная буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: колба",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - зелёная буква\n- \"о\" - зелёная буква\n- \"л\" - зелёная буква\n- \"б\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

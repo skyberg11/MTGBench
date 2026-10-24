@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_26",
+  "model": "human:player2",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "шайка",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: маска",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"м\" - серая буква\n- \"а\" - зелёная буква\n- \"с\" - серая буква\n- \"к\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: гайка",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"г\" - серая буква\n- \"а\" - зелёная буква\n- \"й\" - зелёная буква\n- \"к\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: шайка",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"ш\" - зелёная буква\n- \"а\" - зелёная буква\n- \"й\" - зелёная буква\n- \"к\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

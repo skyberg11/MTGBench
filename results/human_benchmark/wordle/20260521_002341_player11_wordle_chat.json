@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_81",
+  "model": "human:player11",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "аудио",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: мякиш",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"м\" - серая буква\n- \"я\" - серая буква\n- \"к\" - серая буква\n- \"и\" - зелёная буква\n- \"ш\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: вагон",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"в\" - серая буква\n- \"а\" - жёлтая буква\n- \"г\" - серая буква\n- \"о\" - жёлтая буква\n- \"н\" - серая буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: аудио",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"а\" - зелёная буква\n- \"у\" - зелёная буква\n- \"д\" - зелёная буква\n- \"и\" - зелёная буква\n- \"о\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

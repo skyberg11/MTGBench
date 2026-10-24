@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "timestamp": "20260520_122717",
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player5"
+  },
+  "statistics": {
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 14.0,
+    "avg_attempts_won": 14.0,
+    "median_attempts": 14,
+    "min_attempts": 14,
+    "max_attempts": 14,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "14": 1
+    },
+    "total_duration_seconds": 529.9901125431061,
+    "avg_duration_seconds": 529.9901125431061
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_26",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 14,
+      "target": "сухарь",
+      "duration_seconds": 529.9901125431061,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: камень",
+          "player_answer": "камень",
+          "feedback": "Форма: Кубическая, брусковатая, произвольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: гранит",
+          "player_answer": "гранит",
+          "feedback": "Размер: небольшой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: кубик",
+          "player_answer": "кубик",
+          "feedback": "Материал: Пшеница, рожь",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: зерно",
+          "player_answer": "зерно",
+          "feedback": "Вес: Легкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: хлеб",
+          "player_answer": "хлеб",
+          "feedback": "Текстура: сухая, хрустящая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: булка",
+          "player_answer": "булка",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: батон",
+          "player_answer": "батон",
+          "feedback": "Запах: хлеба",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: буханка",
+          "player_answer": "буханка",
+          "feedback": "Вкус: солёно-сладкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: багет",
+          "player_answer": "багет",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: кирпич",
+          "player_answer": "кирпич",
+          "feedback": "Гибкость: Негибкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: булка хлеба",
+          "player_answer": "булка хлеба",
+          "feedback": "Твёрдость: высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: чиабатта",
+          "player_answer": "чиабатта",
+          "feedback": "Подвижность: неподвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: тост",
+          "player_answer": "тост",
+          "feedback": "Количество-частей/компонентов: одна часть",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: сухарь",
+          "player_answer": "сухарь",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 14,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

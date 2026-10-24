@@ -1,0 +1,166 @@
+{
+  "episode_id": "cities_13",
+  "model": "human:player9",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 12,
+  "target": "Багдад",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Багдад\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Донецк",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кумертау.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Уфа",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Амангельды.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Дубай",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йокосука.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Амстердам",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Мюнстер.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Рим",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Малин.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новосибирск",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карасук.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Калининград",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Дубровка.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Амбала.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Апатиты",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ташкент.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Тверь",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Радвилишкис.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сызрань",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нижневартовск.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Крым",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Город 'Крым' не найден в базе. Игра окончена.",
+      "turn": 12
+    }
+  ],
+  "metadata": {
+    "start_city": "Багдад",
+    "current_letter": "к",
+    "last_opponent_city": "Нижневартовск",
+    "total_cities_used": 23,
+    "used_cities": [
+      "амбала",
+      "тверь",
+      "амстердам",
+      "уфа",
+      "карасук",
+      "рим",
+      "мюнстер",
+      "калининград",
+      "донецк",
+      "йокосука",
+      "дубровка",
+      "анапа",
+      "багдад",
+      "малин",
+      "апатиты",
+      "кумертау",
+      "ташкент",
+      "дубай",
+      "радвилишкис",
+      "нижневартовск",
+      "амангельды",
+      "новосибирск",
+      "сызрань"
+    ]
+  }
+}

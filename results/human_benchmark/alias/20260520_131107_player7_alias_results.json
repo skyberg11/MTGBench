@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_131107",
+    "model_name": "human:player7",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player7"
+  },
+  "statistics": {
+    "model_name": "human:player7",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 1913.5299654006958,
+    "avg_duration_seconds": 1913.5299654006958
+  },
+  "games": [
+    {
+      "game_id": "alias_38",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Жозеф Лагранж",
+      "duration_seconds": 1913.5299654006958,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: этот человек сейчас жив?",
+          "player_answer": "этот человек сейчас жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: умер до 20 века?",
+          "player_answer": "умер до 20 века?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: деятель искусства?",
+          "player_answer": "деятель искусства?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: политический деятель?",
+          "player_answer": "политический деятель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: ученый?",
+          "player_answer": "ученый?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: в области физики ученый?",
+          "player_answer": "в области физики ученый?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: открыл законы физические?",
+          "player_answer": "открыл законы физические?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: в имени есть буква Н ?",
+          "player_answer": "в имени есть буква Н ?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Ньютон?",
+          "player_answer": "Ньютон?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Кулон?",
+          "player_answer": "Кулон?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Ампер?",
+          "player_answer": "Ампер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Лоренц?",
+          "player_answer": "Лоренц?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Рентген?",
+          "player_answer": "Рентген?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: В его фамилии есть буква Н?",
+          "player_answer": "В его фамилии есть буква Н?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Бернулли?",
+          "player_answer": "Бернулли?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: русский?",
+          "player_answer": "русский?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: итальянец?",
+          "player_answer": "итальянец?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: ученый из Италии?",
+          "player_answer": "ученый из Италии?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Энрико Ферми?",
+          "player_answer": "Энрико Ферми?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Леонардо да Винчи?",
+          "player_answer": "Леонардо да Винчи?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: в его фамилии есть буква р ?",
+          "player_answer": "в его фамилии есть буква р ?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: в его фамилии одновременно есть две буквы: и буква н, и буква р ?",
+          "player_answer": "в его фамилии одновременно есть две буквы: и буква н, и буква р ?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: его имя начинается на к?",
+          "player_answer": "его имя начинается на к?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: умер раньше 1900 годов?",
+          "player_answer": "умер раньше 1900 годов?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: умер раньше 1800 годов?",
+          "player_answer": "умер раньше 1800 годов?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: умер между 1800 и 1900 годами?",
+          "player_answer": "умер между 1800 и 1900 годами?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: Вентури?",
+          "player_answer": "Вентури?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: Нобили?",
+          "player_answer": "Нобили?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: Леопольдо Нобили?",
+          "player_answer": "Леопольдо Нобили?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: Leopoldo Nobili?",
+          "player_answer": "Leopoldo Nobili?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Mathematicians/ru/ZHozefLagranzh"
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "timestamp": "20260520_140314",
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 28.0,
+    "avg_attempts_won": 28.0,
+    "median_attempts": 28,
+    "min_attempts": 28,
+    "max_attempts": 28,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "28": 1
+    },
+    "total_duration_seconds": 1477.7795143127441,
+    "avg_duration_seconds": 1477.7795143127441
+  },
+  "games": [
+    {
+      "game_id": "alias_47",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 28,
+      "target": "Леонардо да Винчи",
+      "duration_seconds": 1477.7795143127441,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он уже умер?",
+          "player_answer": "он уже умер?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: год смерти человека известен?",
+          "player_answer": "год смерти человека известен?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он умер до 2000 года?",
+          "player_answer": "он умер до 2000 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он умер до 1500 года?",
+          "player_answer": "он умер до 1500 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он умер до 1750 года?",
+          "player_answer": "он умер до 1750 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: страна рождения человека известна?",
+          "player_answer": "страна рождения человека известна?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он родился в Европе?",
+          "player_answer": "он родился в Европе?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: он писал книги?",
+          "player_answer": "он писал книги?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: известен именно как писатель?",
+          "player_answer": "известен именно как писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: был главой государства?",
+          "player_answer": "был главой государства?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: политикой занимался?",
+          "player_answer": "политикой занимался?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: был учёным?",
+          "player_answer": "был учёным?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он занимался астрономией?",
+          "player_answer": "он занимался астрономией?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Коперник?",
+          "player_answer": "Коперник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Галилей?",
+          "player_answer": "Галилей?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он умер до 1625 года?",
+          "player_answer": "он умер до 1625 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он умер до 1562 года?",
+          "player_answer": "он умер до 1562 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он умер до 1531 года?",
+          "player_answer": "он умер до 1531 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: он умер до 1515 года?",
+          "player_answer": "он умер до 1515 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: это Кеплер?",
+          "player_answer": "это Кеплер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: он умер до 1523 года?",
+          "player_answer": "он умер до 1523 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: он умер до 1519 года?",
+          "player_answer": "он умер до 1519 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: он умер до 1521 года?",
+          "player_answer": "он умер до 1521 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: он умер в 1520 году?",
+          "player_answer": "он умер в 1520 году?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: он умер в 1519 году?",
+          "player_answer": "он умер в 1519 году?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: это Николай Коперник?",
+          "player_answer": "это Николай Коперник?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: Леонардо да Винчи?",
+          "player_answer": "Леонардо да Винчи?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Scientists/ru/LeonardodaVinchi"
+      }
+    }
+  ],
+  "debug": []
+}

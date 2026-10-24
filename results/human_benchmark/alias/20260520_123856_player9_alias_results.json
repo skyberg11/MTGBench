@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123856",
+    "model_name": "human:player9",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 29.0,
+    "avg_attempts_won": 29.0,
+    "median_attempts": 29,
+    "min_attempts": 29,
+    "max_attempts": 29,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "29": 1
+    },
+    "total_duration_seconds": 930.9439995288849,
+    "avg_duration_seconds": 930.9439995288849
+  },
+  "games": [
+    {
+      "game_id": "alias_34",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 29,
+      "target": "Александр Флеминг",
+      "duration_seconds": 930.9439995288849,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Я женщина?",
+          "player_answer": "Я женщина?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Это мужчина?",
+          "player_answer": "Это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Он связан с наукой?",
+          "player_answer": "Он связан с наукой?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Он жил до 2000?",
+          "player_answer": "Он жил до 2000?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Он жил после 1000 года?",
+          "player_answer": "Он жил после 1000 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Он жил после 1500 года?",
+          "player_answer": "Он жил после 1500 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Он жил после 1750 года?",
+          "player_answer": "Он жил после 1750 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Он говорит по-русски?",
+          "player_answer": "Он говорит по-русски?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Это американец?",
+          "player_answer": "Это американец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: У него был телефон?",
+          "player_answer": "У него был телефон?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Это глава государства?",
+          "player_answer": "Это глава государства?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Это писатель?",
+          "player_answer": "Это писатель?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Он связан с физикой?",
+          "player_answer": "Он связан с физикой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: Он связан с медициной?",
+          "player_answer": "Он связан с медициной?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Он связан с Грецией?",
+          "player_answer": "Он связан с Грецией?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Он родом из России?",
+          "player_answer": "Он родом из России?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Гиппократ?",
+          "player_answer": "Гиппократ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Он говорит по-английски?",
+          "player_answer": "Он говорит по-английски?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Он родился в Греции?",
+          "player_answer": "Он родился в Греции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Он родился во Франции?",
+          "player_answer": "Он родился во Франции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: Он родился в Европе?",
+          "player_answer": "Он родился в Европе?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: Он связан спенициллином?",
+          "player_answer": "Он связан спенициллином?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: Он родом из Германии?",
+          "player_answer": "Он родом из Германии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: Он связан с Англией?",
+          "player_answer": "Он связан с Англией?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: У него есть Нобелевская премия?",
+          "player_answer": "У него есть Нобелевская премия?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: Это Рональд Росс?",
+          "player_answer": "Это Рональд Росс?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: У него нобелевская премия по медицине?",
+          "player_answer": "У него нобелевская премия по медицине?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: Его имя начинается с гласной?",
+          "player_answer": "Его имя начинается с гласной?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: Александр Флеминг?",
+          "player_answer": "Александр Флеминг?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Scientists/ru/AleksandrFleming"
+      }
+    }
+  ],
+  "debug": []
+}

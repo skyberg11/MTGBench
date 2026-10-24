@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "timestamp": "20260520_093511",
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player5"
+  },
+  "statistics": {
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 7.0,
+    "avg_attempts_won": 7.0,
+    "median_attempts": 7,
+    "min_attempts": 7,
+    "max_attempts": 7,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "7": 1
+    },
+    "total_duration_seconds": 374.60410952568054,
+    "avg_duration_seconds": 374.60410952568054
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_5",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 7,
+      "target": "волан",
+      "duration_seconds": 374.60410952568054,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: радуга",
+          "player_answer": "радуга",
+          "feedback": "Форма: пухлая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: мяч",
+          "player_answer": "мяч",
+          "feedback": "Размер: Маленький",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: ранец",
+          "player_answer": "ранец",
+          "feedback": "Материал: Пластик-перо",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: шляпа",
+          "player_answer": "шляпа",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: подушка",
+          "player_answer": "подушка",
+          "feedback": "Текстура: Гладкая-шершавая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: поплавок",
+          "player_answer": "поплавок",
+          "feedback": "Температура-на-ощупь: Комнатная температура",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: воланчик",
+          "player_answer": "воланчик",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 7,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "timestamp": "20260520_143608",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 15.0,
+    "avg_attempts_won": 15.0,
+    "median_attempts": 15,
+    "min_attempts": 15,
+    "max_attempts": 15,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "15": 1
+    },
+    "total_duration_seconds": 449.9153027534485,
+    "avg_duration_seconds": 449.9153027534485
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_48",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 15,
+      "target": "коса",
+      "duration_seconds": 449.9153027534485,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: нержавейка",
+          "player_answer": "нержавейка",
+          "feedback": "Форма: продолговатая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: болид",
+          "player_answer": "болид",
+          "feedback": "Размер: Длинный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: дирижабль",
+          "player_answer": "дирижабль",
+          "feedback": "Материал: металл, дерево",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: корабль",
+          "player_answer": "корабль",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: самолёт",
+          "player_answer": "самолёт",
+          "feedback": "Текстура: гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: модель",
+          "player_answer": "модель",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Запах: естественный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Прозрачность: непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Гибкость: негибкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: копьё",
+          "player_answer": "копьё",
+          "feedback": "Твёрдость: Высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Подвижность: низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Количество-частей/компонентов: Две",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: стрела",
+          "player_answer": "стрела",
+          "feedback": "Назначение: Скашивание травы",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: коса",
+          "player_answer": "коса",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 15,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

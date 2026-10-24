@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "timestamp": "20260520_092244",
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 14.0,
+    "avg_attempts_won": 14.0,
+    "median_attempts": 14,
+    "min_attempts": 14,
+    "max_attempts": 14,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "14": 1
+    },
+    "total_duration_seconds": 319.0159628391266,
+    "avg_duration_seconds": 319.0159628391266
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_3",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 14,
+      "target": "ящик",
+      "duration_seconds": 319.0159628391266,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: волк",
+          "player_answer": "волк",
+          "feedback": "Форма: прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: стол",
+          "player_answer": "стол",
+          "feedback": "Размер: От маленького до крупного",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: шкаф",
+          "player_answer": "шкаф",
+          "feedback": "Материал: дерево/пластик/металл",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: стул",
+          "player_answer": "стул",
+          "feedback": "Вес: От легкого до тяжелого",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: кирпич",
+          "player_answer": "кирпич",
+          "feedback": "Текстура: грубая/гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: лодка",
+          "player_answer": "лодка",
+          "feedback": "Температура-на-ощупь: Комнатная температура",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: плитка",
+          "player_answer": "плитка",
+          "feedback": "Запах: отсутствует/материал",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: гроб",
+          "player_answer": "гроб",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: дверь",
+          "player_answer": "дверь",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: гнига",
+          "player_answer": "гнига",
+          "feedback": "Гибкость: негибкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: потолок",
+          "player_answer": "потолок",
+          "feedback": "Твёрдость: твердый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: доска",
+          "player_answer": "доска",
+          "feedback": "Подвижность: неподвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: клоун",
+          "player_answer": "клоун",
+          "feedback": "Количество-частей/компонентов: несколько (стенки, дно, крышка)",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: ящик",
+          "player_answer": "ящик",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 14,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

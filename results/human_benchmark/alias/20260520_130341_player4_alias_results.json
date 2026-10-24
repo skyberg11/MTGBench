@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "timestamp": "20260520_130341",
+    "model_name": "human:player4",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 18.0,
+    "avg_attempts_won": 18.0,
+    "median_attempts": 18,
+    "min_attempts": 18,
+    "max_attempts": 18,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "18": 1
+    },
+    "total_duration_seconds": 522.2184753417969,
+    "avg_duration_seconds": 522.2184753417969
+  },
+  "games": [
+    {
+      "game_id": "alias_41",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 18,
+      "target": "Екатерина Великая",
+      "duration_seconds": 522.2184753417969,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: мужчина?",
+          "player_answer": "мужчина?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: женщина?",
+          "player_answer": "женщина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: реальный человек?",
+          "player_answer": "реальный человек?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: она жива?",
+          "player_answer": "она жива?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: мэрлин монро?",
+          "player_answer": "мэрлин монро?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: прославилась в искусстве?",
+          "player_answer": "прославилась в искусстве?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: прославилась в кино?",
+          "player_answer": "прославилась в кино?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: прославилась в науке?",
+          "player_answer": "прославилась в науке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: прославилась в политике?",
+          "player_answer": "прославилась в политике?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: умерла более 50 лет назад?",
+          "player_answer": "умерла более 50 лет назад?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: умерла более 100 лет назад?",
+          "player_answer": "умерла более 100 лет назад?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: умерла более 200 лет назад?",
+          "player_answer": "умерла более 200 лет назад?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: умерла более 500 лет назад?",
+          "player_answer": "умерла более 500 лет назад?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: умерла более 300 лет назад?",
+          "player_answer": "умерла более 300 лет назад?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Это политик России?",
+          "player_answer": "Это политик России?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Екатерина I?",
+          "player_answer": "Екатерина I?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Анна Иоанновна?",
+          "player_answer": "Анна Иоанновна?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Екатерина II?",
+          "player_answer": "Екатерина II?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Politicians/ru/EkaterinaVelikaya"
+      }
+    }
+  ],
+  "debug": []
+}

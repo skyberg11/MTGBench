@@ -1,0 +1,178 @@
+{
+  "episode_id": "cities_5",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 13,
+  "target": "Алапаевск",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Алапаевск\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Криуляны.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Норильск",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Казачинское.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Елабуга",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Атланта.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анантапур.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ростов-на-дону",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Урай.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-ола",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ачинск.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Киев",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Волчанск.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Краснодар",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Роббинсдейл.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Киров.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Воронеж",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Жабинка.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абакан",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новосергиевка.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алушта",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Анан.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Азов",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Город 'Азов' не начинается на букву 'н'. Игра окончена.",
+      "turn": 13
+    }
+  ],
+  "metadata": {
+    "start_city": "Алапаевск",
+    "current_letter": "н",
+    "last_opponent_city": "Анан",
+    "total_cities_used": 25,
+    "used_cities": [
+      "алапаевск",
+      "анантапур",
+      "роббинсдейл",
+      "курск",
+      "ачинск",
+      "урай",
+      "криуляны",
+      "волчанск",
+      "атланта",
+      "киров",
+      "краснодар",
+      "новосергиевка",
+      "йошкар ола",
+      "анан",
+      "анапа",
+      "казачинское",
+      "воронеж",
+      "ростов на дону",
+      "алушта",
+      "абакан",
+      "норильск",
+      "липецк",
+      "елабуга",
+      "жабинка",
+      "киев"
+    ]
+  }
+}

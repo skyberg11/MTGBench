@@ -1,0 +1,238 @@
+{
+  "episode_id": "cities_31",
+  "model": "human:player1",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 18,
+  "target": "Дарлингтон",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Дарлингтон\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новосибирск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кротошин.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нью-Йорк",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Корма.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Антонины.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижневартовск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Качканар.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Рязань",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нагаока.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алушта",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Акбулак.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Костанай",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йосу.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Уссурийск",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Коса.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алупка",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Айзпуте.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ейск",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Красилов.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Воронеж",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Жигалово.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оттава",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агдаш.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Шахты",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Топки.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Измир",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Росарио.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Онтарио",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Осиповичи.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кадис.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Стрежевой",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонава.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Акмола",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Город 'Акмола' не найден в базе. Игра окончена.",
+      "turn": 18
+    }
+  ],
+  "metadata": {
+    "start_city": "Дарлингтон",
+    "current_letter": "а",
+    "last_opponent_city": "Йонава",
+    "total_cities_used": 35,
+    "used_cities": [
+      "ейск",
+      "корма",
+      "измир",
+      "нагаока",
+      "рязань",
+      "жигалово",
+      "шахты",
+      "осиповичи",
+      "алупка",
+      "кадис",
+      "онтарио",
+      "йосу",
+      "оттава",
+      "нью йорк",
+      "анапа",
+      "иркутск",
+      "топки",
+      "айзпуте",
+      "кротошин",
+      "йонава",
+      "воронеж",
+      "росарио",
+      "алушта",
+      "акбулак",
+      "костанай",
+      "дарлингтон",
+      "агдаш",
+      "коса",
+      "стрежевой",
+      "уссурийск",
+      "нижневартовск",
+      "антонины",
+      "красилов",
+      "качканар",
+      "новосибирск"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "episode_id": "wordle_31",
+  "model": "human:player10",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 4,
+  "target": "отгон",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: катер",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - серая буква\n- \"а\" - серая буква\n- \"т\" - жёлтая буква\n- \"е\" - серая буква\n- \"р\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: тонус",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"т\" - жёлтая буква\n- \"о\" - жёлтая буква\n- \"н\" - жёлтая буква\n- \"у\" - серая буква\n- \"с\" - серая буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: хтонь",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Это слово не похоже на корректное существительное в словаре. Попробуйте другое.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: отгон",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "- \"о\" - зелёная буква\n- \"т\" - зелёная буква\n- \"г\" - зелёная буква\n- \"о\" - зелёная буква\n- \"н\" - зелёная буква",
+      "turn": 4
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

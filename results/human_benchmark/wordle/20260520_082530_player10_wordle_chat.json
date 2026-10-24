@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_37",
+  "model": "human:player10",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "мизер",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: катер",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - серая буква\n- \"а\" - серая буква\n- \"т\" - серая буква\n- \"е\" - зелёная буква\n- \"р\" - зелёная буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: номер",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"н\" - серая буква\n- \"о\" - серая буква\n- \"м\" - жёлтая буква\n- \"е\" - зелёная буква\n- \"р\" - зелёная буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: мизер",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"м\" - зелёная буква\n- \"и\" - зелёная буква\n- \"з\" - зелёная буква\n- \"е\" - зелёная буква\n- \"р\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

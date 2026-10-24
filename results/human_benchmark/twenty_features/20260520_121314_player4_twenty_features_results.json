@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "timestamp": "20260520_121314",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 8.0,
+    "avg_attempts_won": 8.0,
+    "median_attempts": 8,
+    "min_attempts": 8,
+    "max_attempts": 8,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "8": 1
+    },
+    "total_duration_seconds": 105.4471845626831,
+    "avg_duration_seconds": 105.4471845626831
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_20",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 8,
+      "target": "град",
+      "duration_seconds": 105.4471845626831,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Форма: округлая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: яйцо",
+          "player_answer": "яйцо",
+          "feedback": "Размер: Мелкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: бусина",
+          "player_answer": "бусина",
+          "feedback": "Материал: лед",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: лед",
+          "player_answer": "лед",
+          "feedback": "Вес: Лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: снег",
+          "player_answer": "снег",
+          "feedback": "Текстура: Гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: снежинка",
+          "player_answer": "снежинка",
+          "feedback": "Температура-на-ощупь: холодная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: кубик льда",
+          "player_answer": "кубик льда",
+          "feedback": "Запах: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: град",
+          "player_answer": "град",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 8,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

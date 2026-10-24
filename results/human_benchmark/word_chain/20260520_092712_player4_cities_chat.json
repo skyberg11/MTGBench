@@ -1,0 +1,154 @@
+{
+  "episode_id": "cities_35",
+  "model": "human:player4",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 11,
+  "target": "Ессентуки",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Ессентуки\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карталы.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Лиссабон",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новоселицкое.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ереван",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нягань.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижний Новгород",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Добрич.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Чебоксары",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Рыбница.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астана",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Александровское.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Екатеринбург",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гладстон.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижневартовск",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кельце.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ейск",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Крайстчерч.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Чапаевск",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кунашак.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курганск",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Город 'Курганск' не найден в базе. Игра окончена.",
+      "turn": 11
+    }
+  ],
+  "metadata": {
+    "start_city": "Ессентуки",
+    "current_letter": "к",
+    "last_opponent_city": "Кунашак",
+    "total_cities_used": 21,
+    "used_cities": [
+      "ейск",
+      "александровское",
+      "новоселицкое",
+      "добрич",
+      "чебоксары",
+      "екатеринбург",
+      "нижний новгород",
+      "чапаевск",
+      "астана",
+      "крайстчерч",
+      "кунашак",
+      "рыбница",
+      "лиссабон",
+      "иркутск",
+      "кельце",
+      "гладстон",
+      "ессентуки",
+      "карталы",
+      "ереван",
+      "нижневартовск",
+      "нягань"
+    ]
+  }
+}

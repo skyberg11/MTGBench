@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "timestamp": "20260520_094322",
+    "model_name": "human:player3",
+    "game_type": "cities",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player3"
+  },
+  "statistics": {
+    "model_name": "human:player3",
+    "game_type": "cities",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 5.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 5,
+    "min_attempts": 5,
+    "max_attempts": 5,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 30.021836042404175,
+    "avg_duration_seconds": 30.021836042404175
+  },
+  "games": [
+    {
+      "game_id": "cities_40",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "Ты играешь в игру \"Города\". Это классическая словесная игра, где участники по очереди называют города.\n\nПравила игры:\n1. Я называю город.\n2. Ты должен назвать город, который начинается на последнюю допустимую букву моего города.\n3. Нельзя повторять города, которые уже были названы в этой игре.\n4. Если город заканчивается на букву \"ь\", \"ъ\" или \"ы\", нужно использовать предпоследнюю букву.\n5. Я называю только корректные города из базы данных, их проверять не нужно.\n6. Нужно называть только ныне существующие города и использовать их актуальные названия. Например, называть \"Новгород\" неправильно, потому что сейчас это \"Великий Новгород\".\n7. Нужно писать полные названия городов на русском языке.\n\nПримеры:\n- Я: \"Москва\" (заканчивается на \"а\")\n- Ты: \"Астрахань\" (начинается на \"а\", заканчивается на \"ь\", значит следующая буква - \"н\")\n- Я: \"Новосибирск\" (начинается на \"н\", заканчивается на \"к\")\n- Ты: \"Казань\" (начинается на \"к\")\n\n\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\nОтвет: <полное название города>\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после названия города.\n- Не задавай вопросов и не комментируй мой ход.\n",
+      "total_moves": 5,
+      "target": "Надворная",
+      "duration_seconds": 30.021836042404175,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: Ярославль",
+          "player_answer": "Ответ: Ярославль",
+          "feedback": "Принято. Мой город: Лешно.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Ярославль",
+            "current_letter": "я",
+            "verdict": "valid",
+            "player_next_letter": "л",
+            "opponent_city": "Лешно",
+            "next_letter": "о"
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: Оренбург",
+          "player_answer": "Ответ: Оренбург",
+          "feedback": "Принято. Мой город: Гаага.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Оренбург",
+            "current_letter": "о",
+            "verdict": "valid",
+            "player_next_letter": "г",
+            "opponent_city": "Гаага",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: Астрахань",
+          "player_answer": "Ответ: Астрахань",
+          "feedback": "Принято. Мой город: Новара.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Астрахань",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "н",
+            "opponent_city": "Новара",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: Анадырь",
+          "player_answer": "Ответ: Анадырь",
+          "feedback": "Принято. Мой город: Редмонд.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Анадырь",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "р",
+            "opponent_city": "Редмонд",
+            "next_letter": "д"
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: Детроит",
+          "player_answer": "Ответ: Детроит",
+          "feedback": "Город 'Детроит' не найден в базе. Игра окончена.",
+          "is_valid": false,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Детроит",
+            "current_letter": "д",
+            "verdict": "not_found"
+          }
+        }
+      ],
+      "metadata": {
+        "start_city": "Надворная",
+        "current_letter": "д",
+        "last_opponent_city": "Редмонд",
+        "total_cities_used": 9,
+        "used_cities": [
+          "гаага",
+          "ярославль",
+          "новара",
+          "лешно",
+          "оренбург",
+          "анадырь",
+          "астрахань",
+          "редмонд",
+          "надворная"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

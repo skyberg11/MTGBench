@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "timestamp": "20260520_134253",
+    "model_name": "human:player7",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player7"
+  },
+  "statistics": {
+    "model_name": "human:player7",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 30.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 30,
+    "min_attempts": 30,
+    "max_attempts": 30,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 1354.2360389232635,
+    "avg_duration_seconds": 1354.2360389232635
+  },
+  "games": [
+    {
+      "game_id": "alias_43",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 30,
+      "target": "Голда Меир",
+      "duration_seconds": 1354.2360389232635,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: он живой сейчас?",
+          "player_answer": "он живой сейчас?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: умер до 1900 года?",
+          "player_answer": "умер до 1900 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: умер после 2000 года?",
+          "player_answer": "умер после 2000 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: умер в 20 веке?",
+          "player_answer": "умер в 20 веке?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: деятель искусства?",
+          "player_answer": "деятель искусства?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: политический деятель?",
+          "player_answer": "политический деятель?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: русский?",
+          "player_answer": "русский?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: немец?",
+          "player_answer": "немец?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: из стран северной америки?",
+          "player_answer": "из стран северной америки?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: из стран южной америки?",
+          "player_answer": "из стран южной америки?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: из европы?",
+          "player_answer": "из европы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: из великобритании?",
+          "player_answer": "из великобритании?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: из италии?",
+          "player_answer": "из италии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: мужчина?",
+          "player_answer": "мужчина?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: была президентом?",
+          "player_answer": "была президентом?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: она из страны название которой начинается на букву И ?",
+          "player_answer": "она из страны название которой начинается на букву И ?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Индира Ганди?",
+          "player_answer": "Индира Ганди?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: она из индии?",
+          "player_answer": "она из индии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: из исландии?",
+          "player_answer": "из исландии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: из испании?",
+          "player_answer": "из испании?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: из ирландии?",
+          "player_answer": "из ирландии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: она из европейской страны название которой начинается на букву и и заканчивается на я ?",
+          "player_answer": "она из европейской страны название которой начинается на букву и и заканчивается на я ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: она родилась в европейской стране?",
+          "player_answer": "она родилась в европейской стране?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: она родилась в европейской стране которая начинается на букву И сейчас ?",
+          "player_answer": "она родилась в европейской стране которая начинается на букву И сейчас ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: она родилась в европейской стране которая начинается на гласную букву ?",
+          "player_answer": "она родилась в европейской стране которая начинается на гласную букву ?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: она родилась в европейской стране, название которой начинается на согласную букву ?",
+          "player_answer": "она родилась в европейской стране, название которой начинается на согласную букву ?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 27,
+          "player_input": "ОТВЕТ: она родилась во франции?",
+          "player_answer": "она родилась во франции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 28,
+          "player_input": "ОТВЕТ: она родилась в европейской стране, название которой начинается на согласную букву м?",
+          "player_answer": "она родилась в европейской стране, название которой начинается на согласную букву м?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 29,
+          "player_input": "ОТВЕТ: она родилась в европейской стране, название которой начинается на согласную букву л?",
+          "player_answer": "она родилась в европейской стране, название которой начинается на согласную букву л?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 30,
+          "player_input": "ОТВЕТ: она родилась в европейской стране, название которой начинается на согласную букву б?",
+          "player_answer": "она родилась в европейской стране, название которой начинается на согласную букву б?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Politicians/ru/GoldaMeir"
+      }
+    }
+  ],
+  "debug": []
+}

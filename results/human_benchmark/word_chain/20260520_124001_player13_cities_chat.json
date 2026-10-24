@@ -1,0 +1,238 @@
+{
+  "episode_id": "cities_58",
+  "model": "human:player13",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 18,
+  "target": "Кумух",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Кумух\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: херсон",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нюрба.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: алматы",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Токио.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: орёл",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лимбажи.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: иркутск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Констанца.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: астана",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арсланбоб.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: брест",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Тараща.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анадырь",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Решетиловка.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анкара",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Акташ.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: шанхай",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йорк.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: кострома",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Архангельское.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: елабуга",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Антверпен.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: нальчик",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кавасаки.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: ижевск",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карлсбад.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: дрезден",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новочебоксарск.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: киров",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Васильковка.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: абакан",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нарвик.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: керчь",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Чунский.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: йорк",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Город 'йорк' уже был назван раньше. Игра окончена.",
+      "turn": 18
+    }
+  ],
+  "metadata": {
+    "start_city": "Кумух",
+    "current_letter": "й",
+    "last_opponent_city": "Чунский",
+    "total_cities_used": 35,
+    "used_cities": [
+      "анадырь",
+      "елабуга",
+      "абакан",
+      "алматы",
+      "антверпен",
+      "васильковка",
+      "ижевск",
+      "дрезден",
+      "кавасаки",
+      "констанца",
+      "шанхай",
+      "нальчик",
+      "тараща",
+      "орел",
+      "йорк",
+      "лимбажи",
+      "новочебоксарск",
+      "астана",
+      "иркутск",
+      "акташ",
+      "карлсбад",
+      "нюрба",
+      "архангельское",
+      "кострома",
+      "нарвик",
+      "керчь",
+      "херсон",
+      "арсланбоб",
+      "чунский",
+      "токио",
+      "кумух",
+      "брест",
+      "киров",
+      "решетиловка",
+      "анкара"
+    ]
+  }
+}

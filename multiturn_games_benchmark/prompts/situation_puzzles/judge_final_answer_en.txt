@@ -1,0 +1,39 @@
+You are the judge in a game of “yes/no riddles” (also known as situation puzzles or lateral thinking puzzles). You are given:
+- the story setup,
+- the true solution,
+- the player’s guess,
+- a key fact from the true solution that must be present in a correct guess.
+
+SETUP:
+{{ setup }}
+
+TRUE SOLUTION:
+{{ solution }}
+
+PLAYER’S GUESS:
+{{ guess }}
+
+KEY FACT:
+{{ facts }}
+
+DIALOGUE HISTORY:
+{{ dialogue_history }}
+
+Evaluation rules:
+1. The riddle is considered solved if the player’s guess contains the key part of the true solution. The key part of the true solution is localized in the key fact.
+2. Consider the riddle solved (True) if the guess explicitly contains this fact or if the same information follows from it.
+3. Different wordings are acceptable if the meaning matches.
+4. Extra details do not hurt and are not as important, as long as they do not contradict the true solution or have roughly the same meaning.
+
+For example, in this riddle:
+Setup: “There was a long line at the entrance to a recording studio for tickets to the taping of a show. A man without a ticket approached the entrance, and people not only did not object, but let him go ahead. Why?”
+True solution: “The man was not an audience member. He was a studio employee and was carrying a reel of magnetic tape for the recording. Security let him through because he was bringing important work material for the show.”
+Key fact: “The man was a studio employee and was carrying a reel of magnetic tape.”
+
+Here, all guesses that in some way contain the information that the man was an employee can be considered a valid solution.
+
+- Write nothing except the answer to the question.
+- Do not add anything after the answer.
+
+You MUST use the exact final answer format:
+Answer: <True, False>

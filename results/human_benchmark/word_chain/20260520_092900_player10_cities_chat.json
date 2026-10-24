@@ -1,0 +1,166 @@
+{
+  "episode_id": "cities_34",
+  "model": "human:player10",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 12,
+  "target": "Усмань",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Усмань\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Новый Уренгой",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонава.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Аксай",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йокосука.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Александровац",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цубаме.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Елец",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Целинное.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Единец",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Циттау.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Урай",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йосу.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Удачный",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йорк.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Каменец",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цесис.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сланцы",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цуяма.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абай",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонаго.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Олонец",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цфат.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Туроц",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Город 'Туроц' не найден в базе. Игра окончена.",
+      "turn": 12
+    }
+  ],
+  "metadata": {
+    "start_city": "Усмань",
+    "current_letter": "т",
+    "last_opponent_city": "Цфат",
+    "total_cities_used": 23,
+    "used_cities": [
+      "абай",
+      "единец",
+      "новый уренгой",
+      "йонаго",
+      "урай",
+      "йосу",
+      "сланцы",
+      "цуяма",
+      "йокосука",
+      "йорк",
+      "удачный",
+      "цубаме",
+      "аксай",
+      "йонава",
+      "циттау",
+      "олонец",
+      "цфат",
+      "усмань",
+      "цесис",
+      "александровац",
+      "елец",
+      "каменец",
+      "целинное"
+    ]
+  }
+}

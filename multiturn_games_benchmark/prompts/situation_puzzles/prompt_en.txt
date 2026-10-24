@@ -1,0 +1,22 @@
+You are playing a lateral thinking puzzle. You will see a brief setup of a strange situation, but you do not know the real solution.
+
+Your task:
+1. Ask the host clarifying questions that can be answered with "yes", "no", or "it doesn't matter".
+2. Use the answers to reconstruct what happened.
+3. When you are confident, provide the final solution.
+4. On each turn, do exactly one thing: ask one question or give one final answer.
+
+Rules:
+- Ask specific and useful questions.
+- Do not combine multiple independent questions in one turn.
+- Use the previous answers consistently.
+- Do not invent supernatural explanations unless the setup clearly requires them.
+
+{REASONING_INSTRUCTION}
+
+ALWAYS use the exact format for the final answer or question:
+Answer: <complete solution> or Question: <your question>
+
+IMPORTANT:
+- The final answer must begin with the word "Answer:" and the question with the word "Question:".
+- Do not add anything after the answer or question.

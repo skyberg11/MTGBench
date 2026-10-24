@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_26",
+  "model": "human:player6",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Филип Джонсон",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: человек жив?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он давно умер?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он занимался творчеством?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: музыкант?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с кино?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: писатель?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с изобразительным искусством?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с интернетом?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с индустрией развлечений?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: учёный?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: деятель культуры?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: американец?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер в этом десятилетии?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер в XX веке?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умер в XXI веке?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он выступал на сцене?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: занимался политикой?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: чернокожий?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: белый?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: азиат?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: латиноамериканец?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ближневосточного происхождения?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с IT?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: был президентом?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он был политиком?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с телевидением?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с журналистикой?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: связан с театром?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: архитектор?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Architects/ru/FilipDzhonson"
+  }
+}

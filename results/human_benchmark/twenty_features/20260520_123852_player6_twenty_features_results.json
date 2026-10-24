@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123852",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 15.0,
+    "avg_attempts_won": 15.0,
+    "median_attempts": 15,
+    "min_attempts": 15,
+    "max_attempts": 15,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "15": 1
+    },
+    "total_duration_seconds": 311.8486273288727,
+    "avg_duration_seconds": 311.8486273288727
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_34",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 15,
+      "target": "роутер",
+      "duration_seconds": 311.8486273288727,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: вещи",
+          "player_answer": "вещи",
+          "feedback": "Форма: прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: доска",
+          "player_answer": "доска",
+          "feedback": "Размер: небольшой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: зажигалка",
+          "player_answer": "зажигалка",
+          "feedback": "Материал: пластик",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: телефон",
+          "player_answer": "телефон",
+          "feedback": "Вес: легкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: коробок",
+          "player_answer": "коробок",
+          "feedback": "Текстура: гладкая матовая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Температура-на-ощупь: Прохладная/нейтральная, иногда теплая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Запах: Отсутствует, иногда легкий технический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: контейнер",
+          "player_answer": "контейнер",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: чехол",
+          "player_answer": "чехол",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: спасибо",
+          "player_answer": "спасибо",
+          "feedback": "Гибкость: жесткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Твёрдость: твердый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Подвижность: стационарный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: дальше",
+          "player_answer": "дальше",
+          "feedback": "Количество-частей/компонентов: несколько компонентов",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Назначение: Распределение интернет-сигнала",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: роутер",
+          "player_answer": "роутер",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 15,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

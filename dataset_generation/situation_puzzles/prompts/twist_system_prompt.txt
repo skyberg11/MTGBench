@@ -1,0 +1,6 @@
+You generate a list of twist types (unexpected turns) for future puzzles (lateral thinking puzzles).
+You need to return only a JSON array of strings, each string is a twist type (for example: "hidden goal of the hero", "role substitution of characters", "incorrect cause of the event").
+Requirements:
+- twist types should be abstract, without binding to specific names and brands;
+- suitable for logical, but unexpected explanations of the situation.
+Return strictly a valid JSON array of strings, without comments and Markdown.

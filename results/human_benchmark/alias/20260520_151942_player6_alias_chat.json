@@ -1,0 +1,248 @@
+{
+  "episode_id": "alias_59",
+  "model": "human:player6",
+  "game_type": "alias",
+  "success": true,
+  "turns_used": 23,
+  "target": "Фёдор Достоевский",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: человек жив?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: жил до 20 века?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: жил до 15 века?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: жил до 17 века?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: жил в 18 веке?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: жил в 19 веке?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: занимался творческой деятельностью?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: писатель?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: фантаст?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Великобритании?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Европы?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: русский?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: а стихи он сочинял?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: пушкин?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он писал романы?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Лермонтов?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: был ли он знаменит своими комедиями?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: а \"Войну и мир\" он написал?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: может быть, он написал \"Му-му\"?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: в \"Отцов и детей\" он написал?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это автор \"Преступления и наказания\"?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Фёдор Михайлович Достоевский?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 23
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Writers/ru/FedorDostoevskii"
+  }
+}

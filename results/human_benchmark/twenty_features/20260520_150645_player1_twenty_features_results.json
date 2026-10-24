@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "timestamp": "20260520_150645",
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 15.0,
+    "avg_attempts_won": 15.0,
+    "median_attempts": 15,
+    "min_attempts": 15,
+    "max_attempts": 15,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "15": 1
+    },
+    "total_duration_seconds": 236.9345898628235,
+    "avg_duration_seconds": 236.9345898628235
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_54",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 15,
+      "target": "хлопок",
+      "duration_seconds": 236.9345898628235,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: снег",
+          "player_answer": "снег",
+          "feedback": "Форма: волокна",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: лён",
+          "player_answer": "лён",
+          "feedback": "Размер: небольшой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Материал: Растительные волокна",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Текстура: мягкая, пушистая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: пух",
+          "player_answer": "пух",
+          "feedback": "Температура-на-ощупь: Умеренная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Запах: нейтральный, слабый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Гибкость: высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: макароны",
+          "player_answer": "макароны",
+          "feedback": "Твёрдость: Низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: хз",
+          "player_answer": "хз",
+          "feedback": "Подвижность: неподвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: одуванчик",
+          "player_answer": "одуванчик",
+          "feedback": "Количество-частей/компонентов: Множество",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: ландыш",
+          "player_answer": "ландыш",
+          "feedback": "Назначение: сырьё",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: хлопок",
+          "player_answer": "хлопок",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 15,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

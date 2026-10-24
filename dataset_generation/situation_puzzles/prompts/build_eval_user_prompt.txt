@@ -1,0 +1,11 @@
+
+Evaluate the following puzzle.
+
+Setup:
+{value_0}
+
+Solution:
+{value_1}
+
+First analyze the history and match it with the parameters,
+then issue the final score of "appropriateness" according to the rules from the system prompt.

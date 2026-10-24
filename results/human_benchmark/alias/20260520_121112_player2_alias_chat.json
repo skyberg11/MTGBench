@@ -1,0 +1,258 @@
+{
+  "episode_id": "alias_28",
+  "model": "human:player2",
+  "game_type": "alias",
+  "success": true,
+  "turns_used": 24,
+  "target": "Крис Рок",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это реальный человек?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он ещё жив?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с творчеством?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с кино?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он актёр?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из сша?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ему вручали оскар?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: его номинировали на оскар?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ему вручали кинопремии?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он родился в 21 веке?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ему больше 50 лет?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он белый?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он афроамериканец?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он играет в комедиях?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он родился в 1970-х?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он родился раньше?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он родился в 1980-х?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: тебе известен год его рождения?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он родился в 1960-х?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он в основном снимается в комедиях?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это эдди мёрфи?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он работает ведущим?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это крис рок?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 24
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Comedians/ru/KrisRok"
+  }
+}

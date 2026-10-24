@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "timestamp": "20260520_151942",
+    "model_name": "human:player6",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 23.0,
+    "avg_attempts_won": 23.0,
+    "median_attempts": 23,
+    "min_attempts": 23,
+    "max_attempts": 23,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "23": 1
+    },
+    "total_duration_seconds": 696.2785587310791,
+    "avg_duration_seconds": 696.2785587310791
+  },
+  "games": [
+    {
+      "game_id": "alias_59",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 23,
+      "target": "Фёдор Достоевский",
+      "duration_seconds": 696.2785587310791,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: человек жив?",
+          "player_answer": "человек жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: жил до 20 века?",
+          "player_answer": "жил до 20 века?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: жил до 15 века?",
+          "player_answer": "жил до 15 века?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: жил до 17 века?",
+          "player_answer": "жил до 17 века?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: жил в 18 веке?",
+          "player_answer": "жил в 18 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: жил в 19 веке?",
+          "player_answer": "жил в 19 веке?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: занимался творческой деятельностью?",
+          "player_answer": "занимался творческой деятельностью?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: писатель?",
+          "player_answer": "писатель?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: фантаст?",
+          "player_answer": "фантаст?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он из Великобритании?",
+          "player_answer": "он из Великобритании?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: он из Европы?",
+          "player_answer": "он из Европы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: русский?",
+          "player_answer": "русский?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: а стихи он сочинял?",
+          "player_answer": "а стихи он сочинял?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: пушкин?",
+          "player_answer": "пушкин?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он писал романы?",
+          "player_answer": "он писал романы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Лермонтов?",
+          "player_answer": "Лермонтов?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: был ли он знаменит своими комедиями?",
+          "player_answer": "был ли он знаменит своими комедиями?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: а \"Войну и мир\" он написал?",
+          "player_answer": "а \"Войну и мир\" он написал?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: может быть, он написал \"Му-му\"?",
+          "player_answer": "может быть, он написал \"Му-му\"?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: в \"Отцов и детей\" он написал?",
+          "player_answer": "в \"Отцов и детей\" он написал?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: это автор \"Преступления и наказания\"?",
+          "player_answer": "это автор \"Преступления и наказания\"?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: Фёдор Михайлович Достоевский?",
+          "player_answer": "Фёдор Михайлович Достоевский?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Writers/ru/FedorDostoevskii"
+      }
+    }
+  ],
+  "debug": []
+}

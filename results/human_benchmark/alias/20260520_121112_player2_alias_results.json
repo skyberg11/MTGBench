@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "timestamp": "20260520_121112",
+    "model_name": "human:player2",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 24.0,
+    "avg_attempts_won": 24.0,
+    "median_attempts": 24,
+    "min_attempts": 24,
+    "max_attempts": 24,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "24": 1
+    },
+    "total_duration_seconds": 860.498863697052,
+    "avg_duration_seconds": 860.498863697052
+  },
+  "games": [
+    {
+      "game_id": "alias_28",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 24,
+      "target": "Крис Рок",
+      "duration_seconds": 860.498863697052,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это реальный человек?",
+          "player_answer": "это реальный человек?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: он ещё жив?",
+          "player_answer": "он ещё жив?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он связан с творчеством?",
+          "player_answer": "он связан с творчеством?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он связан с кино?",
+          "player_answer": "он связан с кино?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он актёр?",
+          "player_answer": "он актёр?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: он из сша?",
+          "player_answer": "он из сша?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: ему вручали оскар?",
+          "player_answer": "ему вручали оскар?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: его номинировали на оскар?",
+          "player_answer": "его номинировали на оскар?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: ему вручали кинопремии?",
+          "player_answer": "ему вручали кинопремии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он родился в 21 веке?",
+          "player_answer": "он родился в 21 веке?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: ему больше 50 лет?",
+          "player_answer": "ему больше 50 лет?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он белый?",
+          "player_answer": "он белый?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он афроамериканец?",
+          "player_answer": "он афроамериканец?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: он играет в комедиях?",
+          "player_answer": "он играет в комедиях?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он родился в 1970-х?",
+          "player_answer": "он родился в 1970-х?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: он родился раньше?",
+          "player_answer": "он родился раньше?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: он родился в 1980-х?",
+          "player_answer": "он родился в 1980-х?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: тебе известен год его рождения?",
+          "player_answer": "тебе известен год его рождения?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: он родился в 1960-х?",
+          "player_answer": "он родился в 1960-х?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: он в основном снимается в комедиях?",
+          "player_answer": "он в основном снимается в комедиях?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: это эдди мёрфи?",
+          "player_answer": "это эдди мёрфи?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: он работает ведущим?",
+          "player_answer": "он работает ведущим?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: это крис рок?",
+          "player_answer": "это крис рок?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Comedians/ru/KrisRok"
+      }
+    }
+  ],
+  "debug": []
+}

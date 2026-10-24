@@ -1,0 +1,166 @@
+{
+  "episode_id": "cities_37",
+  "model": "human:player10",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 12,
+  "target": "Торопец",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Торопец\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Цимлянск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Калашниково.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Олонец",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цесис.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сланцы",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Целина.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Александровац",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Царичанка.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Аранджеловац",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Циндао.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Островец",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Циттау.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Урай",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йыгева.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алзамай",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йосу.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Удачный",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонава.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Аксай",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йорк.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Каменец",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цуриб.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Белиц",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Город 'Белиц' не найден в базе. Игра окончена.",
+      "turn": 12
+    }
+  ],
+  "metadata": {
+    "start_city": "Торопец",
+    "current_letter": "б",
+    "last_opponent_city": "Цуриб",
+    "total_cities_used": 23,
+    "used_cities": [
+      "островец",
+      "аранджеловац",
+      "царичанка",
+      "урай",
+      "циндао",
+      "йыгева",
+      "алзамай",
+      "йосу",
+      "цуриб",
+      "сланцы",
+      "целина",
+      "йорк",
+      "калашниково",
+      "удачный",
+      "аксай",
+      "йонава",
+      "циттау",
+      "олонец",
+      "торопец",
+      "цесис",
+      "александровац",
+      "цимлянск",
+      "каменец"
+    ]
+  }
+}

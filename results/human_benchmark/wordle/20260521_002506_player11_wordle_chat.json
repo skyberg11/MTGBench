@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_82",
+  "model": "human:player11",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "вздор",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: аудио",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"а\" - серая буква\n- \"у\" - серая буква\n- \"д\" - зелёная буква\n- \"и\" - серая буква\n- \"о\" - жёлтая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: вагон",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"в\" - зелёная буква\n- \"а\" - серая буква\n- \"г\" - серая буква\n- \"о\" - зелёная буква\n- \"н\" - серая буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: вздор",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"в\" - зелёная буква\n- \"з\" - зелёная буква\n- \"д\" - зелёная буква\n- \"о\" - зелёная буква\n- \"р\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

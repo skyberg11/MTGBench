@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "timestamp": "20260520_143206",
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 15.0,
+    "avg_attempts_won": 15.0,
+    "median_attempts": 15,
+    "min_attempts": 15,
+    "max_attempts": 15,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "15": 1
+    },
+    "total_duration_seconds": 216.81921362876892,
+    "avg_duration_seconds": 216.81921362876892
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_48",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 15,
+      "target": "коса",
+      "duration_seconds": 216.81921362876892,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: рельс",
+          "player_answer": "рельс",
+          "feedback": "Форма: продолговатая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: труба",
+          "player_answer": "труба",
+          "feedback": "Размер: Длинный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: меч",
+          "player_answer": "меч",
+          "feedback": "Материал: металл, дерево",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: поезд",
+          "player_answer": "поезд",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: стол",
+          "player_answer": "стол",
+          "feedback": "Текстура: гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: палка",
+          "player_answer": "палка",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: балка",
+          "player_answer": "балка",
+          "feedback": "Запах: естественный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Прозрачность: непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Гибкость: негибкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: шест",
+          "player_answer": "шест",
+          "feedback": "Твёрдость: Высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Подвижность: низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Количество-частей/компонентов: Две",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Назначение: Скашивание травы",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: коса",
+          "player_answer": "коса",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 15,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

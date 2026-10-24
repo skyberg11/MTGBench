@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_122817",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 324.336651802063,
+    "avg_duration_seconds": 324.336651802063
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_27",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "пряжка",
+      "duration_seconds": 324.336651802063,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Форма: различная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Размер: Мелкий/средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Материал: металл",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: шар",
+          "player_answer": "шар",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: деталь",
+          "player_answer": "деталь",
+          "feedback": "Текстура: Гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Температура-на-ощупь: Зависит от материала",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: болт",
+          "player_answer": "болт",
+          "feedback": "Запах: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: шуруп",
+          "player_answer": "шуруп",
+          "feedback": "Вкус: несъедобный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Прозрачность: непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Гибкость: жёсткая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: гвоздь",
+          "player_answer": "гвоздь",
+          "feedback": "Твёрдость: Твердый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: замок",
+          "player_answer": "замок",
+          "feedback": "Подвижность: Фиксированная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Количество-частей/компонентов: несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: еше",
+          "player_answer": "еше",
+          "feedback": "Назначение: Фиксация",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: винт",
+          "player_answer": "винт",
+          "feedback": "Происхождение: Искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: саморез",
+          "player_answer": "саморез",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: дюбель",
+          "player_answer": "дюбель",
+          "feedback": "Встречаемость: распространённая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: анкер",
+          "player_answer": "анкер",
+          "feedback": "Стоимость/ценовая-категория: Доступная/разнообразная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: гайка",
+          "player_answer": "гайка",
+          "feedback": "Опасность-для-человека: Безопасна",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: шайба",
+          "player_answer": "шайба",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_48",
+  "model": "human:player6",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Розалинд Франклин",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: человек жив?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: эта женщина давно умерла?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она была царицей?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она жила до нашего времени?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она жила до нашей эры?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она жила до 15 века?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она жила до 20 века?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она жила в 20 веке?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: занималась творчеством?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: занималась политикой?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это историческая личность?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: умерла в 20 веке?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она из Европы?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: занималась наукой?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: изучала радиацию?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: занималась математикой?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: изучала медицину?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она русская?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она немка?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она француженка?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: получала нобелевскую премию?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она точно учёный?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она изучала физику?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Лиза Мейтнер?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Мария Кюри?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она что-то изобрела?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: она сделала какое-то открытие?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: родилась в 20 веке?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Мария Гёпперт-Майер?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Scientists/ru/RozalindFranklin"
+  }
+}

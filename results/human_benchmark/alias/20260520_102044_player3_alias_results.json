@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "timestamp": "20260520_102044",
+    "model_name": "human:player3",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player3"
+  },
+  "statistics": {
+    "model_name": "human:player3",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 26.0,
+    "avg_attempts_won": 26.0,
+    "median_attempts": 26,
+    "min_attempts": 26,
+    "max_attempts": 26,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "26": 1
+    },
+    "total_duration_seconds": 415.55587363243103,
+    "avg_duration_seconds": 415.55587363243103
+  },
+  "games": [
+    {
+      "game_id": "alias_7",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 26,
+      "target": "Майкл Фелпс",
+      "duration_seconds": 415.55587363243103,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это реальный человек?",
+          "player_answer": "это реальный человек?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он жив на данный момент?",
+          "player_answer": "он жив на данный момент?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: ему больше 40 лет?",
+          "player_answer": "ему больше 40 лет?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он актер?",
+          "player_answer": "он актер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он музыкант?",
+          "player_answer": "он музыкант?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: он спортсмен?",
+          "player_answer": "он спортсмен?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: он хоккеист?",
+          "player_answer": "он хоккеист?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: футболист?",
+          "player_answer": "футболист?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: он участвовал в олимпийских играх?",
+          "player_answer": "он участвовал в олимпийских играх?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он выиграл на них золотую медаль?",
+          "player_answer": "он выиграл на них золотую медаль?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: он фигурист?",
+          "player_answer": "он фигурист?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он принимал участие в составе команды?",
+          "player_answer": "он принимал участие в составе команды?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: он из европы?",
+          "player_answer": "он из европы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: из америки?",
+          "player_answer": "из америки?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: он участвовал в олимпийских играх в 2026 году?",
+          "player_answer": "он участвовал в олимпийских играх в 2026 году?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: а в 2025?",
+          "player_answer": "а в 2025?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Он участвовал в них больше 5 лет назад?",
+          "player_answer": "Он участвовал в них больше 5 лет назад?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: он теннисист?",
+          "player_answer": "он теннисист?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: он участвовал в олимпийских играх по зимним видам спорта?",
+          "player_answer": "он участвовал в олимпийских играх по зимним видам спорта?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: может быть по водным?",
+          "player_answer": "может быть по водным?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: по водному поло?",
+          "player_answer": "по водному поло?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: по прыжкам в воду?",
+          "player_answer": "по прыжкам в воду?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 24,
+          "player_input": "ОТВЕТ: по синхронному плаванию?",
+          "player_answer": "по синхронному плаванию?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 25,
+          "player_input": "ОТВЕТ: просто плавание?",
+          "player_answer": "просто плавание?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 26,
+          "player_input": "ОТВЕТ: это Майкл Фелпс?",
+          "player_answer": "это Майкл Фелпс?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Athletes/ru/MaiklFelps"
+      }
+    }
+  ],
+  "debug": []
+}

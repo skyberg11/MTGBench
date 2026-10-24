@@ -1,0 +1,190 @@
+{
+  "episode_id": "cities_45",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 14,
+  "target": "Устюжна",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Устюжна\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Абаша.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алупка",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арысь.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сызрань",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нижнеудинск.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кемерово",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Оренбург.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Грозный",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йонава.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Азов",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ветка.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астрахань",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Немчиновка.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Адыгейск",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Калараш.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Шахты",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Туркестан.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижневартовск",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кивиыли.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Катовице.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Елец",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цфат.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Томск",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карлово.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Город 'Оренбург' уже был назван раньше. Игра окончена.",
+      "turn": 14
+    }
+  ],
+  "metadata": {
+    "start_city": "Устюжна",
+    "current_letter": "о",
+    "last_opponent_city": "Карлово",
+    "total_cities_used": 27,
+    "used_cities": [
+      "устюжна",
+      "нижнеудинск",
+      "кемерово",
+      "шахты",
+      "азов",
+      "алупка",
+      "ветка",
+      "оренбург",
+      "туркестан",
+      "карлово",
+      "анапа",
+      "иркутск",
+      "калараш",
+      "грозный",
+      "йонава",
+      "кивиыли",
+      "томск",
+      "немчиновка",
+      "абаша",
+      "адыгейск",
+      "цфат",
+      "нижневартовск",
+      "арысь",
+      "катовице",
+      "елец",
+      "астрахань",
+      "сызрань"
+    ]
+  }
+}

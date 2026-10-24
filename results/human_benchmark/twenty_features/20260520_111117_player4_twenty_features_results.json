@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_111117",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 455.5506229400635,
+    "avg_duration_seconds": 455.5506229400635
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_12",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "страус",
+      "duration_seconds": 455.5506229400635,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: форма",
+          "player_answer": "форма",
+          "feedback": "Форма: вытянутая округлая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: твердость",
+          "player_answer": "твердость",
+          "feedback": "Размер: Очень крупный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: температура",
+          "player_answer": "температура",
+          "feedback": "Материал: Биологический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: гладкость",
+          "player_answer": "гладкость",
+          "feedback": "Вес: большой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Текстура: перьевая, чешуйчатая (кожа)",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Температура-на-ощупь: Теплая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: птица",
+          "player_answer": "птица",
+          "feedback": "Запах: Специфический, птичий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: яйцо",
+          "player_answer": "яйцо",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Гибкость: Средняя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Твёрдость: Твердый клюв",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Подвижность: подвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: ворон",
+          "player_answer": "ворон",
+          "feedback": "Количество-частей/компонентов: много частей",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: орел",
+          "player_answer": "орел",
+          "feedback": "Назначение: обитание передвижение",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Орёл",
+          "player_answer": "орёл",
+          "feedback": "Происхождение: природное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Чёрно-белый орёл",
+          "player_answer": "чёрнобелый орёл",
+          "feedback": "Живой/неживой: живой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: сорока",
+          "player_answer": "сорока",
+          "feedback": "Встречаемость: в некоторых регионах Африки, зоопарки, фермы",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: гриф",
+          "player_answer": "гриф",
+          "feedback": "Стоимость/ценовая-категория: Высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Африканский водорез",
+          "player_answer": "африканский водорез",
+          "feedback": "Опасность-для-человека: может быть опасной",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Африканский белогорлый гриф",
+          "player_answer": "африканский белогорлый гриф",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

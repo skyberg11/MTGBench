@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "timestamp": "20260520_130028",
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 1.0,
+    "avg_attempts_won": 1.0,
+    "median_attempts": 1,
+    "min_attempts": 1,
+    "max_attempts": 1,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "1": 1
+    },
+    "total_duration_seconds": 11.583693981170654,
+    "avg_duration_seconds": 11.583693981170654
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_43",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 1,
+      "target": "кольцо",
+      "duration_seconds": 11.583693981170654,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: кольцо",
+          "player_answer": "кольцо",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 1,
+        "features_used": [
+          "Цвет"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

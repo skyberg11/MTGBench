@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_36",
+  "model": "human:player3",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Уолтер Кронкайт",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: этот человек жив в настойщий момент?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он родился после 1900 года?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он умер до 2000 года?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он умер с 2000 по 2010 год?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он жил в западном полушарии?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он жил в США?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это писатель?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это музыкант?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это актер?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это ученый?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это полтики?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это политик?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: художник?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: бизнесмен?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: изобретатель?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: спортсмен?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он имеет отношение к киноиндустрии?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он знаменит?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он врач?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: военный?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он знаменит из-за своей общественной деятельности?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он танцор?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Джеймс Браун?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Милтон Фридман?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он экономист?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: автор книг?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Джером Дэвид Сэлинджер?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Он автор книг, но не писатель?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: Норман Мейлер?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Journalists/ru/UolterKronkait"
+  }
+}

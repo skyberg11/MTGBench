@@ -1,0 +1,178 @@
+{
+  "episode_id": "cities_39",
+  "model": "human:player4",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 13,
+  "target": "Кижинга",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Кижинга\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астана",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Архангельск.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курган",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новокуйбышевск.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кишинев",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Виесите.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ереван",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нанси.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Колпино.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орск",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кимовск.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Казань",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новоспасское.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Елец",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цфат.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: тула",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арсланбоб.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Барнаул",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Линн.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижний Новгород",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Дно.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гриффит.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Тольяти",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Город 'Тольяти' не найден в базе. Игра окончена.",
+      "turn": 13
+    }
+  ],
+  "metadata": {
+    "start_city": "Кижинга",
+    "current_letter": "т",
+    "last_opponent_city": "Гриффит",
+    "total_cities_used": 25,
+    "used_cities": [
+      "тула",
+      "новокуйбышевск",
+      "курган",
+      "нижний новгород",
+      "гриффит",
+      "оренбург",
+      "кишинев",
+      "казань",
+      "астана",
+      "кимовск",
+      "кижинга",
+      "колпино",
+      "иркутск",
+      "орск",
+      "барнаул",
+      "арсланбоб",
+      "архангельск",
+      "виесите",
+      "нанси",
+      "цфат",
+      "ереван",
+      "новоспасское",
+      "дно",
+      "линн",
+      "елец"
+    ]
+  }
+}

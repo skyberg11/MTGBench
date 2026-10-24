@@ -1,0 +1,142 @@
+{
+  "episode_id": "cities_54",
+  "model": "human:player10",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 10,
+  "target": "Миннеаполис",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Миннеаполис\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сланцы",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Цаленджиха.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абай",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йорк.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кабардинка",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Алексеевка.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абакан",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нижневартовск.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кагул",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лангепас.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Самара",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аркалык.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Казатин",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нанкоку.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Удачный",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йокогама.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Агджабеди",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ишимбай.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ивантеевка",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Город 'Ивантеевка' не начинается на букву 'й'. Игра окончена.",
+      "turn": 10
+    }
+  ],
+  "metadata": {
+    "start_city": "Миннеаполис",
+    "current_letter": "й",
+    "last_opponent_city": "Ишимбай",
+    "total_cities_used": 19,
+    "used_cities": [
+      "абай",
+      "самара",
+      "кагул",
+      "сланцы",
+      "кабардинка",
+      "ишимбай",
+      "миннеаполис",
+      "йорк",
+      "йокогама",
+      "удачный",
+      "цаленджиха",
+      "аркалык",
+      "абакан",
+      "лангепас",
+      "нижневартовск",
+      "казатин",
+      "нанкоку",
+      "агджабеди",
+      "алексеевка"
+    ]
+  }
+}

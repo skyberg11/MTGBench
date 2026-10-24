@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="MTGBench: a benchmark of seven multi-turn games in English and Russian. Model scores, human results, and interactive charts.">
+<meta name="theme-color" content="#004d40">
+<title>MTGBench · Multi-Turn Game Benchmark</title>
+<link rel="stylesheet" href="style.css"><script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header>
+  <a class="brand" href="./">MTGBench</a>
+  <nav aria-label="Resources"><a id="github" href="https://github.com/skyberg11/MTGBench">GitHub ↗</a><label><span class="sr-only">Interface language</span><select id="ui-language" aria-label="Interface language"><option value="en">English</option><option value="ru">Русский</option><option value="zh">中文</option></select></label></nav>
+</header>
+<main id="main">
+  <section class="intro">
+    <div class="hero-copy"><h1 id="title" lang="en">MTGBench: A Multi-Turn Game Benchmark for Diverse LLM Capability Assessment</h1><p id="subtitle"></p><div class="resources"><a id="paper" hidden></a><span id="paper-pending"></span><a id="rules"></a></div></div>
+  </section>
+  <div class="page-tabs" role="tablist" aria-label="MTGBench"><button id="tab-explore" role="tab" aria-controls="panel-explore" aria-selected="true" data-copy="explore"></button><button id="tab-poster" role="tab" aria-controls="panel-poster" aria-selected="false" tabindex="-1" data-copy="posterTab"></button><a href="#findings" id="findings-link" data-copy="jumpFindings"></a></div>
+  <div id="panel-explore" role="tabpanel" aria-labelledby="tab-explore">
+    <section class="games-section" aria-labelledby="game-deck-title"><div class="section-intro compact"><div><h2 id="game-deck-title" data-copy="deckTitle"></h2></div><p data-copy="deckHint"></p></div><div id="game-deck" class="game-deck"></div></section>
+    <section id="leaderboard" aria-labelledby="leaderboard-title">
+      <div class="section-heading"><div><h2 id="leaderboard-title"></h2></div><div class="actions"><button id="export" class="outline-button"></button></div></div>
+      <div class="toolbar"><label><span id="language-label"></span><select id="data-language"><option value="en">English</option><option value="ru">Русский</option></select></label><label><span id="metric-label"></span><select id="metric"><option value="score">Score</option><option value="win_rate">Win rate</option></select></label><label><span id="mode-label"></span><select id="mode"><option value="all">All</option><option value="answer_only">AO</option><option value="cot">CoT</option><option value="reasoning">Reasoning</option></select></label><label class="check"><input id="ci" type="checkbox"><span id="ci-label"></span></label><button id="reset"></button></div>
+      <div class="filters"><details><summary id="models-label"></summary><div class="filter-body"><input type="search" id="model-search"><div class="small-actions"><button id="all-models"></button><button id="no-models"></button></div><div id="models" class="choices"></div></div></details><details open><summary id="games-label"></summary><div id="games" class="choices games"></div></details></div>
+      <p id="method" class="note"></p>
+      <div id="human-notice" class="human-notice"><img src="assets/logos/human.svg" width="28" height="28" alt=""><span data-copy="humanEnglish"></span><button id="show-human" data-copy="viewRussian"></button></div>
+      <div class="table-meta"><div id="status" role="status" aria-live="polite" hidden></div><span class="scale-label" data-copy="higherBetter"></span></div>
+      <div class="table-wrap" tabindex="0" aria-label="Leaderboard"><table class="leaderboard"><caption class="sr-only" id="caption"></caption><thead id="head"></thead><tbody id="body"></tbody></table></div><p id="footnote" class="note"></p>
+    </section>
+    <section id="findings" aria-labelledby="findings-title"><div class="section-intro"><div><h2 id="findings-title" data-copy="findingsTitle"></h2></div></div><div id="research-status" role="status"></div><div id="research"></div></section>
+  </div>
+  <div id="panel-poster" role="tabpanel" aria-labelledby="tab-poster" hidden><div class="section-intro"><div><h2 id="poster-title"></h2></div></div><div id="poster-content" class="poster-placeholder"></div></div>
+  <footer><a class="brand footer-brand" href="./">MTGBench</a><span data-copy="footerTag"></span><a id="source"></a><a href="summary.csv" id="raw-data" download></a></footer>
+</main>
+<dialog id="game-dialog" aria-labelledby="dialog-title"><button id="dialog-close" class="dialog-close" aria-label="Close">×</button><div class="dialog-layout"><img id="dialog-image" alt="" width="750" height="1050"><div><p class="eyebrow" id="dialog-category"></p><h2 id="dialog-title"></h2><p id="dialog-description"></p><p id="dialog-type" class="note"></p><p id="dialog-checker" class="note"></p><p id="dialog-scoring" class="note"></p></div></div></dialog>
+<div id="chart-tooltip" class="chart-tooltip" role="tooltip" hidden></div>
+<noscript>This leaderboard requires JavaScript. <a href="summary.csv">Download the scores as CSV.</a></noscript>
+</body></html>

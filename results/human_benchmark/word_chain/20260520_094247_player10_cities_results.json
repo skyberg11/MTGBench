@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "timestamp": "20260520_094247",
+    "model_name": "human:player10",
+    "game_type": "cities",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player10"
+  },
+  "statistics": {
+    "model_name": "human:player10",
+    "game_type": "cities",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 12.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 12,
+    "min_attempts": 12,
+    "max_attempts": 12,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 717.1712367534637,
+    "avg_duration_seconds": 717.1712367534637
+  },
+  "games": [
+    {
+      "game_id": "cities_37",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "Ты играешь в игру \"Города\". Это классическая словесная игра, где участники по очереди называют города.\n\nПравила игры:\n1. Я называю город.\n2. Ты должен назвать город, который начинается на последнюю допустимую букву моего города.\n3. Нельзя повторять города, которые уже были названы в этой игре.\n4. Если город заканчивается на букву \"ь\", \"ъ\" или \"ы\", нужно использовать предпоследнюю букву.\n5. Я называю только корректные города из базы данных, их проверять не нужно.\n6. Нужно называть только ныне существующие города и использовать их актуальные названия. Например, называть \"Новгород\" неправильно, потому что сейчас это \"Великий Новгород\".\n7. Нужно писать полные названия городов на русском языке.\n\nПримеры:\n- Я: \"Москва\" (заканчивается на \"а\")\n- Ты: \"Астрахань\" (начинается на \"а\", заканчивается на \"ь\", значит следующая буква - \"н\")\n- Я: \"Новосибирск\" (начинается на \"н\", заканчивается на \"к\")\n- Ты: \"Казань\" (начинается на \"к\")\n\n\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\nОтвет: <полное название города>\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после названия города.\n- Не задавай вопросов и не комментируй мой ход.\n",
+      "total_moves": 12,
+      "target": "Торопец",
+      "duration_seconds": 717.1712367534637,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: Цимлянск",
+          "player_answer": "Ответ: Цимлянск",
+          "feedback": "Принято. Мой город: Калашниково.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Цимлянск",
+            "current_letter": "ц",
+            "verdict": "valid",
+            "player_next_letter": "к",
+            "opponent_city": "Калашниково",
+            "next_letter": "о"
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: Олонец",
+          "player_answer": "Ответ: Олонец",
+          "feedback": "Принято. Мой город: Цесис.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Олонец",
+            "current_letter": "о",
+            "verdict": "valid",
+            "player_next_letter": "ц",
+            "opponent_city": "Цесис",
+            "next_letter": "с"
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: Сланцы",
+          "player_answer": "Ответ: Сланцы",
+          "feedback": "Принято. Мой город: Целина.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Сланцы",
+            "current_letter": "с",
+            "verdict": "valid",
+            "player_next_letter": "ц",
+            "opponent_city": "Целина",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: Александровац",
+          "player_answer": "Ответ: Александровац",
+          "feedback": "Принято. Мой город: Царичанка.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Александровац",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "ц",
+            "opponent_city": "Царичанка",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: Аранджеловац",
+          "player_answer": "Ответ: Аранджеловац",
+          "feedback": "Принято. Мой город: Циндао.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Аранджеловац",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "ц",
+            "opponent_city": "Циндао",
+            "next_letter": "о"
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Ответ: Островец",
+          "player_answer": "Ответ: Островец",
+          "feedback": "Принято. Мой город: Циттау.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Островец",
+            "current_letter": "о",
+            "verdict": "valid",
+            "player_next_letter": "ц",
+            "opponent_city": "Циттау",
+            "next_letter": "у"
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Ответ: Урай",
+          "player_answer": "Ответ: Урай",
+          "feedback": "Принято. Мой город: Йыгева.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Урай",
+            "current_letter": "у",
+            "verdict": "valid",
+            "player_next_letter": "й",
+            "opponent_city": "Йыгева",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Ответ: Алзамай",
+          "player_answer": "Ответ: Алзамай",
+          "feedback": "Принято. Мой город: Йосу.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Алзамай",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "й",
+            "opponent_city": "Йосу",
+            "next_letter": "у"
+          }
+        },
+        {
+          "move_number": 9,
+          "player_input": "Ответ: Удачный",
+          "player_answer": "Ответ: Удачный",
+          "feedback": "Принято. Мой город: Йонава.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Удачный",
+            "current_letter": "у",
+            "verdict": "valid",
+            "player_next_letter": "й",
+            "opponent_city": "Йонава",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 10,
+          "player_input": "Ответ: Аксай",
+          "player_answer": "Ответ: Аксай",
+          "feedback": "Принято. Мой город: Йорк.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Аксай",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "й",
+            "opponent_city": "Йорк",
+            "next_letter": "к"
+          }
+        },
+        {
+          "move_number": 11,
+          "player_input": "Ответ: Каменец",
+          "player_answer": "Ответ: Каменец",
+          "feedback": "Принято. Мой город: Цуриб.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Каменец",
+            "current_letter": "к",
+            "verdict": "valid",
+            "player_next_letter": "ц",
+            "opponent_city": "Цуриб",
+            "next_letter": "б"
+          }
+        },
+        {
+          "move_number": 12,
+          "player_input": "Ответ: Белиц",
+          "player_answer": "Ответ: Белиц",
+          "feedback": "Город 'Белиц' не найден в базе. Игра окончена.",
+          "is_valid": false,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Белиц",
+            "current_letter": "б",
+            "verdict": "not_found"
+          }
+        }
+      ],
+      "metadata": {
+        "start_city": "Торопец",
+        "current_letter": "б",
+        "last_opponent_city": "Цуриб",
+        "total_cities_used": 23,
+        "used_cities": [
+          "островец",
+          "аранджеловац",
+          "царичанка",
+          "урай",
+          "циндао",
+          "йыгева",
+          "алзамай",
+          "йосу",
+          "цуриб",
+          "сланцы",
+          "целина",
+          "йорк",
+          "калашниково",
+          "удачный",
+          "аксай",
+          "йонава",
+          "циттау",
+          "олонец",
+          "торопец",
+          "цесис",
+          "александровац",
+          "цимлянск",
+          "каменец"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

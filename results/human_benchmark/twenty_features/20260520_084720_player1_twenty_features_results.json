@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "timestamp": "20260520_084720",
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 11.0,
+    "avg_attempts_won": 11.0,
+    "median_attempts": 11,
+    "min_attempts": 11,
+    "max_attempts": 11,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "11": 1
+    },
+    "total_duration_seconds": 267.80391573905945,
+    "avg_duration_seconds": 267.80391573905945
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_2",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 11,
+      "target": "лиса",
+      "duration_seconds": 267.80391573905945,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: кот",
+          "player_answer": "кот",
+          "feedback": "Форма: обтекаемая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: лодка",
+          "player_answer": "лодка",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: болид",
+          "player_answer": "болид",
+          "feedback": "Материал: живые ткани",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: рыба",
+          "player_answer": "рыба",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: свин",
+          "player_answer": "свин",
+          "feedback": "Текстура: мягкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: птица",
+          "player_answer": "птица",
+          "feedback": "Температура-на-ощупь: тёплая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: ракета",
+          "player_answer": "ракета",
+          "feedback": "Запах: животный мускусный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: черепаха",
+          "player_answer": "черепаха",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: лягушка",
+          "player_answer": "лягушка",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: орех",
+          "player_answer": "орех",
+          "feedback": "Гибкость: высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: лиса",
+          "player_answer": "лиса",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 11,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_144231",
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 221.36121702194214,
+    "avg_duration_seconds": 221.36121702194214
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_52",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "совок",
+      "duration_seconds": 221.36121702194214,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: кольуо",
+          "player_answer": "кольуо",
+          "feedback": "Форма: Лопатообразная, с ручкой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Размер: Небольшой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Материал: металл",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: кольцо",
+          "player_answer": "кольцо",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: кружка",
+          "player_answer": "кружка",
+          "feedback": "Текстура: Гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Запах: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Вкус: несъедобный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Прозрачность: Непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Гибкость: Жёсткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Твёрдость: Твёрдый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Подвижность: неподвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Количество-частей/компонентов: Одна часть",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: топор",
+          "player_answer": "топор",
+          "feedback": "Назначение: Сбор мусора",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: ведро",
+          "player_answer": "ведро",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: контейнер",
+          "player_answer": "контейнер",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Встречаемость: распространённый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Стоимость/ценовая-категория: низкая/средняя",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "Опасность-для-человека: Низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: ещё",
+          "player_answer": "ещё",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

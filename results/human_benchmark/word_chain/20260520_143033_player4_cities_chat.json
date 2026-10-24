@@ -1,0 +1,274 @@
+{
+  "episode_id": "cities_64",
+  "model": "human:player4",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 21,
+  "target": "Кандава",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Кандава\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алматы",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Таураге.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ереван",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нанси.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кодинск.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Калуга",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арбузинка.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анапа",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Атамановка.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астрахань",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нагасаки.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Корк.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Казань",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новосергиевка.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Анкара",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арад.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Доха",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агдаш.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Шанхай",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Йена.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Атланта",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агджабеди.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Истра",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арысь.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Самара",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аннаполис.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Сатка",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аскиз.",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: зима",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Архангельск.",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Кострома",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Акколь.",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Луга",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Айзенштадт.",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Тула",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Актон.",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нара",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Астраханка.",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Архыз",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "Город 'Архыз' не найден в базе. Игра окончена.",
+      "turn": 21
+    }
+  ],
+  "metadata": {
+    "start_city": "Кандава",
+    "current_letter": "а",
+    "last_opponent_city": "Астраханка",
+    "total_cities_used": 41,
+    "used_cities": [
+      "истра",
+      "калуга",
+      "аскиз",
+      "зима",
+      "сатка",
+      "алматы",
+      "арад",
+      "ижевск",
+      "новосергиевка",
+      "кандава",
+      "шанхай",
+      "ереван",
+      "айзенштадт",
+      "арысь",
+      "тула",
+      "луга",
+      "агджабеди",
+      "атланта",
+      "иркутск",
+      "доха",
+      "йена",
+      "акколь",
+      "нанси",
+      "кострома",
+      "агдаш",
+      "корк",
+      "актон",
+      "анапа",
+      "самара",
+      "нара",
+      "атамановка",
+      "нагасаки",
+      "астраханка",
+      "арбузинка",
+      "таураге",
+      "архангельск",
+      "аннаполис",
+      "казань",
+      "астрахань",
+      "кодинск",
+      "анкара"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "timestamp": "20260520_104207",
+    "model_name": "human:player3",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player3"
+  },
+  "statistics": {
+    "model_name": "human:player3",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 10.0,
+    "avg_attempts_won": 10.0,
+    "median_attempts": 10,
+    "min_attempts": 10,
+    "max_attempts": 10,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "10": 1
+    },
+    "total_duration_seconds": 80.826664686203,
+    "avg_duration_seconds": 80.826664686203
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_9",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 10,
+      "target": "тетрадь",
+      "duration_seconds": 80.826664686203,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: одежда",
+          "player_answer": "одежда",
+          "feedback": "Форма: прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: упаковка",
+          "player_answer": "упаковка",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: картина",
+          "player_answer": "картина",
+          "feedback": "Материал: бумажный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: открытка",
+          "player_answer": "открытка",
+          "feedback": "Вес: Лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: постер",
+          "player_answer": "постер",
+          "feedback": "Текстура: гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: фотография",
+          "player_answer": "фотография",
+          "feedback": "Температура-на-ощупь: комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: рисунок",
+          "player_answer": "рисунок",
+          "feedback": "Запах: бумажный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: книга",
+          "player_answer": "книга",
+          "feedback": "Вкус: неприменимо",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: журнал",
+          "player_answer": "журнал",
+          "feedback": "Прозрачность: Непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: тетрадь",
+          "player_answer": "тетрадь",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 10,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

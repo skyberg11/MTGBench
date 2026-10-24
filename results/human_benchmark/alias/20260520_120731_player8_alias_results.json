@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "timestamp": "20260520_120731",
+    "model_name": "human:player8",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player8"
+  },
+  "statistics": {
+    "model_name": "human:player8",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 20.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "20": 1
+    },
+    "total_duration_seconds": 1228.554339170456,
+    "avg_duration_seconds": 1228.554339170456
+  },
+  "games": [
+    {
+      "game_id": "alias_25",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "Принс",
+      "duration_seconds": 1228.554339170456,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Это мужчина?",
+          "player_answer": "Это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Он живёт в США?",
+          "player_answer": "Он живёт в США?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Он сейчас жив?",
+          "player_answer": "Он сейчас жив?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Он жил в России?",
+          "player_answer": "Он жил в России?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Он учёный?",
+          "player_answer": "Он учёный?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Он политик?",
+          "player_answer": "Он политик?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Он умер после 2000 года?",
+          "player_answer": "Он умер после 2000 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Он был руководителем технологической компании?",
+          "player_answer": "Он был руководителем технологической компании?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Его деятельность была связана с искусством?",
+          "player_answer": "Его деятельность была связана с искусством?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Он был актёром?",
+          "player_answer": "Он был актёром?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Он снимался в Голливуде?",
+          "player_answer": "Он снимался в Голливуде?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Он родился в США?",
+          "player_answer": "Он родился в США?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Он умер в возрасте до 60 лет?",
+          "player_answer": "Он умер в возрасте до 60 лет?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: У него есть премия «Оскар»?",
+          "player_answer": "У него есть премия «Оскар»?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Это Хит Леджер?",
+          "player_answer": "Это Хит Леджер?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Это Филип Сеймур Хоффман?",
+          "player_answer": "Это Филип Сеймур Хоффман?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Он афроамериканец?",
+          "player_answer": "Он афроамериканец?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Этот человек известен в какой-то сфере кроме кино?",
+          "player_answer": "Этот человек известен в какой-то сфере кроме кино?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Он спортсмен?",
+          "player_answer": "Он спортсмен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Это Принс?",
+          "player_answer": "Это Принс?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Musicians/ru/Prins"
+      }
+    }
+  ],
+  "debug": []
+}

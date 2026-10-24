@@ -1,0 +1,14 @@
+{
+  "gpt-oss-120b": {
+    "endpoint": "https://openrouter.ai/api/v1",
+    "model_name": "openai/gpt-oss-120b:free"
+  },
+  "deepseek-v4-flash_t=0": {
+    "endpoint": "https://openrouter.ai/api/v1",
+    "model_name": "deepseek/deepseek-v4-flash:free",
+    "additional_chat_kwargs": {
+      "temperature": 0,
+      "reasoning_effort": "none"
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_125713",
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player6"
+  },
+  "statistics": {
+    "model_name": "human:player6",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 555.9367859363556,
+    "avg_duration_seconds": 555.9367859363556
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_39",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "корпус",
+      "duration_seconds": 555.9367859363556,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: стол",
+          "player_answer": "стол",
+          "feedback": "Форма: прямоугольная, сложная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: конверт",
+          "player_answer": "конверт",
+          "feedback": "Размер: Зависит от объекта",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: коробка",
+          "player_answer": "коробка",
+          "feedback": "Материал: Зависит от объекта",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: контейнер",
+          "player_answer": "контейнер",
+          "feedback": "Вес: различный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: шкаф",
+          "player_answer": "шкаф",
+          "feedback": "Текстура: Зависит от материала",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: шкатулка",
+          "player_answer": "шкатулка",
+          "feedback": "Температура-на-ощупь: зависит от материала",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Запах: слабый химический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: да",
+          "player_answer": "да",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: телефон",
+          "player_answer": "телефон",
+          "feedback": "Гибкость: Различная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: папка",
+          "player_answer": "папка",
+          "feedback": "Твёрдость: Различная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: ок",
+          "player_answer": "ок",
+          "feedback": "Подвижность: неподвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: клавиатура",
+          "player_answer": "клавиатура",
+          "feedback": "Количество-частей/компонентов: Зависит от сложности конструкции",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: отлично",
+          "player_answer": "отлично",
+          "feedback": "Назначение: защита, опора, основа",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: дверь",
+          "player_answer": "дверь",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: ага",
+          "player_answer": "ага",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: понимаю",
+          "player_answer": "понимаю",
+          "feedback": "Встречаемость: обычная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: чехол",
+          "player_answer": "чехол",
+          "feedback": "Стоимость/ценовая-категория: разная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: да",
+          "player_answer": "да",
+          "feedback": "Опасность-для-человека: Зависит от контекста использования",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: прошу, хватит",
+          "player_answer": "прошу хватит",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

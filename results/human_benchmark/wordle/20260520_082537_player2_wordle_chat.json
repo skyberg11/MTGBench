@@ -1,0 +1,49 @@
+{
+  "episode_id": "wordle_38",
+  "model": "human:player2",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 3,
+  "target": "химия",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: бекас",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"б\" - серая буква\n- \"е\" - серая буква\n- \"к\" - серая буква\n- \"а\" - серая буква\n- \"с\" - серая буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: вихрь",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"в\" - серая буква\n- \"и\" - зелёная буква\n- \"х\" - жёлтая буква\n- \"р\" - серая буква\n- \"ь\" - серая буква",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: химия",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"х\" - зелёная буква\n- \"и\" - зелёная буква\n- \"м\" - зелёная буква\n- \"и\" - зелёная буква\n- \"я\" - зелёная буква",
+      "turn": 3
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

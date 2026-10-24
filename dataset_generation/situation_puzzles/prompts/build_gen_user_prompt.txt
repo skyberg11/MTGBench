@@ -1,0 +1,17 @@
+
+Generate one original lateral thinking puzzle.
+
+Use ONLY the following parameter as a restriction:
+{value_0}
+
+Requirements:
+- One main hidden idea (twist).
+- The solution should be logical and realistic within the specified parameter.
+- The puzzle should be appropriate and not absurd.
+- The puzzle and solution should not have logical contradictions.
+- The history can be solved through questions "yes" or "no".
+- Avoid banal moves: "it was a dream", "the hero was dead from the beginning", "he was blind" and etc.
+- Try not to write too long puzzles.
+- The most important: the formulation should not contain explicit contradictions (for example, "he ate the steak, even without trying it")
+
+Return only JSON with the fields "setup", "solution" and "facts" as described in the system prompt without markdown.

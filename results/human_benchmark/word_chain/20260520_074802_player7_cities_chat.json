@@ -1,0 +1,166 @@
+{
+  "episode_id": "cities_23",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 12,
+  "target": "Биледжик",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Биледжик\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курск",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кола.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: анапа",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ацуги.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каменец.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Цимлянск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Казталовка.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алушта",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Аулы.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Карабаново.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Городея.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ялта",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Агартала.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абакан",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новичиха.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Азов",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Верея.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ярославль",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Луховицы.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Цимлянск",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Город 'Цимлянск' уже был назван раньше. Игра окончена.",
+      "turn": 12
+    }
+  ],
+  "metadata": {
+    "start_city": "Биледжик",
+    "current_letter": "ц",
+    "last_opponent_city": "Луховицы",
+    "total_cities_used": 23,
+    "used_cities": [
+      "биледжик",
+      "луховицы",
+      "курск",
+      "азов",
+      "ацуги",
+      "казталовка",
+      "агартала",
+      "оренбург",
+      "анапа",
+      "ялта",
+      "карабаново",
+      "кола",
+      "верея",
+      "алушта",
+      "аулы",
+      "абакан",
+      "городея",
+      "липецк",
+      "ярославль",
+      "новичиха",
+      "ижевск",
+      "цимлянск",
+      "каменец"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "timestamp": "20260520_072343",
+    "model_name": "human:player2",
+    "game_type": "cities",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "cities",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 8.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 8,
+    "min_attempts": 8,
+    "max_attempts": 8,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 89.19144916534424,
+    "avg_duration_seconds": 89.19144916534424
+  },
+  "games": [
+    {
+      "game_id": "cities_11",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "Ты играешь в игру \"Города\". Это классическая словесная игра, где участники по очереди называют города.\n\nПравила игры:\n1. Я называю город.\n2. Ты должен назвать город, который начинается на последнюю допустимую букву моего города.\n3. Нельзя повторять города, которые уже были названы в этой игре.\n4. Если город заканчивается на букву \"ь\", \"ъ\" или \"ы\", нужно использовать предпоследнюю букву.\n5. Я называю только корректные города из базы данных, их проверять не нужно.\n6. Нужно называть только ныне существующие города и использовать их актуальные названия. Например, называть \"Новгород\" неправильно, потому что сейчас это \"Великий Новгород\".\n7. Нужно писать полные названия городов на русском языке.\n\nПримеры:\n- Я: \"Москва\" (заканчивается на \"а\")\n- Ты: \"Астрахань\" (начинается на \"а\", заканчивается на \"ь\", значит следующая буква - \"н\")\n- Я: \"Новосибирск\" (начинается на \"н\", заканчивается на \"к\")\n- Ты: \"Казань\" (начинается на \"к\")\n\n\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\nОтвет: <полное название города>\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после названия города.\n- Не задавай вопросов и не комментируй мой ход.\n",
+      "total_moves": 8,
+      "target": "Хучитан",
+      "duration_seconds": 89.19144916534424,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: Нижний Новгород",
+          "player_answer": "Ответ: Нижний Новгород",
+          "feedback": "Принято. Мой город: Дижон.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Нижний Новгород",
+            "current_letter": "н",
+            "verdict": "valid",
+            "player_next_letter": "д",
+            "opponent_city": "Дижон",
+            "next_letter": "н"
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: Нячанг",
+          "player_answer": "Ответ: Нячанг",
+          "feedback": "Принято. Мой город: Гурзуф.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Нячанг",
+            "current_letter": "н",
+            "verdict": "valid",
+            "player_next_letter": "г",
+            "opponent_city": "Гурзуф",
+            "next_letter": "ф"
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: Фес",
+          "player_answer": "Ответ: Фес",
+          "feedback": "Принято. Мой город: Савона.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Фес",
+            "current_letter": "ф",
+            "verdict": "valid",
+            "player_next_letter": "с",
+            "opponent_city": "Савона",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: Александров",
+          "player_answer": "Ответ: Александров",
+          "feedback": "Принято. Мой город: Верхнеяркеево.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Александров",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "в",
+            "opponent_city": "Верхнеяркеево",
+            "next_letter": "о"
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: Орёл",
+          "player_answer": "Ответ: Орёл",
+          "feedback": "Принято. Мой город: Лебяжье.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Орёл",
+            "current_letter": "о",
+            "verdict": "valid",
+            "player_next_letter": "л",
+            "opponent_city": "Лебяжье",
+            "next_letter": "е"
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Ответ: Екатеринбург",
+          "player_answer": "Ответ: Екатеринбург",
+          "feedback": "Принято. Мой город: Ганчи.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Екатеринбург",
+            "current_letter": "е",
+            "verdict": "valid",
+            "player_next_letter": "г",
+            "opponent_city": "Ганчи",
+            "next_letter": "и"
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Ответ: Иваново",
+          "player_answer": "Ответ: Иваново",
+          "feedback": "Принято. Мой город: Оржица.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Иваново",
+            "current_letter": "и",
+            "verdict": "valid",
+            "player_next_letter": "о",
+            "opponent_city": "Оржица",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Ответ: Аргыз",
+          "player_answer": "Ответ: Аргыз",
+          "feedback": "Город 'Аргыз' не найден в базе. Игра окончена.",
+          "is_valid": false,
+          "metadata": {
+            "reasoning": "",
+            "guess": "Аргыз",
+            "current_letter": "а",
+            "verdict": "not_found"
+          }
+        }
+      ],
+      "metadata": {
+        "start_city": "Хучитан",
+        "current_letter": "а",
+        "last_opponent_city": "Оржица",
+        "total_cities_used": 15,
+        "used_cities": [
+          "гурзуф",
+          "хучитан",
+          "орел",
+          "иваново",
+          "дижон",
+          "нижний новгород",
+          "лебяжье",
+          "александров",
+          "оржица",
+          "верхнеяркеево",
+          "ганчи",
+          "екатеринбург",
+          "савона",
+          "нячанг",
+          "фес"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

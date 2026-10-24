@@ -1,0 +1,154 @@
+{
+  "episode_id": "cities_15",
+  "model": "human:player2",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 11,
+  "target": "Кемь",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Кемь\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Москва",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Апостолово.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Орёл",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Лиссабон.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Нижний Новгород",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Донской.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Йошкар-Ола",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ахты.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Тюмень",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Невель.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кварели.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Иркутск",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Красноборск.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Калининград",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Даллас.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Саратов",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Васильковка.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Александров",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Вуктыл.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Лиссабон",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Город 'Лиссабон' уже был назван раньше. Игра окончена.",
+      "turn": 11
+    }
+  ],
+  "metadata": {
+    "start_city": "Кемь",
+    "current_letter": "л",
+    "last_opponent_city": "Вуктыл",
+    "total_cities_used": 21,
+    "used_cities": [
+      "тюмень",
+      "ахты",
+      "александров",
+      "вуктыл",
+      "саратов",
+      "апостолово",
+      "васильковка",
+      "нижний новгород",
+      "калининград",
+      "невель",
+      "йошкар ола",
+      "лиссабон",
+      "кварели",
+      "иркутск",
+      "донской",
+      "москва",
+      "даллас",
+      "липецк",
+      "красноборск",
+      "орел",
+      "кемь"
+    ]
+  }
+}

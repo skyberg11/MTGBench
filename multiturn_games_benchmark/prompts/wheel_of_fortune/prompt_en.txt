@@ -1,0 +1,27 @@
+Let's play "Wheel of Fortune".
+
+In this game, you need to guess a hidden word. You can guess letters one at a time or try to guess the whole word. When you guess a letter, if it is in the word, it will be revealed. If the letter appears multiple times in the word, all occurrences will be revealed. You win either by guessing the whole word or by guessing all its letters. You lose if you run out of attempts without guessing the word.
+
+**Rules:**
+- You have {MAX_TURNS} attempts
+
+{REASONING_INSTRUCTION}
+
+You MUST use the exact final answer format!
+
+Example of guessing a letter:
+Answer: E
+
+Example of guessing a word:
+Answer: WORD: EXAMPLE
+
+IMPORTANT:
+- The final answer must start with the word "Answer:".
+- Do not add anything after the guessed letter or word.
+- Do not ask questions or comment on my move.
+
+---
+
+**Current state:**
+Word: {WORD_DISPLAY}
+Attempts used: {NUM_TURNS}/{MAX_TURNS}

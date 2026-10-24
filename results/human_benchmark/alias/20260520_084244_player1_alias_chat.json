@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_4",
+  "model": "human:player1",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Моисей",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из России?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из США?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Европы?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Азии?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Африки?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Австралии?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из Южной Америки?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он не из России?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он спортсмен?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он актёр?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он политик?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он учёный?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: его показывают по ТВ?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он уже умер?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это историческая личность?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он военный?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он писатель?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он известен своими произведениями?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он умер в 20 веке?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он умер в средневековье?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он умер раньше средневековья?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он философ?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он религиозный деятель?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это Иисус?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это Будда?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из древней Греции?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он жил на территории Европы?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он пророк?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это Муххамед?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Religious Figures/ru/Moisei"
+  }
+}

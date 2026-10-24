@@ -1,0 +1,39 @@
+{
+  "episode_id": "wordle_35",
+  "model": "human:player10",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 2,
+  "target": "театр",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: катер",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - серая буква\n- \"а\" - жёлтая буква\n- \"т\" - жёлтая буква\n- \"е\" - жёлтая буква\n- \"р\" - зелёная буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: театр",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "- \"т\" - зелёная буква\n- \"е\" - зелёная буква\n- \"а\" - зелёная буква\n- \"т\" - зелёная буква\n- \"р\" - зелёная буква",
+      "turn": 2
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

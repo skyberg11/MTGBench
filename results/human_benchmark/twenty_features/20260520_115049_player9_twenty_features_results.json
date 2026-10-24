@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "timestamp": "20260520_115049",
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player9"
+  },
+  "statistics": {
+    "model_name": "human:player9",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 9.0,
+    "avg_attempts_won": 9.0,
+    "median_attempts": 9,
+    "min_attempts": 9,
+    "max_attempts": 9,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "9": 1
+    },
+    "total_duration_seconds": 227.42696690559387,
+    "avg_duration_seconds": 227.42696690559387
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_16",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 9,
+      "target": "тюлень",
+      "duration_seconds": 227.42696690559387,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Курица",
+          "player_answer": "курица",
+          "feedback": "Форма: Овальная, обтекаемая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Стол",
+          "player_answer": "стол",
+          "feedback": "Размер: Средний, крупный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Ваза",
+          "player_answer": "ваза",
+          "feedback": "Материал: Кожа, мех",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Овца",
+          "player_answer": "овца",
+          "feedback": "Вес: тяжёлый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Волк",
+          "player_answer": "волк",
+          "feedback": "Текстура: гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Заяц",
+          "player_answer": "заяц",
+          "feedback": "Температура-на-ощупь: прохладная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Медведь",
+          "player_answer": "медведь",
+          "feedback": "Запах: Специфический, морской",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Морской котик",
+          "player_answer": "морской котик",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Тюлень",
+          "player_answer": "тюлень",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 9,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

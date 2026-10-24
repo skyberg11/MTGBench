@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "timestamp": "20260520_134536",
+    "model_name": "human:player10",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player10"
+  },
+  "statistics": {
+    "model_name": "human:player10",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 22.0,
+    "avg_attempts_won": 22.0,
+    "median_attempts": 22,
+    "min_attempts": 22,
+    "max_attempts": 22,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "22": 1
+    },
+    "total_duration_seconds": 1327.5462033748627,
+    "avg_duration_seconds": 1327.5462033748627
+  },
+  "games": [
+    {
+      "game_id": "alias_45",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 22,
+      "target": "Александр Грейам Белл",
+      "duration_seconds": 1327.5462033748627,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Этот человек — мужчина?",
+          "player_answer": "Этот человек — мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Этот человек жив в настоящее время?",
+          "player_answer": "Этот человек жив в настоящее время?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Он родился после 1900 года?",
+          "player_answer": "Он родился после 1900 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Он родился после 1800 года?",
+          "player_answer": "Он родился после 1800 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Он родом из Европы?",
+          "player_answer": "Он родом из Европы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Его деятельность была связана с искусством или литературой?",
+          "player_answer": "Его деятельность была связана с искусством или литературой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Его деятельность была связана с наукой?",
+          "player_answer": "Его деятельность была связана с наукой?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Он был физиком?",
+          "player_answer": "Он был физиком?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Он был химиком?",
+          "player_answer": "Он был химиком?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Он был биологом, натуралистом или врачом?",
+          "player_answer": "Он был биологом, натуралистом или врачом?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Он был математиком?",
+          "player_answer": "Он был математиком?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Он был астрономом?",
+          "player_answer": "Он был астрономом?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Он был изобретателем или инженером?",
+          "player_answer": "Он был изобретателем или инженером?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: Его изобретение связано с транспортом (автомобили, поезда, авиация)?",
+          "player_answer": "Его изобретение связано с транспортом (автомобили, поезда, авиация)?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Его изобретение связано со связью или передачей информации (телеграф, телефон, радио)?",
+          "player_answer": "Его изобретение связано со связью или передачей информации (телеграф, телефон, радио)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Он считается создателем радио?",
+          "player_answer": "Он считается создателем радио?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Его изобретение связано с телефоном?",
+          "player_answer": "Его изобретение связано с телефоном?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Он родом из Германии?",
+          "player_answer": "Он родом из Германии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Он родился в Италии?",
+          "player_answer": "Он родился в Италии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Он родился во Франции?",
+          "player_answer": "Он родился во Франции?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: Он родился в Великобритании (Шотландии)?",
+          "player_answer": "Он родился в Великобритании (Шотландии)?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: это Александр Грэм Белл?",
+          "player_answer": "это Александр Грэм Белл?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Inventors/ru/AleksandrGreiamBell"
+      }
+    }
+  ],
+  "debug": []
+}

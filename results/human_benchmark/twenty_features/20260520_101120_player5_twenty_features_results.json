@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamp": "20260520_101120",
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player5"
+  },
+  "statistics": {
+    "model_name": "human:player5",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 2.0,
+    "avg_attempts_won": 2.0,
+    "median_attempts": 2,
+    "min_attempts": 2,
+    "max_attempts": 2,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "2": 1
+    },
+    "total_duration_seconds": 19.18517827987671,
+    "avg_duration_seconds": 19.18517827987671
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_8",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 2,
+      "target": "чайник",
+      "duration_seconds": 19.18517827987671,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: автомобиль",
+          "player_answer": "автомобиль",
+          "feedback": "Форма: куполообразная с ручкой и носиком",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: чайник",
+          "player_answer": "чайник",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 2,
+        "features_used": [
+          "Цвет",
+          "Форма"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

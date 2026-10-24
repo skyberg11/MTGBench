@@ -1,0 +1,59 @@
+{
+  "episode_id": "wordle_29",
+  "model": "human:player2",
+  "game_type": "wordle",
+  "success": true,
+  "turns_used": 4,
+  "target": "кофта",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Ваш первый вариант слова.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: марка",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "- \"м\" - серая буква\n- \"а\" - жёлтая буква\n- \"р\" - серая буква\n- \"к\" - жёлтая буква\n- \"а\" - зелёная буква",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: квотаа",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Нужно назвать слово ровно из 5 букв.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: квота",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - зелёная буква\n- \"в\" - серая буква\n- \"о\" - жёлтая буква\n- \"т\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: кофта",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "- \"к\" - зелёная буква\n- \"о\" - зелёная буква\n- \"ф\" - зелёная буква\n- \"т\" - зелёная буква\n- \"а\" - зелёная буква",
+      "turn": 4
+    }
+  ],
+  "metadata": {
+    "word_length": 5,
+    "language": "ru"
+  }
+}

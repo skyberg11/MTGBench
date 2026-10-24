@@ -1,0 +1,318 @@
+{
+  "episode_id": "alias_35",
+  "model": "human:player2",
+  "game_type": "alias",
+  "success": false,
+  "turns_used": 30,
+  "target": "Хамфри Богарт",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Ты в совершенстве владеешь информацией о разных людях. Ты играешь в игру 'Алиас'. Загадан известный человек.\nКаждый ход ты можешь задавать ОДИН вопрос, на который можно ответить ТОЛЬКО 'да' или 'нет'. Цель — угадать человека за минимальное число вопросов. Учитывай, что количество ходов ограничено.\nКаждый твой ответ должен начинаться со слова 'ОТВЕТ', после него укажи либо ОДИН вопрос, либо итогового человека, и после этого больше ничего не пиши:\n(пример одного вопроса: 'ОТВЕТ: Это политик?') - в конце вопроса ставь вопросительный знак '?'\n(пример финального ответа: 'ОТВЕТ: Анджелина Джоли!') - в конце финального ответа ставь восклицательный знак '!'\nЗадавай вопросы таким образом, чтобы за минимальное их количество получить максимально подробную и разностороннюю информацию. Не объясняй, не пиши лишнего.\n\nТвой ход:",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это реальный человек?",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он еще жив?",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ты знаешь точно, когда он жил?",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ты знаешь примерный период, когда он жил?",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это легендарный персонаж?",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: это мужчина?",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из западных стран?",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из европы?",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он из сша?",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с политикой?",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с отцами основателями?",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с борьбой за независимость?",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он относится к коренным народам америки?",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он сам занимался политикой?",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он связан с военными действиями?",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он победил в какой-то битве?",
+      "turn": 16
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 16
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он воевал в большой войне?",
+      "turn": 17
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 17
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он воевал против европейцев?",
+      "turn": 18
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 18
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он воевал против коренных народов америки?",
+      "turn": 19
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 19
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он воевал в войне севера и юга?",
+      "turn": 20
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 20
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он воевал против американцев?",
+      "turn": 21
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 21
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: в войне, где он участвовал, его фракция победила?",
+      "turn": 22
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 22
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: этот человек непосредственно способствовал победе своей фракции в войне?",
+      "turn": 23
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 23
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: война, в которой участвовал этот человек, была в 18 веке?",
+      "turn": 24
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 24
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: ты знаешь, когда была война, в которой он участвовал?",
+      "turn": 25
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 25
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: про этого человека писали книги?",
+      "turn": 26
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 26
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: про него снимали кино?",
+      "turn": 27
+    },
+    {
+      "role": "user",
+      "content": "да",
+      "turn": 27
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он белый?",
+      "turn": 28
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 28
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он афроамериканец?",
+      "turn": 29
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 29
+    },
+    {
+      "role": "assistant",
+      "content": "ОТВЕТ: он азиат?",
+      "turn": 30
+    },
+    {
+      "role": "user",
+      "content": "нет",
+      "turn": 30
+    }
+  ],
+  "metadata": {
+    "bio_path": "/app/datasets/alias/Bio/Actors/ru/HamfriBogart"
+  }
+}

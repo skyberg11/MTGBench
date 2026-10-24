@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260520_135314",
+    "model_name": "human:player7",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player7"
+  },
+  "statistics": {
+    "model_name": "human:player7",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 544.1247217655182,
+    "avg_duration_seconds": 544.1247217655182
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_44",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "эстакада",
+      "duration_seconds": 544.1247217655182,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: волк",
+          "player_answer": "волк",
+          "feedback": "Форма: Линейная, вытянутая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: камень",
+          "player_answer": "камень",
+          "feedback": "Размер: Разный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: кот",
+          "player_answer": "кот",
+          "feedback": "Материал: металл, бетон",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: столб",
+          "player_answer": "столб",
+          "feedback": "Вес: очень тяжёлый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: булыжник",
+          "player_answer": "булыжник",
+          "feedback": "Текстура: гладкая/шероховатая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: дом",
+          "player_answer": "дом",
+          "feedback": "Температура-на-ощупь: Обычная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: мост",
+          "player_answer": "мост",
+          "feedback": "Запах: без запаха",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: здание",
+          "player_answer": "здание",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: дорога",
+          "player_answer": "дорога",
+          "feedback": "Прозрачность: Непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: цемент",
+          "player_answer": "цемент",
+          "feedback": "Гибкость: Негибкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: стена",
+          "player_answer": "стена",
+          "feedback": "Твёрдость: твердый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: забор",
+          "player_answer": "забор",
+          "feedback": "Подвижность: стационарный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: гора",
+          "player_answer": "гора",
+          "feedback": "Количество-частей/компонентов: много",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: многоэтажный дом",
+          "player_answer": "многоэтажный дом",
+          "feedback": "Назначение: транспортная инфраструктура",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: тоннель",
+          "player_answer": "тоннель",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: автострада",
+          "player_answer": "автострада",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: автомагистраль",
+          "player_answer": "автомагистраль",
+          "feedback": "Встречаемость: распространённый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: метро",
+          "player_answer": "метро",
+          "feedback": "Стоимость/ценовая-категория: высокая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: лифт",
+          "player_answer": "лифт",
+          "feedback": "Опасность-для-человека: Низкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: поезд",
+          "player_answer": "поезд",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

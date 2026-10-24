@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "timestamp": "20260520_132131",
+    "model_name": "human:player2",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player2"
+  },
+  "statistics": {
+    "model_name": "human:player2",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 16.0,
+    "avg_attempts_won": 16.0,
+    "median_attempts": 16,
+    "min_attempts": 16,
+    "max_attempts": 16,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "16": 1
+    },
+    "total_duration_seconds": 1733.5891075134277,
+    "avg_duration_seconds": 1733.5891075134277
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_40",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 16,
+      "target": "каска",
+      "duration_seconds": 1733.5891075134277,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: птица",
+          "player_answer": "птица",
+          "feedback": "Форма: Куполообразная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: купол",
+          "player_answer": "купол",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: теплица",
+          "player_answer": "теплица",
+          "feedback": "Материал: Металл/пластик/поликарбонат",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: беседка",
+          "player_answer": "беседка",
+          "feedback": "Вес: Легкий, средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: крышка",
+          "player_answer": "крышка",
+          "feedback": "Текстура: гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: палатка",
+          "player_answer": "палатка",
+          "feedback": "Температура-на-ощупь: Нейтральная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: часы",
+          "player_answer": "часы",
+          "feedback": "Запах: Слабый технический",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: зонт",
+          "player_answer": "зонт",
+          "feedback": "Вкус: Отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: зонтик",
+          "player_answer": "зонтик",
+          "feedback": "Прозрачность: Непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: корпус",
+          "player_answer": "корпус",
+          "feedback": "Гибкость: Жёсткая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: навес",
+          "player_answer": "навес",
+          "feedback": "Твёрдость: твердая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: лампа",
+          "player_answer": "лампа",
+          "feedback": "Подвижность: Незначительная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: бра",
+          "player_answer": "бра",
+          "feedback": "Количество-частей/компонентов: Несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: наушник",
+          "player_answer": "наушник",
+          "feedback": "Назначение: защита головы",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: шлем",
+          "player_answer": "шлем",
+          "feedback": "Происхождение: искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: каска",
+          "player_answer": "каска",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 16,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

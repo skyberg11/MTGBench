@@ -1,0 +1,82 @@
+{
+  "episode_id": "cities_3",
+  "model": "human:player7",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 5,
+  "target": "Воркута",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Воркута\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астрахань",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Нолинск.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Киев",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Васильковка.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Абакан",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Новоалександровск.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Курск",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Кикинда.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Архыз",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Город 'Архыз' не найден в базе. Игра окончена.",
+      "turn": 5
+    }
+  ],
+  "metadata": {
+    "start_city": "Воркута",
+    "current_letter": "а",
+    "last_opponent_city": "Кикинда",
+    "total_cities_used": 9,
+    "used_cities": [
+      "васильковка",
+      "воркута",
+      "киев",
+      "кикинда",
+      "нолинск",
+      "новоалександровск",
+      "курск",
+      "астрахань",
+      "абакан"
+    ]
+  }
+}

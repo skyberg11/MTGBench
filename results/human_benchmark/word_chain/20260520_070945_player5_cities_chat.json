@@ -1,0 +1,202 @@
+{
+  "episode_id": "cities_7",
+  "model": "human:player5",
+  "game_type": "cities",
+  "success": false,
+  "turns_used": 15,
+  "target": "Добруш",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Начинаем игру. Я начинаю с города \"Добруш\". Ваш ход.",
+      "turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Шаля",
+      "turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Яр.",
+      "turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Рязань",
+      "turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Невер.",
+      "turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ростов-на-Дону",
+      "turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Учарал.",
+      "turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Липецк",
+      "turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Каховка.",
+      "turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Алматы",
+      "turn": 5
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Тосно.",
+      "turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Оренбург",
+      "turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Гвардейск.",
+      "turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Казань",
+      "turn": 7
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Народичи.",
+      "turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Ижевск",
+      "turn": 8
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Краснослободск.",
+      "turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Караганда",
+      "turn": 9
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Асбест.",
+      "turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Томск",
+      "turn": 10
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Колима.",
+      "turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Астана",
+      "turn": 11
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Александруполис.",
+      "turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Самара",
+      "turn": 12
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Арциз.",
+      "turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Златоуст",
+      "turn": 13
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Ташла.",
+      "turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Антананариву",
+      "turn": 14
+    },
+    {
+      "role": "user",
+      "content": "Принято. Мой город: Учкуприк.",
+      "turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Ответ: Колыма",
+      "turn": 15
+    },
+    {
+      "role": "user",
+      "content": "Город 'Колыма' не найден в базе. Игра окончена.",
+      "turn": 15
+    }
+  ],
+  "metadata": {
+    "start_city": "Добруш",
+    "current_letter": "к",
+    "last_opponent_city": "Учкуприк",
+    "total_cities_used": 29,
+    "used_cities": [
+      "тосно",
+      "самара",
+      "арциз",
+      "караганда",
+      "народичи",
+      "колима",
+      "рязань",
+      "златоуст",
+      "шаля",
+      "учкуприк",
+      "оренбург",
+      "алматы",
+      "казань",
+      "невер",
+      "краснослободск",
+      "асбест",
+      "астана",
+      "александруполис",
+      "учарал",
+      "ташла",
+      "добруш",
+      "томск",
+      "ростов на дону",
+      "липецк",
+      "антананариву",
+      "гвардейск",
+      "каховка",
+      "яр",
+      "ижевск"
+    ]
+  }
+}

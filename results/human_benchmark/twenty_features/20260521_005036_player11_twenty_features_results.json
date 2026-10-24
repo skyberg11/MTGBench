@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "20260521_005036",
+    "model_name": "human:player11",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player11"
+  },
+  "statistics": {
+    "model_name": "human:player11",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 20.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 20,
+    "min_attempts": 20,
+    "max_attempts": 20,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 1120.0917501449585,
+    "avg_duration_seconds": 1120.0917501449585
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_55",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "",
+      "total_moves": 20,
+      "target": "пряник",
+      "duration_seconds": 1120.0917501449585,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: шоколад",
+          "player_answer": "шоколад",
+          "feedback": "Форма: Прямоугольная фигурная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: блокнот",
+          "player_answer": "блокнот",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: конфета",
+          "player_answer": "конфета",
+          "feedback": "Материал: тесто",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: кекс",
+          "player_answer": "кекс",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: пирог",
+          "player_answer": "пирог",
+          "feedback": "Текстура: Шероховатая гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: торт",
+          "player_answer": "торт",
+          "feedback": "Температура-на-ощупь: Комнатная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: бисквит",
+          "player_answer": "бисквит",
+          "feedback": "Запах: сладкий, медовый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: корж",
+          "player_answer": "корж",
+          "feedback": "Вкус: сладкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: медовик",
+          "player_answer": "медовик",
+          "feedback": "Прозрачность: непрозрачный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: чак-чак",
+          "player_answer": "чакчак",
+          "feedback": "Гибкость: жёсткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: грильяж",
+          "player_answer": "грильяж",
+          "feedback": "Твёрдость: твёрдый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: пирожное",
+          "player_answer": "пирожное",
+          "feedback": "Подвижность: неподвижный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: гранола",
+          "player_answer": "гранола",
+          "feedback": "Количество-частей/компонентов: Один",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: тарт",
+          "player_answer": "тарт",
+          "feedback": "Назначение: еда",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: галета",
+          "player_answer": "галета",
+          "feedback": "Происхождение: Искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: хлеб",
+          "player_answer": "хлеб",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: крутон",
+          "player_answer": "крутон",
+          "feedback": "Встречаемость: распространённый",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: чизкейк",
+          "player_answer": "чизкейк",
+          "feedback": "Стоимость/ценовая-категория: бюджетный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: запеканка",
+          "player_answer": "запеканка",
+          "feedback": "Опасность-для-человека: безопасный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: фондан",
+          "player_answer": "фондан",
+          "feedback": "no_more_features",
+          "is_valid": false,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 20,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость",
+          "Стоимость/ценовая-категория",
+          "Опасность-для-человека"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123120",
+    "model_name": "human:player3",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player3"
+  },
+  "statistics": {
+    "model_name": "human:player3",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 6.0,
+    "avg_attempts_won": 6.0,
+    "median_attempts": 6,
+    "min_attempts": 6,
+    "max_attempts": 6,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "6": 1
+    },
+    "total_duration_seconds": 162.19369220733643,
+    "avg_duration_seconds": 162.19369220733643
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_30",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 6,
+      "target": "специя",
+      "duration_seconds": 162.19369220733643,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: еще",
+          "player_answer": "еще",
+          "feedback": "Форма: порошок/зерна/кусочки",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: крупа",
+          "player_answer": "крупа",
+          "feedback": "Размер: Мелкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: бисер",
+          "player_answer": "бисер",
+          "feedback": "Материал: растительный/минеральный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: семена",
+          "player_answer": "семена",
+          "feedback": "Вес: лёгкий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: скраб",
+          "player_answer": "скраб",
+          "feedback": "Текстура: мелкозернистая/порошкообразная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: приправа",
+          "player_answer": "приправа",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 6,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

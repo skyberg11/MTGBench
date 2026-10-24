@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "timestamp": "20260520_123823",
+    "model_name": "human:player1",
+    "game_type": "cities",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "cities",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "avg_attempts": 8.0,
+    "avg_attempts_won": 0.0,
+    "median_attempts": 8,
+    "min_attempts": 8,
+    "max_attempts": 8,
+    "invalid_moves_total": 1,
+    "attempts_distribution": {
+      "failed": 1
+    },
+    "total_duration_seconds": 69.08793950080872,
+    "avg_duration_seconds": 69.08793950080872
+  },
+  "games": [
+    {
+      "game_id": "cities_59",
+      "status": "lost",
+      "won": false,
+      "initial_prompt": "Ты играешь в игру \"Города\". Это классическая словесная игра, где участники по очереди называют города.\n\nПравила игры:\n1. Я называю город.\n2. Ты должен назвать город, который начинается на последнюю допустимую букву моего города.\n3. Нельзя повторять города, которые уже были названы в этой игре.\n4. Если город заканчивается на букву \"ь\", \"ъ\" или \"ы\", нужно использовать предпоследнюю букву.\n5. Я называю только корректные города из базы данных, их проверять не нужно.\n6. Нужно называть только ныне существующие города и использовать их актуальные названия. Например, называть \"Новгород\" неправильно, потому что сейчас это \"Великий Новгород\".\n7. Нужно писать полные названия городов на русском языке.\n\nПримеры:\n- Я: \"Москва\" (заканчивается на \"а\")\n- Ты: \"Астрахань\" (начинается на \"а\", заканчивается на \"ь\", значит следующая буква - \"н\")\n- Я: \"Новосибирск\" (начинается на \"н\", заканчивается на \"к\")\n- Ты: \"Казань\" (начинается на \"к\")\n\n\n\nОБЯЗАТЕЛЬНО используй точный формат окончательного ответа:\nОтвет: <полное название города>\n\nВАЖНО:\n- Окончательный ответ должен начинаться со слова \"Ответ:\".\n- Не добавляй ничего после названия города.\n- Не задавай вопросов и не комментируй мой ход.\n",
+      "total_moves": 8,
+      "target": "Холм",
+      "duration_seconds": 69.08793950080872,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "Ответ: минск",
+          "player_answer": "Ответ: минск",
+          "feedback": "Принято. Мой город: Кавалерово.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "минск",
+            "current_letter": "м",
+            "verdict": "valid",
+            "player_next_letter": "к",
+            "opponent_city": "Кавалерово",
+            "next_letter": "о"
+          }
+        },
+        {
+          "move_number": 2,
+          "player_input": "Ответ: овьедо",
+          "player_answer": "Ответ: овьедо",
+          "feedback": "Принято. Мой город: Отавара.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "овьедо",
+            "current_letter": "о",
+            "verdict": "valid",
+            "player_next_letter": "о",
+            "opponent_city": "Отавара",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 3,
+          "player_input": "Ответ: абинск",
+          "player_answer": "Ответ: абинск",
+          "feedback": "Принято. Мой город: Киреевск.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "абинск",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "к",
+            "opponent_city": "Киреевск",
+            "next_letter": "к"
+          }
+        },
+        {
+          "move_number": 4,
+          "player_input": "Ответ: крымск",
+          "player_answer": "Ответ: крымск",
+          "feedback": "Принято. Мой город: Кандалакша.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "крымск",
+            "current_letter": "к",
+            "verdict": "valid",
+            "player_next_letter": "к",
+            "opponent_city": "Кандалакша",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 5,
+          "player_input": "Ответ: анапа",
+          "player_answer": "Ответ: анапа",
+          "feedback": "Принято. Мой город: Акташ.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "анапа",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "а",
+            "opponent_city": "Акташ",
+            "next_letter": "ш"
+          }
+        },
+        {
+          "move_number": 6,
+          "player_input": "Ответ: шахты",
+          "player_answer": "Ответ: шахты",
+          "feedback": "Принято. Мой город: Таруса.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "шахты",
+            "current_letter": "ш",
+            "verdict": "valid",
+            "player_next_letter": "т",
+            "opponent_city": "Таруса",
+            "next_letter": "а"
+          }
+        },
+        {
+          "move_number": 7,
+          "player_input": "Ответ: алупка",
+          "player_answer": "Ответ: алупка",
+          "feedback": "Принято. Мой город: Ангарск.",
+          "is_valid": true,
+          "metadata": {
+            "reasoning": "",
+            "guess": "алупка",
+            "current_letter": "а",
+            "verdict": "valid",
+            "player_next_letter": "а",
+            "opponent_city": "Ангарск",
+            "next_letter": "к"
+          }
+        },
+        {
+          "move_number": 8,
+          "player_input": "Ответ: крымск",
+          "player_answer": "Ответ: крымск",
+          "feedback": "Город 'крымск' уже был назван раньше. Игра окончена.",
+          "is_valid": false,
+          "metadata": {
+            "reasoning": "",
+            "guess": "крымск",
+            "current_letter": "к",
+            "verdict": "repeated"
+          }
+        }
+      ],
+      "metadata": {
+        "start_city": "Холм",
+        "current_letter": "к",
+        "last_opponent_city": "Ангарск",
+        "total_cities_used": 15,
+        "used_cities": [
+          "акташ",
+          "алупка",
+          "киреевск",
+          "кавалерово",
+          "крымск",
+          "овьедо",
+          "отавара",
+          "минск",
+          "шахты",
+          "ангарск",
+          "абинск",
+          "холм",
+          "анапа",
+          "кандалакша",
+          "таруса"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

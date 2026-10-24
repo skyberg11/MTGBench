@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "timestamp": "20260520_111423",
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player4"
+  },
+  "statistics": {
+    "model_name": "human:player4",
+    "game_type": "twenty_features",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 18.0,
+    "avg_attempts_won": 18.0,
+    "median_attempts": 18,
+    "min_attempts": 18,
+    "max_attempts": 18,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "18": 1
+    },
+    "total_duration_seconds": 176.26333785057068,
+    "avg_duration_seconds": 176.26333785057068
+  },
+  "games": [
+    {
+      "game_id": "twenty_features_13",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 18,
+      "target": "фара",
+      "duration_seconds": 176.26333785057068,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Форма: округлая/прямоугольная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Размер: средний",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Материал: Пластик/стекло/металл",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Вес: умеренный",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Текстура: Гладкая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Температура-на-ощупь: Прохладная/теплая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Запах: отсутствует",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Вкус: несъедобно",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Прозрачность: Прозрачная/непрозрачная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Гибкость: жесткий",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Твёрдость: Твердая",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Подвижность: фиксированная",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Количество-частей/компонентов: несколько",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: не знаю",
+          "player_answer": "не знаю",
+          "feedback": "Назначение: Освещение дороги",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: фонарь",
+          "player_answer": "фонарь",
+          "feedback": "Происхождение: Искусственное",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: лампа",
+          "player_answer": "лампа",
+          "feedback": "Живой/неживой: Неживой",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: светильник",
+          "player_answer": "светильник",
+          "feedback": "Встречаемость: В автомобиле",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: фара",
+          "player_answer": "фара",
+          "feedback": "correct",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "used_features_count": 18,
+        "features_used": [
+          "Цвет",
+          "Форма",
+          "Размер",
+          "Материал",
+          "Вес",
+          "Текстура",
+          "Температура-на-ощупь",
+          "Запах",
+          "Вкус",
+          "Прозрачность",
+          "Гибкость",
+          "Твёрдость",
+          "Подвижность",
+          "Количество-частей/компонентов",
+          "Назначение",
+          "Происхождение",
+          "Живой/неживой",
+          "Встречаемость"
+        ]
+      }
+    }
+  ],
+  "debug": []
+}

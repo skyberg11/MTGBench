@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "timestamp": "20260520_150220",
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player1"
+  },
+  "statistics": {
+    "model_name": "human:player1",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 14.0,
+    "avg_attempts_won": 14.0,
+    "median_attempts": 14,
+    "min_attempts": 14,
+    "max_attempts": 14,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "14": 1
+    },
+    "total_duration_seconds": 409.6125946044922,
+    "avg_duration_seconds": 409.6125946044922
+  },
+  "games": [
+    {
+      "game_id": "alias_56",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 14,
+      "target": "Наполеон Бонапарт",
+      "duration_seconds": 409.6125946044922,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: это мужчина?",
+          "player_answer": "это мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: известен год его рождения?",
+          "player_answer": "известен год его рождения?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: он уже умер?",
+          "player_answer": "он уже умер?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: он умер до 2000 года?",
+          "player_answer": "он умер до 2000 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: он умер до 1600 года?",
+          "player_answer": "он умер до 1600 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: он умер до 1900 года?",
+          "player_answer": "он умер до 1900 года?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: он умер до 1750 года?",
+          "player_answer": "он умер до 1750 года?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: известна страна его рождения?",
+          "player_answer": "известна страна его рождения?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: он родился в Европе*?",
+          "player_answer": "он родился в Европе*?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: он был учёный?",
+          "player_answer": "он был учёный?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: он был главой государства?",
+          "player_answer": "он был главой государства?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: он родился во Франции или Италиии?",
+          "player_answer": "он родился во Франции или Италиии?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: он был главой Франции?",
+          "player_answer": "он был главой Франции?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: это Наполеон?",
+          "player_answer": "это Наполеон?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Politicians/ru/NapoleonBonapart"
+      }
+    }
+  ],
+  "debug": []
+}

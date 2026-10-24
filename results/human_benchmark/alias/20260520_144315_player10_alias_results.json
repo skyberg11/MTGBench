@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "timestamp": "20260520_144315",
+    "model_name": "human:player10",
+    "game_type": "alias",
+    "model_config": null,
+    "cost": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "player_type": "human",
+    "username": "player10"
+  },
+  "statistics": {
+    "model_name": "human:player10",
+    "game_type": "alias",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "avg_attempts": 23.0,
+    "avg_attempts_won": 23.0,
+    "median_attempts": 23,
+    "min_attempts": 23,
+    "max_attempts": 23,
+    "invalid_moves_total": 0,
+    "attempts_distribution": {
+      "23": 1
+    },
+    "total_duration_seconds": 1213.8923115730286,
+    "avg_duration_seconds": 1213.8923115730286
+  },
+  "games": [
+    {
+      "game_id": "alias_50",
+      "status": "won",
+      "won": true,
+      "initial_prompt": "",
+      "total_moves": 23,
+      "target": "Сергей Брин",
+      "duration_seconds": 1213.8923115730286,
+      "moves": [
+        {
+          "move_number": 1,
+          "player_input": "ОТВЕТ: Этот человек — мужчина?",
+          "player_answer": "Этот человек — мужчина?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 2,
+          "player_input": "ОТВЕТ: Этот человек жив в настоящее время?",
+          "player_answer": "Этот человек жив в настоящее время?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 3,
+          "player_input": "ОТВЕТ: Он родом из США?",
+          "player_answer": "Он родом из США?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 4,
+          "player_input": "ОТВЕТ: Этот человек из Европы?",
+          "player_answer": "Этот человек из Европы?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 5,
+          "player_input": "ОТВЕТ: Этот человек стал известен в сфере искусства или развлечений?",
+          "player_answer": "Этот человек стал известен в сфере искусства или развлечений?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 6,
+          "player_input": "ОТВЕТ: Этот человек связан с политикой?",
+          "player_answer": "Этот человек связан с политикой?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 7,
+          "player_input": "ОТВЕТ: Этот человек спортсмен?",
+          "player_answer": "Этот человек спортсмен?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 8,
+          "player_input": "ОТВЕТ: Этот человек связан с наукой или технологиями?",
+          "player_answer": "Этот человек связан с наукой или технологиями?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 9,
+          "player_input": "ОТВЕТ: Он является лауреатом Нобелевской премии?",
+          "player_answer": "Он является лауреатом Нобелевской премии?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 10,
+          "player_input": "ОТВЕТ: Этот человек связан с IT или интернетом?",
+          "player_answer": "Этот человек связан с IT или интернетом?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 11,
+          "player_input": "ОТВЕТ: Этот человек является основателем или сооснователем известной технологической компании?",
+          "player_answer": "Этот человек является основателем или сооснователем известной технологической компании?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 12,
+          "player_input": "ОТВЕТ: Он родом из Великобритании?",
+          "player_answer": "Он родом из Великобритании?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 13,
+          "player_input": "ОТВЕТ: Он родился на территории бывшего СССР / России?",
+          "player_answer": "Он родился на территории бывшего СССР / России?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 14,
+          "player_input": "ОТВЕТ: Продукт его компании популярен во всем мире или преимущественно на территории бывшего СССР?",
+          "player_answer": "Продукт его компании популярен во всем мире или преимущественно на территории бывшего СССР?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 15,
+          "player_input": "ОТВЕТ: Он основал популярный мессенджер Telegram или социальную сеть «ВКонтакте»?",
+          "player_answer": "Он основал популярный мессенджер Telegram или социальную сеть «ВКонтакте»?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 16,
+          "player_input": "ОТВЕТ: Его компания связана с кибербезопасностью или антивирусным ПО?",
+          "player_answer": "Его компания связана с кибербезопасностью или антивирусным ПО?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 17,
+          "player_input": "ОТВЕТ: Его компания связана с поисковыми системами или интернет-сервисами?",
+          "player_answer": "Его компания связана с поисковыми системами или интернет-сервисами?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 18,
+          "player_input": "ОТВЕТ: Он является сооснователем компании «Яндекс»?",
+          "player_answer": "Он является сооснователем компании «Яндекс»?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 19,
+          "player_input": "ОТВЕТ: Он основал компанию в 1990-х годах?",
+          "player_answer": "Он основал компанию в 1990-х годах?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 20,
+          "player_input": "ОТВЕТ: Он основал компанию Mail.ru?",
+          "player_answer": "Он основал компанию Mail.ru?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 21,
+          "player_input": "ОТВЕТ: Его компания связана с онлайн-рекрутингом или поиском работы?",
+          "player_answer": "Его компания связана с онлайн-рекрутингом или поиском работы?",
+          "feedback": "нет",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 22,
+          "player_input": "ОТВЕТ: Этот человек связан с компанией Google?",
+          "player_answer": "Этот человек связан с компанией Google?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        },
+        {
+          "move_number": 23,
+          "player_input": "ОТВЕТ: это Сергей Брин?",
+          "player_answer": "это Сергей Брин?",
+          "feedback": "да",
+          "is_valid": true,
+          "metadata": null
+        }
+      ],
+      "metadata": {
+        "bio_path": "/app/datasets/alias/Bio/Entrepreneurs/ru/SergeiBrin"
+      }
+    }
+  ],
+  "debug": []
+}

@@ -1,0 +1,9 @@
+You have perfect mastery of words and their feature representations. You are playing the 'Guess the Word' game. An object has been secretely chosen, and on each turn one new feature of this object is revealed to you.
+After EVERY feature, you must make a decision: if you are SUFFICIENTLY CERTAIN you know the загаданное word — name it; if you're not ready yet and want to hear the next feature — say 'nei'.
+Goal: guess the word in minimal number of moves without wasting attempts. Keep in mind that the number of moves is limited.
+Each of your responses must start with the word 'ANSWER', followed by ONLY one word — either the guessed word or 'nei'. No questions, explanations, or extra text:
+(example of guessing: 'ANSWER: apple')
+(example of requesting next feature: 'ANSWER: nei')
+If you say the right word, the game ends. If the game isn't over, then you still haven't said the right word, and you need to try another one. There is no point in repeating the words.
+Never ask questions, don't explain, don't write extra text. Only one final answer after 'ANSWER'.
+Your turn: 
